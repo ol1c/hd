@@ -1,152 +1,171 @@
 import argparse
-import os
+import json
 import random
 import string
 from datetime import datetime, date, time, timedelta
 
-import psycopg2
-from psycopg2.extras import execute_values
 from faker import Faker
-from dateutil.relativedelta import relativedelta
-from dotenv import load_dotenv
 
 fake = Faker("pl_PL")
-rnd = random.Random()
+
+def with_seed(seed: int | None):
+    if seed is not None:
+        random.seed(seed)
+        try:
+            Faker.seed(seed)
+        except Exception:
+            pass
 
 def rand_time_on(day: date, start_hour=9, end_hour=18) -> datetime:
-    """Losowa godzina w zakresie [start_hour, end_hour) danego dnia."""
-    hour = rnd.randint(start_hour, max(start_hour, end_hour - 1))
-    minute = rnd.randrange(0, 60)
-    second = rnd.randrange(0, 60)
+    hour = random.randint(start_hour, max(start_hour, end_hour - 1))
+    minute = random.randrange(0, 60)
+    second = random.randrange(0, 60)
     return datetime.combine(day, time(hour, minute, second))
 
-def clamp(dt: datetime, start: datetime, end: datetime) -> datetime:
-    return min(max(dt, start), end)
-
-def insert_rooms(cur, n_rooms: int):
+def gen_rooms(n_rooms: int):
+    rooms = []
     floors = [0, 1, 2, 3]
-    rows = []
-    for i in range(n_rooms):
-        name = f"Sala {fake.color_name()} {rnd.choice(string.ascii_uppercase)}"
-        floor = rnd.choice(floors)
-        rows.append((name, floor))
-    execute_values(cur, "INSERT INTO rooms (name, floor) VALUES %s ON CONFLICT DO NOTHING", rows)
-    cur.execute("SELECT room_id FROM rooms")
-    return [r[0] for r in cur.fetchall()]
+    for i in range(1, n_rooms + 1):
+        name = f"Sala {fake.color_name()} {random.choice(string.ascii_uppercase)}"
+        floor = random.choice(floors)
+        rooms.append({
+            "room_id": i,
+            "name": name,
+            "floor": floor,
+        })
+    return rooms
 
-def insert_exhibitions(cur, room_ids, n_exh: int, horizon_months: int = 6):
-    """Tworzy wystawy o okresach trwania w +- horyzoncie czasowym względem dziś."""
+def gen_exhibitions(n_exh: int, rooms: list[dict]):
+    exhibitions = []
     today = date.today()
-    rows = []
-    for _ in range(n_exh):
-        # Okno wystawy: start w przedziale [-2m, +2m], czas trwania 2-60 dni
-        start = today + timedelta(days=rnd.randint(-60, 60))
-        duration = rnd.randint(2, 60)
+    for i in range(1, n_exh + 1):
+        start = today + timedelta(days=random.randint(-60, 60))
+        duration = random.randint(2, 60)
         end = start + timedelta(days=duration)
-        name = f"Wystawa {fake.word().title()} {rnd.randint(1,999)}"
-        room_id = rnd.choice(room_ids)
-        rows.append((name, start, end, room_id))
-    execute_values(cur,
-        "INSERT INTO exhibitions (name, exhibition_start, exhibition_end, room_id) VALUES %s",
-        rows)
-    cur.execute("SELECT exhibition_id, exhibition_start, exhibition_end, room_id FROM exhibitions")
-    return cur.fetchall()  # list of (id, start, end, room_id)
+        name = f"Wystawa {fake.word().title()} {random.randint(1,999)}"
+        room = random.choice(rooms)
+        exhibitions.append({
+            "exhibition_id": i,
+            "name": name,
+            "exhibition_start": start.isoformat(),
+            "exhibition_end": end.isoformat(),
+            "room_id": room["room_id"],
+        })
+    return exhibitions
 
-def insert_exhibits(cur, n_exhibits: int):
-    rows = []
-    for _ in range(n_exhibits):
+def gen_exhibits(n_exhibits: int):
+    exhibits = []
+    for i in range(1, n_exhibits + 1):
         name = f"{fake.word().title()} {fake.word().title()}"
-        author = fake.name() if rnd.random() < 0.85 else None
-        rows.append((name, author))
-    execute_values(cur, "INSERT INTO exhibits (name, author) VALUES %s ON CONFLICT DO NOTHING", rows)
-    cur.execute("SELECT exhibit_id FROM exhibits")
-    return [r[0] for r in cur.fetchall()]
+        author = fake.name() if random.random() < 0.85 else None
+        exhibits.append({
+            "exhibit_id": i,
+            "name": name,
+            "author": author,
+        })
+    return exhibits
 
-def link_exhibits(cur, exhibit_ids, exhibitions, min_per_exh=5, max_per_exh=20):
-    links = []
-    for exh_id, _, _, _ in exhibitions:
-        k = rnd.randint(min_per_exh, max_per_exh)
-        chosen = rnd.sample(exhibit_ids, k=min(k, len(exhibit_ids)))
+def gen_exhibit_exhibitions(exhibits: list[dict], exhibitions: list[dict], min_per_exh=5, max_per_exh=20):
+    links: list[dict] = []
+    exhibit_ids = [e["exhibit_id"] for e in exhibits]
+    for exh in exhibitions:
+        k = random.randint(min_per_exh, max_per_exh)
+        chosen = random.sample(exhibit_ids, k=min(k, len(exhibit_ids)))
         for ex_id in chosen:
-            links.append((ex_id, exh_id))
-    if links:
-        execute_values(cur,
-            "INSERT INTO exhibit_exhibitions (fk_exhibit_id, fk_exhibition_id) VALUES %s ON CONFLICT DO NOTHING",
-            links)
+            links.append({
+                "fk_exhibit_id": ex_id,
+                "fk_exhibition_id": exh["exhibition_id"],
+            })
+    return links
 
-def insert_visitors(cur, n_visitors: int):
-    rows = []
+def gen_visitors(n_visitors: int):
+    visitors = []
     today = date.today()
-    for _ in range(n_visitors):
+    for i in range(1, n_visitors + 1):
         name = fake.name()
-        # wizyty w oknie +-30 dni
-        visit_day = today + timedelta(days=rnd.randint(-30, 30))
+        visit_day = today + timedelta(days=random.randint(-30, 30))
         entry = rand_time_on(visit_day, 9, 18)
-        stay_minutes = rnd.randint(30, 240)
+        stay_minutes = random.randint(30, 240)
         exit_ = entry + timedelta(minutes=stay_minutes)
         # przytnij wyjście do 21:00 tego dnia
         exit_limit = datetime.combine(visit_day, time(21, 0, 0))
-        exit_ = min(exit_, exit_limit)
-        rows.append((name, visit_day, entry, exit_))
-    execute_values(cur,
-        "INSERT INTO visitors (name, visit_date, entry_time, exit_time) VALUES %s",
-        rows)
-    cur.execute("SELECT visitor_id, visit_date, entry_time, exit_time FROM visitors")
-    return cur.fetchall()  # list of tuples
+        if exit_ > exit_limit:
+            exit_ = exit_limit
+        visitors.append({
+            "visitor_id": i,
+            "name": name,
+            "visit_date": visit_day.isoformat(),
+            "entry_time": entry.isoformat(),
+            "exit_time": exit_.isoformat(),
+        })
+    return visitors
 
-def insert_exhibition_visits(cur, visitors, exhibitions):
-    """Tworzy odwiedziny wystaw przez zwiedzających, spójne z datami wystaw i oknem wizyty."""
-    # map wystaw aktywnych danego dnia
-    # Uwaga: upraszczamy — wybieramy wystawy gdzie visit_date ∈ [start, end].
-    rows = []
-    for visitor_id, vdate, v_entry, v_exit in visitors:
-        # Wystawy czynne w dniu wizyty
-        active = [(exh_id, start, end, room_id)
-                  for (exh_id, start, end, room_id) in exhibitions
-                  if start <= vdate <= end]
+def gen_exhibition_visits(visitors: list[dict], exhibitions: list[dict]):
+    visits = []
+    visit_id = 1
+    # Przerób zakresy dat wystaw na obiekty date dla filtrowania
+    exhibitions_idx = [{
+        "exhibition_id": e["exhibition_id"],
+        "start": date.fromisoformat(e["exhibition_start"]),
+        "end": date.fromisoformat(e["exhibition_end"]),
+    } for e in exhibitions]
+
+    for v in visitors:
+        vdate = date.fromisoformat(v["visit_date"])
+        v_entry = datetime.fromisoformat(v["entry_time"])
+        v_exit = datetime.fromisoformat(v["exit_time"])
+
+        active = [ex for ex in exhibitions_idx if ex["start"] <= vdate <= ex["end"]]
         if not active:
             continue
-        # Ten zwiedzający odwiedzi 1..5 wystaw, łączny czas w oknie [v_entry, v_exit]
-        k = rnd.randint(1, min(5, len(active)))
-        picks = rnd.sample(active, k=k)
-        # Ustal harmonogram: krótkie sloty, sekwencyjnie w oknie wizyty
-        current = v_entry + timedelta(minutes=rnd.randint(0, 20))
-        for exh_id, _, _, _ in picks:
-            dur = rnd.randint(10, 45)
+
+        k = random.randint(1, min(5, len(active)))
+        picks = random.sample(active, k=k)
+
+        current = v_entry + timedelta(minutes=random.randint(0, 20))
+        for ex in picks:
+            dur = random.randint(10, 45)
             e_in = current
             e_out = e_in + timedelta(minutes=dur)
             if e_out > v_exit:
                 break
-            rows.append((visitor_id, exh_id, e_in, e_out))
-            current = e_out + timedelta(minutes=rnd.randint(2, 15))
-    if rows:
-        execute_values(cur,
-            "INSERT INTO exhibition_visits (visitor_id, exhibition_id, entry_time, exit_time) VALUES %s",
-            rows)
+            visits.append({
+                "visit_id": visit_id,
+                "visitor_id": v["visitor_id"],
+                "exhibition_id": ex["exhibition_id"],
+                "entry_time": e_in.isoformat(),
+                "exit_time": e_out.isoformat(),
+            })
+            visit_id += 1
+            current = e_out + timedelta(minutes=random.randint(2, 15))
 
-load_dotenv()
-parser = argparse.ArgumentParser()
-parser.add_argument("--db", default=os.getenv("DB_URL", "postgresql://vt_user:vt_pass@localhost:5432/visitortrack"))
-parser.add_argument("--rooms", type=int, default=int(os.getenv("ROOMS", "8")))
-parser.add_argument("--exhibitions", type=int, default=int(os.getenv("EXHIBITIONS", "12")))
-parser.add_argument("--exhibits", type=int, default=int(os.getenv("EXHIBITS", "120")))
-parser.add_argument("--visitors", type=int, default=int(os.getenv("VISITORS", "200")))
+    return visits
+
+parser = argparse.ArgumentParser(description="VisitorTrack data generator (stdout JSON)")
+parser.add_argument("--rooms", type=int, default=15)
+parser.add_argument("--exhibitions", type=int, default=15)
+parser.add_argument("--exhibits", type=int, default=15*15)
+parser.add_argument("--visitors", type=int, default=15)
+parser.add_argument("--min-per-exhibition", type=int, default=5)
+parser.add_argument("--max-per-exhibition", type=int, default=20)
+parser.add_argument("--seed", type=int, default=None, help="Ustal ziarno RNG dla powtarzalności wyników")
 args = parser.parse_args()
 
-conn = psycopg2.connect(args.db)
-conn.autocommit = False
-try:
-    with conn.cursor() as cur:
-        room_ids = insert_rooms(cur, args.rooms)
-        exhibitions = insert_exhibitions(cur, room_ids, args.exhibitions)
-        exhibit_ids = insert_exhibits(cur, args.exhibits)
-        link_exhibits(cur, exhibit_ids, exhibitions)
-        visitors = insert_visitors(cur, args.visitors)
-        insert_exhibition_visits(cur, visitors, exhibitions)
-    conn.commit()
-    print("Wygenerowano dane VisitorTrack.")
-except Exception:
-    conn.rollback()
-    raise
-finally:
-    conn.close()
+with_seed(args.seed)
+
+rooms = gen_rooms(args.rooms)
+exhibitions = gen_exhibitions(args.exhibitions, rooms)
+exhibits = gen_exhibits(args.exhibits)
+exhibit_exhibitions = gen_exhibit_exhibitions(exhibits, exhibitions, args.min_per_exhibition, args.max_per_exhibition)
+visitors = gen_visitors(args.visitors)
+exhibition_visits = gen_exhibition_visits(visitors, exhibitions)
+
+out = {
+    "rooms": rooms,
+    "exhibitions": exhibitions,
+    "exhibits": exhibits,
+    "exhibit_exhibitions": exhibit_exhibitions,
+    "visitors": visitors,
+    "exhibition_visits": exhibition_visits,
+}
+print(json.dumps(out, ensure_ascii=False, indent=2))
