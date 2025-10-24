@@ -9,7 +9,10 @@ from typing import List, Dict, Any
 
 from faker import Faker
 
+from sql import *
+
 fake = Faker("en_GB")
+
 
 def with_seed(seed: int | None):
     if seed is not None:
@@ -19,17 +22,19 @@ def with_seed(seed: int | None):
         except Exception:
             pass
 
+
 def rand_time_on(day: date, start_hour=9, end_hour=18) -> datetime:
     hour = random.randint(start_hour, max(start_hour, end_hour - 1))
     minute = random.randrange(0, 60)
     second = random.randrange(0, 60)
     return datetime.combine(day, time(hour, minute, second))
 
+
 def gen_rooms(n_rooms: int):
     rooms = []
-    floors = [0, 1, 2, 3]
+    floors = [0, 1, 2]
     for i in range(1, n_rooms + 1):
-        name = f"Sala {fake.color_name()} {random.choice(string.ascii_uppercase)}"
+        name = f"Room {i}"
         floor = random.choice(floors)
         rooms.append({
             "room_id": i,
@@ -38,6 +43,7 @@ def gen_rooms(n_rooms: int):
         })
     return rooms
 
+
 def gen_exhibitions(n_exh: int, rooms: list[dict]):
     exhibitions = []
     today = date.today()
@@ -45,7 +51,7 @@ def gen_exhibitions(n_exh: int, rooms: list[dict]):
         start = today + timedelta(days=random.randint(-60, 60))
         duration = random.randint(2, 60)
         end = start + timedelta(days=duration)
-        name = f"Wystawa {fake.word().title()} {random.randint(1,999)}"
+        name = f"Exhibition {i}"  # {fake.word().title()} {random.randint(1,999)}"
         room = random.choice(rooms)
         exhibitions.append({
             "exhibition_id": i,
@@ -55,6 +61,7 @@ def gen_exhibitions(n_exh: int, rooms: list[dict]):
             "room_id": room["room_id"],
         })
     return exhibitions
+
 
 def gen_exhibits(n_exhibits: int):
     exhibits = []
@@ -68,6 +75,7 @@ def gen_exhibits(n_exhibits: int):
         })
     return exhibits
 
+
 def gen_exhibit_exhibitions(exhibits: list[dict], exhibitions: list[dict], min_per_exh=5, max_per_exh=20):
     links: list[dict] = []
     exhibit_ids = [e["exhibit_id"] for e in exhibits]
@@ -80,6 +88,7 @@ def gen_exhibit_exhibitions(exhibits: list[dict], exhibitions: list[dict], min_p
                 "fk_exhibition_id": exh["exhibition_id"],
             })
     return links
+
 
 def gen_visitors(n_visitors: int):
     visitors = []
@@ -102,6 +111,7 @@ def gen_visitors(n_visitors: int):
             "exit_time": exit_.isoformat(),
         })
     return visitors
+
 
 def gen_exhibition_visits(visitors: list[dict], exhibitions: list[dict]):
     visits = []
@@ -144,6 +154,7 @@ def gen_exhibition_visits(visitors: list[dict], exhibitions: list[dict]):
 
     return visits
 
+
 def write_csv(path: Path, rows: List[Dict[str, Any]], fieldnames: List[str]):
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", newline="", encoding="utf-8") as f:
@@ -152,14 +163,17 @@ def write_csv(path: Path, rows: List[Dict[str, Any]], fieldnames: List[str]):
         for r in rows:
             writer.writerow({k: r.get(k, "") for k in fieldnames})
 
+
 parser = argparse.ArgumentParser(description="VisitorTrack data generator")
 parser.add_argument("--out-dir", default="db", help="Katalog wyjściowy na pliki CSV")
+parser.add_argument("--out", default="out.sql", help="Ścieżka do pliku .sql")
 parser.add_argument("--rooms", type=int, default=15)
 parser.add_argument("--exhibitions", type=int, default=15)
-parser.add_argument("--exhibits", type=int, default=15*15)
+parser.add_argument("--exhibits", type=int, default=15 * 15)
 parser.add_argument("--visitors", type=int, default=15)
 parser.add_argument("--min-per-exhibition", type=int, default=5)
 parser.add_argument("--max-per-exhibition", type=int, default=20)
+parser.add_argument("--rows-per-insert", type=int, default=500, help="Ile wierszy w jednym INSERT ... VALUES")
 parser.add_argument("--seed", type=int, default=None, help="Ustal ziarno RNG dla powtarzalności wyników")
 args = parser.parse_args()
 
@@ -174,10 +188,75 @@ visitors = gen_visitors(args.visitors)
 exhibition_visits = gen_exhibition_visits(visitors, exhibitions)
 
 write_csv(out_dir / "rooms.csv", rooms, ["room_id", "name", "floor"])
-write_csv(out_dir / "exhibitions.csv", exhibitions, ["exhibition_id", "name", "exhibition_start", "exhibition_end", "room_id"])
+write_csv(out_dir / "exhibitions.csv", exhibitions,
+          ["exhibition_id", "name", "exhibition_start", "exhibition_end", "room_id"])
 write_csv(out_dir / "exhibits.csv", exhibits, ["exhibit_id", "name", "author"])
 write_csv(out_dir / "exhibit_exhibitions.csv", exhibit_exhibitions, ["fk_exhibit_id", "fk_exhibition_id"])
 write_csv(out_dir / "visitors.csv", visitors, ["visitor_id", "name", "visit_date", "entry_time", "exit_time"])
-write_csv(out_dir / "exhibition_visits.csv", exhibition_visits, ["visit_id", "visitor_id", "exhibition_id", "entry_time", "exit_time"])
+write_csv(out_dir / "exhibition_visits.csv", exhibition_visits,
+          ["visit_id", "visitor_id", "exhibition_id", "entry_time", "exit_time"])
 
 print(f"CSV zapisane do: {out_dir.resolve()}")
+
+with open(args.out, "w", encoding="utf-8") as fh:
+    fh.write("-- VisitorTrack data dump for MySQL\n")
+    fh.write("-- Generated by generate_data_sql_mysql.py\n\n")
+    fh.write("SET autocommit=0;\nSTART TRANSACTION;\n\n")
+
+
+    # INSERT-y: zachowujemy kolejność zależności (rooms -> exhibitions -> exhibits -> exhibit_exhibitions -> visitors -> exhibition_visits)
+    # rooms
+    rooms_cols = ["room_id", "name", "floor"]
+    rooms_rows = [[str(r["room_id"]), sql_str(r["name"]), str(r["floor"])] for r in rooms]
+    write_insert(fh, "rooms", rooms_cols, rooms_rows, args.rows_per_insert)
+
+    # exhibitions
+    ex_cols = ["exhibition_id", "name", "exhibition_start", "exhibition_end", "room_id"]
+    ex_rows = [[
+        str(e["exhibition_id"]),
+        sql_str(e["name"]),
+        e["exhibition_start"],
+        e["exhibition_end"],
+        str(e["room_id"])
+    ] for e in exhibitions]
+    write_insert(fh, "exhibitions", ex_cols, ex_rows, args.rows_per_insert)
+
+    # exhibits
+    eb_cols = ["exhibit_id", "name", "author"]
+    eb_rows = [[
+        str(x["exhibit_id"]),
+        sql_str(x["name"]),
+        sql_str(x["author"]) if x["author"] else "NULL"
+    ] for x in exhibits]
+    write_insert(fh, "exhibits", eb_cols, eb_rows, args.rows_per_insert)
+
+    # exhibit_exhibitions (łącznik)
+    link_cols = ["fk_exhibit_id", "fk_exhibition_id"]
+    link_rows = [[str(l["fk_exhibit_id"]), str(l["fk_exhibition_id"])] for l in exhibit_exhibitions]
+    write_insert(fh, "exhibit_exhibitions", link_cols, link_rows, args.rows_per_insert)
+
+    # visitors
+    v_cols = ["visitor_id", "name", "visit_date", "entry_time", "exit_time"]
+    v_rows = [[
+        str(v["visitor_id"]),
+        sql_str(v["name"]),
+        sql_date(v["visit_date"]),
+        sql_datetime(v["entry_time"]),
+        sql_datetime(v["exit_time"])
+    ] for v in visitors]
+    write_insert(fh, "visitors", v_cols, v_rows, args.rows_per_insert)
+
+    # exhibition_visits
+    ev_cols = ["visit_id", "visitor_id", "exhibition_id", "entry_time", "exit_time"]
+    ev_rows = [[
+        str(ev["visit_id"]),
+        str(ev["visitor_id"]),
+        str(ev["exhibition_id"]),
+        sql_datetime(ev["entry_time"]),
+        sql_datetime(ev["exit_time"])
+    ] for ev in exhibition_visits]
+    write_insert(fh, "exhibition_visits", ev_cols, ev_rows, args.rows_per_insert)
+
+    fh.write("COMMIT;\n")
+
+print(f"Zapisano INSERT-y do: {args.out}")

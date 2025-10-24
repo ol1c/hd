@@ -1,16 +1,16 @@
 exhibition_id,name,exhibition_start,exhibition_end,room_id
-1,Wystawa Asperiores 900,2025-09-18,2025-10-26,1
-2,Wystawa Laborum 522,2025-12-17,2026-01-20,8
-3,Wystawa Quibusdam 643,2025-09-06,2025-09-29,15
-4,Wystawa Dolores 825,2025-09-06,2025-10-20,14
-5,Wystawa Debitis 705,2025-12-21,2026-01-22,9
-6,Wystawa Inventore 893,2025-09-23,2025-10-02,11
-7,Wystawa Quia 885,2025-10-04,2025-11-05,2
-8,Wystawa Necessitatibus 870,2025-10-14,2025-11-18,9
-9,Wystawa Cumque 284,2025-12-23,2026-02-20,14
-10,Wystawa Incidunt 111,2025-11-19,2025-12-13,14
-11,Wystawa Debitis 212,2025-12-17,2026-01-26,3
-12,Wystawa Assumenda 117,2025-10-03,2025-11-11,1
-13,Wystawa Nisi 481,2025-11-02,2025-11-18,5
-14,Wystawa Saepe 907,2025-11-16,2026-01-04,13
-15,Wystawa Dolores 671,2025-11-08,2026-01-06,9
+1,Exhibition 1,2025-10-01,2025-11-13,2
+2,Exhibition 2,2025-10-12,2025-11-25,11
+3,Exhibition 3,2025-10-26,2025-11-10,9
+4,Exhibition 4,2025-12-10,2026-01-20,11
+5,Exhibition 5,2025-09-01,2025-10-29,15
+6,Exhibition 6,2025-09-07,2025-09-10,3
+7,Exhibition 7,2025-08-30,2025-09-18,7
+8,Exhibition 8,2025-11-16,2025-12-11,5
+9,Exhibition 9,2025-11-15,2025-12-19,14
+10,Exhibition 10,2025-08-29,2025-10-09,7
+11,Exhibition 11,2025-09-26,2025-11-07,7
+12,Exhibition 12,2025-09-05,2025-10-14,6
+13,Exhibition 13,2025-09-03,2025-09-14,15
+14,Exhibition 14,2025-10-14,2025-11-22,4
+15,Exhibition 15,2025-10-27,2025-10-30,15

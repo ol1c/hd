@@ -1,16 +1,16 @@
 room_id,name,floor
-1,Sala DarkCyan X,3
-2,Sala Tan P,0
-3,Sala DarkSlateGray U,1
-4,Sala Crimson T,1
-5,Sala DimGray O,2
-6,Sala LemonChiffon P,2
-7,Sala SandyBrown A,1
-8,Sala Purple H,1
-9,Sala Lavender O,1
-10,Sala DarkCyan S,1
-11,Sala LightCoral N,0
-12,Sala DarkSeaGreen J,3
-13,Sala SeaShell O,1
-14,Sala DarkSeaGreen Z,1
-15,Sala White O,1
+1,Room 1,0
+2,Room 2,1
+3,Room 3,1
+4,Room 4,2
+5,Room 5,0
+6,Room 6,0
+7,Room 7,1
+8,Room 8,2
+9,Room 9,2
+10,Room 10,0
+11,Room 11,0
+12,Room 12,0
+13,Room 13,0
+14,Room 14,0
+15,Room 15,1
