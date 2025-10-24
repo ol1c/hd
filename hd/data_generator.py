@@ -163,9 +163,26 @@ def write_csv(path: Path, rows: List[Dict[str, Any]], fieldnames: List[str]):
         for r in rows:
             writer.writerow({k: r.get(k, "") for k in fieldnames})
 
+def tsv_escape(value: Optional[Any]) -> str:
+    if value is None:
+        return r"\N"
+    else:
+        s = str(value)
+    # escape backslash first, then control chars
+    s = s.replace("\\", "\\\\").replace("\t", "\\t").replace("\n", "\\n").replace("\r", "\\r")
+    return s
+
+def write_bulk(path: Path, rows: List[Dict[str, Any]], columns: List[str]):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8", newline="") as f:
+        for r in rows:
+            line = "\t".join(tsv_escape(r.get(col)) for col in columns)
+            f.write(line + "\n")
+
 
 parser = argparse.ArgumentParser(description="VisitorTrack data generator")
-parser.add_argument("--out-csv-dir", default="db", help="Katalog wyjściowy na pliki CSV")
+parser.add_argument("--out-csv-dir", default="csv", help="Katalog wyjściowy na pliki CSV")
+parser.add_argument("--out-bulk-dir", default="bulk", help="Katalog wyjściowy na pliki BULK")
 parser.add_argument("--out-sql", default="out.sql", help="Ścieżka do pliku .sql")
 parser.add_argument("--rooms", type=int, default=15)
 parser.add_argument("--exhibitions", type=int, default=15)
@@ -197,6 +214,17 @@ write_csv(out_dir / "exhibition_visits.csv", exhibition_visits,
           ["visit_id", "visitor_id", "exhibition_id", "entry_time", "exit_time"])
 
 print(f"CSV zapisane do: {out_dir.resolve()}")
+
+out_dir = Path(args.out_bulk_dir)
+write_bulk(out_dir / "rooms.bulk", rooms, ["room_id", "name", "floor"])
+write_bulk(out_dir / "exhibitions.bulk", exhibitions, ["exhibition_id", "name", "exhibition_start", "exhibition_end", "room_id"])
+write_bulk(out_dir / "exhibits.bulk", exhibits, ["exhibit_id", "name", "author"])
+write_bulk(out_dir / "exhibit_exhibitions.bulk", exhibit_exhibitions, ["fk_exhibit_id", "fk_exhibition_id"])
+write_bulk(out_dir / "visitors.bulk", visitors, ["visitor_id", "name", "visit_date", "entry_time", "exit_time"])
+write_bulk(out_dir / "exhibition_visits.bulk", exhibition_visits, ["visit_id", "visitor_id", "exhibition_id", "entry_time", "exit_time"])
+
+
+print(f"BULK zapisane do: {out_dir.resolve()}")
 
 with open(args.out_sql, "w", encoding="utf-8") as fh:
     fh.write("-- VisitorTrack data dump for MySQL\n")

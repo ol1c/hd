@@ -1,0 +1,16 @@
+exhibition_id,name,exhibition_start,exhibition_end,room_id
+1,Exhibition 1,2025-11-02,2025-12-06,14
+2,Exhibition 2,2025-11-10,2025-12-01,14
+3,Exhibition 3,2025-10-25,2025-11-24,2
+4,Exhibition 4,2025-11-02,2025-11-15,8
+5,Exhibition 5,2025-09-18,2025-11-15,2
+6,Exhibition 6,2025-12-07,2026-01-19,15
+7,Exhibition 7,2025-12-07,2026-01-16,10
+8,Exhibition 8,2025-10-25,2025-11-18,9
+9,Exhibition 9,2025-10-06,2025-11-23,4
+10,Exhibition 10,2025-11-13,2025-11-20,4
+11,Exhibition 11,2025-10-03,2025-10-24,5
+12,Exhibition 12,2025-10-07,2025-10-15,10
+13,Exhibition 13,2025-10-17,2025-11-12,10
+14,Exhibition 14,2025-10-17,2025-12-15,1
+15,Exhibition 15,2025-11-12,2025-12-10,8
