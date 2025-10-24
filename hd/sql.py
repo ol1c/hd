@@ -12,8 +12,10 @@ def sql_str(value: Optional[str]) -> str:
 def sql_date(d: date) -> str:
     return f"'{d.strftime('%Y-%m-%d')}'"
 
-def sql_datetime(dt: datetime) -> str:
-    return f"'{dt.strftime('%Y-%m-%d %H:%M:%S')}'"
+def sql_datetime(dt: str) -> str:
+    # return f"'{dt.strftime('%Y-%m-%d %H:%M:%S')}'"
+    date, time = dt.split('T')
+    return f"{date} {time}"
 
 def chunked(seq, n):
     for i in range(0, len(seq), n):
