@@ -9,7 +9,7 @@ from typing import List, Dict, Any
 
 from faker import Faker
 
-fake = Faker("pl_PL")
+fake = Faker("en_GB")
 
 def with_seed(seed: int | None):
     if seed is not None:

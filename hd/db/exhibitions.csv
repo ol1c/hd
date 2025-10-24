@@ -1,16 +1,16 @@
 exhibition_id,name,exhibition_start,exhibition_end,room_id
-1,Wystawa 7 683,2025-09-01,2025-10-12,8
-2,Wystawa Słowacki 823,2025-09-23,2025-11-16,2
-3,Wystawa Obszar 800,2025-09-16,2025-09-26,15
-4,Wystawa Wysiłek 398,2025-10-05,2025-10-16,3
-5,Wystawa Określony 169,2025-12-14,2026-01-16,8
-6,Wystawa Wrogi 72,2025-10-11,2025-12-01,9
-7,Wystawa U 336,2025-09-05,2025-10-06,13
-8,Wystawa Żaba 490,2025-12-14,2026-01-11,10
-9,Wystawa Klub 32,2025-10-16,2025-12-11,9
-10,Wystawa Broda 220,2025-12-22,2026-01-12,12
-11,Wystawa Ludowy 834,2025-11-26,2026-01-18,11
-12,Wystawa Bać Się 769,2025-11-10,2025-12-04,13
-13,Wystawa Taniec 277,2025-09-29,2025-11-18,3
-14,Wystawa Mebel 537,2025-10-28,2025-11-08,6
-15,Wystawa Jedenaście 469,2025-10-24,2025-11-15,6
+1,Wystawa Asperiores 900,2025-09-18,2025-10-26,1
+2,Wystawa Laborum 522,2025-12-17,2026-01-20,8
+3,Wystawa Quibusdam 643,2025-09-06,2025-09-29,15
+4,Wystawa Dolores 825,2025-09-06,2025-10-20,14
+5,Wystawa Debitis 705,2025-12-21,2026-01-22,9
+6,Wystawa Inventore 893,2025-09-23,2025-10-02,11
+7,Wystawa Quia 885,2025-10-04,2025-11-05,2
+8,Wystawa Necessitatibus 870,2025-10-14,2025-11-18,9
+9,Wystawa Cumque 284,2025-12-23,2026-02-20,14
+10,Wystawa Incidunt 111,2025-11-19,2025-12-13,14
+11,Wystawa Debitis 212,2025-12-17,2026-01-26,3
+12,Wystawa Assumenda 117,2025-10-03,2025-11-11,1
+13,Wystawa Nisi 481,2025-11-02,2025-11-18,5
+14,Wystawa Saepe 907,2025-11-16,2026-01-04,13
+15,Wystawa Dolores 671,2025-11-08,2026-01-06,9
