@@ -1,16 +1,16 @@
 room_id,name,floor
-1,Room 1,1
+1,Room 1,0
 2,Room 2,0
-3,Room 3,2
-4,Room 4,1
+3,Room 3,0
+4,Room 4,2
 5,Room 5,1
-6,Room 6,2
-7,Room 7,1
+6,Room 6,0
+7,Room 7,2
 8,Room 8,1
-9,Room 9,0
-10,Room 10,0
+9,Room 9,2
+10,Room 10,1
 11,Room 11,0
-12,Room 12,1
+12,Room 12,2
 13,Room 13,2
 14,Room 14,1
 15,Room 15,1

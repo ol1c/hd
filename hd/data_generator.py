@@ -176,7 +176,7 @@ def write_bulk(path: Path, rows: List[Dict[str, Any]], columns: List[str]):
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8", newline="") as f:
         for r in rows:
-            line = "\t".join(tsv_escape(r.get(col)) for col in columns)
+            line = "|".join(tsv_escape(r.get(col)) for col in columns)
             f.write(line + "\n")
 
 
