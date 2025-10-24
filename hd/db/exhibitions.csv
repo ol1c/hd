@@ -1,0 +1,16 @@
+exhibition_id,name,exhibition_start,exhibition_end,room_id
+1,Wystawa 7 683,2025-09-01,2025-10-12,8
+2,Wystawa Słowacki 823,2025-09-23,2025-11-16,2
+3,Wystawa Obszar 800,2025-09-16,2025-09-26,15
+4,Wystawa Wysiłek 398,2025-10-05,2025-10-16,3
+5,Wystawa Określony 169,2025-12-14,2026-01-16,8
+6,Wystawa Wrogi 72,2025-10-11,2025-12-01,9
+7,Wystawa U 336,2025-09-05,2025-10-06,13
+8,Wystawa Żaba 490,2025-12-14,2026-01-11,10
+9,Wystawa Klub 32,2025-10-16,2025-12-11,9
+10,Wystawa Broda 220,2025-12-22,2026-01-12,12
+11,Wystawa Ludowy 834,2025-11-26,2026-01-18,11
+12,Wystawa Bać Się 769,2025-11-10,2025-12-04,13
+13,Wystawa Taniec 277,2025-09-29,2025-11-18,3
+14,Wystawa Mebel 537,2025-10-28,2025-11-08,6
+15,Wystawa Jedenaście 469,2025-10-24,2025-11-15,6
