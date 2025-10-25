@@ -12,6 +12,11 @@ def write_csv(path: Path, rows: List[Dict[str, Any]], fieldnames: List[str]):
             writer.writerow({k: r.get(k, "") for k in fieldnames})
 
 
+def save_exhibits_csv(out_dir: Path, exhibits):
+    write_csv(out_dir / "StockCSV.csv", exhibits, ["exhibit_id", "name", "author"])
+    print(f"StockCSV zapisane do: {out_dir.resolve()}")
+
+
 def save_csv(out_dir: Path, rooms, exhibitions, exhibits, exhibit_exhibitions, visitors, exhibition_visits):
     write_csv(out_dir / "rooms.csv", rooms, ["room_id", "name", "floor"])
     write_csv(out_dir / "exhibitions.csv", exhibitions,

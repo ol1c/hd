@@ -3,6 +3,7 @@ from datetime import datetime, date, time, timedelta
 from faker import Faker
 
 fake = Faker("en_GB")
+EXHIBIT_TYPES = ["rzeźba", "obraz", "fotografia", "instalacja", "grafika"]
 
 
 def with_seed(seed: int | None):
@@ -56,13 +57,22 @@ def gen_exhibitions(n_exh: int, rooms: list[dict]):
 
 def gen_exhibits(n_exhibits: int):
     exhibits = []
+    current_year = date.today().year
     for i in range(1, n_exhibits + 1):
         name = f"{fake.word().title()} {fake.word().title()}"
         author = fake.name() if random.random() < 0.85 else "Pieter Stashkov"
+        creation_year = random.randint(1500, current_year)
+        acquisition_year = random.randint(creation_year, current_year)
+        typ = random.choice(EXHIBIT_TYPES)
+        value = round(random.uniform(5_000, 5_000_000), 2)
         exhibits.append({
             "exhibit_id": i,
             "name": name,
             "author": author,
+            "creation_year": creation_year,
+            "acquisition_year": acquisition_year,
+            "type": typ,
+            "value": value,
         })
     return exhibits
 

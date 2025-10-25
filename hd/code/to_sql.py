@@ -1,6 +1,7 @@
 import argparse
 from datetime import datetime, date
 from typing import List, Optional
+from pathlib import Path
 
 
 def sql_str(value: Optional[str]) -> str:
@@ -31,7 +32,7 @@ def write_insert(fh, table: str, columns: List[str], rows: List[List[str]], rows
         fh.write(f"INSERT INTO `{table}` ({col_list}) VALUES\n  {values};\n\n")
 
 def save_sql(args, rooms, exhibitions, exhibits, exhibit_exhibitions, visitors, exhibition_visits):
-    with open(args.out_sql, "w", encoding="utf-8") as fh:
+    with open(str(Path(args.out_sql_dir) / "insert.sql"), "w", encoding="utf-8") as fh:
         fh.write("SET autocommit=0;\nSTART TRANSACTION;\n\n")
 
         # INSERT-y: zachowujemy kolejność zależności (rooms -> exhibitions -> exhibits -> exhibit_exhibitions -> visitors -> exhibition_visits)
@@ -89,4 +90,4 @@ def save_sql(args, rooms, exhibitions, exhibits, exhibit_exhibitions, visitors, 
 
         fh.write("COMMIT;\n")
 
-    print(f"INSERT zapisane do: {args.out_sql}")
+    print(f"INSERT zapisane do: {args.out_sql_dir}")
