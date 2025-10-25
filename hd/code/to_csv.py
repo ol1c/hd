@@ -14,7 +14,7 @@ def write_csv(path: Path, rows: List[Dict[str, Any]], fieldnames: List[str]):
 
 def save_exhibits_csv(out_dir: Path, exhibits):
     write_csv(out_dir / "StockCSV.csv", exhibits, ["exhibit_id", "name", "author"])
-    print(f"StockCSV zapisane do: {out_dir.resolve()}")
+    print(f"StockCSV zapisane do: {out_dir.resolve() / "StockCSV.csv"}")
 
 
 def save_csv(out_dir: Path, rooms, exhibitions, exhibits, exhibit_exhibitions, visitors, exhibition_visits):
@@ -28,3 +28,5 @@ def save_csv(out_dir: Path, rooms, exhibitions, exhibits, exhibit_exhibitions, v
               ["visit_id", "visitor_id", "exhibition_id", "entry_time", "exit_time"])
 
     print(f"CSV zapisane do: {out_dir.resolve()}")
+
+    save_exhibits_csv(out_dir, exhibits)

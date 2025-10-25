@@ -1,6 +1,8 @@
 from pathlib import Path
 from typing import List, Dict, Any, Optional
 
+from to_csv import save_exhibits_csv
+
 
 def tsv_escape(value: Optional[Any]) -> str:
     if value is None:
@@ -31,3 +33,5 @@ def save_bulk(out_dir: Path, rooms, exhibitions, exhibits, exhibit_exhibitions, 
                ["visit_id", "visitor_id", "exhibition_id", "entry_time", "exit_time"])
 
     print(f"BULK zapisane do: {out_dir.resolve()}")
+
+    save_exhibits_csv(out_dir, exhibits)
