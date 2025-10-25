@@ -5,7 +5,7 @@ from to_bulk import save_bulk
 from data_generator import gen_data
 from pathlib import Path
 
-#  main()
+
 parser = argparse.ArgumentParser(description="VisitorTrack data generator")
 parser.add_argument("--csv", default=False, help="Zapis do pliku CSV")
 parser.add_argument("--sql", default=False, help="Zapis do pliku SQL")
