@@ -43,7 +43,7 @@ def gen_exhibitions(n_exh: int, rooms: list[dict]):
         start = today + timedelta(days=random.randint(-60, 60))
         duration = random.randint(2, 60)
         end = start + timedelta(days=duration)
-        name = f"Exhibition {i}"  # {fake.word().title()} {random.randint(1,999)}"
+        name = f"Exhibition {i}" 
         room = random.choice(rooms)
         exhibitions.append({
             "exhibition_id": i,
@@ -100,7 +100,7 @@ def gen_visitors(n_visitors: int):
         entry = rand_time_on(visit_day, 9, 18)
         stay_minutes = random.randint(30, 240)
         exit_ = entry + timedelta(minutes=stay_minutes)
-        # przytnij wyjście do 21:00 tego dnia
+        # do 21:00
         exit_limit = datetime.combine(visit_day, time(21, 0, 0))
         if exit_ > exit_limit:
             exit_ = exit_limit
@@ -117,7 +117,7 @@ def gen_visitors(n_visitors: int):
 def gen_exhibition_visits(visitors: list[dict], exhibitions: list[dict]):
     visits = []
     visit_id = 1
-    # Przerób zakresy dat wystaw na obiekty date dla filtrowania
+
     exhibitions_idx = [{
         "exhibition_id": e["exhibition_id"],
         "start": date.fromisoformat(e["exhibition_start"]),

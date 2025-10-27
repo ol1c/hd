@@ -9,7 +9,7 @@ def tsv_escape(value: Optional[Any]) -> str:
         return r"\N"
     else:
         s = str(value)
-    # escape backslash first, then control chars
+    # nie wiem co się dzieje ale buja
     s = s.replace("\\", "\\\\").replace("\t", "\\t").replace("\n", "\\n").replace("\r", "\\r")
     return s
 
