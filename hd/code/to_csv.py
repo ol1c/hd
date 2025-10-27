@@ -13,7 +13,7 @@ def write_csv(path: Path, rows: List[Dict[str, Any]], fieldnames: List[str]):
 
 
 def save_exhibits_csv(out_dir: Path, exhibits):
-    write_csv(out_dir / "StockCSV.csv", exhibits, ["exhibit_id", "name", "author"])
+    write_csv(out_dir / "StockCSV.csv", exhibits, ["exhibit_id", "name", "author", "creation_year", "acquisition_year", "type", "value"])
     print(f"StockCSV zapisane do: {out_dir.resolve() / "StockCSV.csv"}")
 
 
