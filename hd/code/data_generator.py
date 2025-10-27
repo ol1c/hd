@@ -57,10 +57,8 @@ def gen_rooms(n_rooms: int):
 
 def gen_exhibitions(n_exh: int, rooms: list[dict]):
     exhibitions = []
-    # bookings: room_id -> list of (start_date, end_date)
     bookings = {room["room_id"]: [] for room in rooms}
     room_ids = [room["room_id"] for room in rooms]
-    # rooms_count = len(room_ids)
 
     base_month = _first_day_of_month(date.today())
     prev_start = base_month
@@ -74,8 +72,6 @@ def gen_exhibitions(n_exh: int, rooms: list[dict]):
 
             free_rooms = []
 
-            # shuffled = room_ids[:]
-            # random.shuffle(shuffled)
             for rid in room_ids:
                 is_free = True
                 for b_start, b_end in bookings[rid]:
@@ -95,27 +91,10 @@ def gen_exhibitions(n_exh: int, rooms: list[dict]):
                     "exhibition_end": candidate_end.isoformat(),
                     "room_id": assigned_room,
                 })
-                # next exhibition cannot start earlier than this one
                 prev_start = candidate_start
                 break
 
-            # otherwise move to the next month
             candidate_month = _first_day_next_month(candidate_month)
-    # exhibitions = []
-    # today = date.today()
-    # for i in range(1, n_exh + 1):
-    #     start = today + timedelta(days=random.randint(-60, 60))
-    #     duration = random.randint(2, 60)
-    #     end = start + timedelta(days=duration)
-    #     name = f"Exhibition {i}"
-    #     room = random.choice(rooms)
-    #     exhibitions.append({
-    #         "exhibition_id": i,
-    #         "name": name,
-    #         "exhibition_start": start.isoformat(),
-    #         "exhibition_end": end.isoformat(),
-    #         "room_id": room["room_id"],
-    #     })
     return exhibitions
 
 
