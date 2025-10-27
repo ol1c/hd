@@ -22,6 +22,25 @@ def rand_time_on(day: date, start_hour=9, end_hour=18) -> datetime:
     return datetime.combine(day, time(hour, minute, second))
 
 
+def _first_day_of_month(d: date) -> date:
+    return date(d.year, d.month, 1)
+
+
+def _first_day_next_month(d: date) -> date:
+    if d.month == 12:
+        return date(d.year + 1, 1, 1)
+    return date(d.year, d.month + 1, 1)
+
+
+def _month_end(d: date) -> date:
+    return _first_day_next_month(d) - timedelta(days=1)
+
+
+def _overlaps(a_start: date, a_end: date, b_start: date, b_end: date) -> bool:
+    # True if ranges [a_start, a_end] and [b_start, b_end] overlap (inclusive)
+    return not (a_end < b_start or b_end < a_start)
+
+
 def gen_rooms(n_rooms: int):
     rooms = []
     floors = [0, 1, 2]
@@ -38,20 +57,65 @@ def gen_rooms(n_rooms: int):
 
 def gen_exhibitions(n_exh: int, rooms: list[dict]):
     exhibitions = []
-    today = date.today()
+    # bookings: room_id -> list of (start_date, end_date)
+    bookings = {room["room_id"]: [] for room in rooms}
+    room_ids = [room["room_id"] for room in rooms]
+    # rooms_count = len(room_ids)
+
+    base_month = _first_day_of_month(date.today())
+    prev_start = base_month
+
     for i in range(1, n_exh + 1):
-        start = today + timedelta(days=random.randint(-60, 60))
-        duration = random.randint(2, 60)
-        end = start + timedelta(days=duration)
-        name = f"Exhibition {i}" 
-        room = random.choice(rooms)
-        exhibitions.append({
-            "exhibition_id": i,
-            "name": name,
-            "exhibition_start": start.isoformat(),
-            "exhibition_end": end.isoformat(),
-            "room_id": room["room_id"],
-        })
+        candidate_month = prev_start
+
+        while True:
+            candidate_start = _first_day_of_month(candidate_month)
+            candidate_end = _month_end(candidate_start)
+
+            free_rooms = []
+
+            # shuffled = room_ids[:]
+            # random.shuffle(shuffled)
+            for rid in room_ids:
+                is_free = True
+                for b_start, b_end in bookings[rid]:
+                    if _overlaps(b_start, b_end, candidate_start, candidate_end):
+                        is_free = False
+                        break
+                if is_free:
+                    free_rooms.append(rid)
+
+            if free_rooms:
+                assigned_room = random.choice(free_rooms)
+                bookings[assigned_room].append((candidate_start, candidate_end))
+                exhibitions.append({
+                    "exhibition_id": i,
+                    "name": f"Exhibition {i}",
+                    "exhibition_start": candidate_start.isoformat(),
+                    "exhibition_end": candidate_end.isoformat(),
+                    "room_id": assigned_room,
+                })
+                # next exhibition cannot start earlier than this one
+                prev_start = candidate_start
+                break
+
+            # otherwise move to the next month
+            candidate_month = _first_day_next_month(candidate_month)
+    # exhibitions = []
+    # today = date.today()
+    # for i in range(1, n_exh + 1):
+    #     start = today + timedelta(days=random.randint(-60, 60))
+    #     duration = random.randint(2, 60)
+    #     end = start + timedelta(days=duration)
+    #     name = f"Exhibition {i}"
+    #     room = random.choice(rooms)
+    #     exhibitions.append({
+    #         "exhibition_id": i,
+    #         "name": name,
+    #         "exhibition_start": start.isoformat(),
+    #         "exhibition_end": end.isoformat(),
+    #         "room_id": room["room_id"],
+    #     })
     return exhibitions
 
 
@@ -91,16 +155,18 @@ def gen_exhibit_exhibitions(exhibits: list[dict], exhibitions: list[dict], min_p
     return links
 
 
-def gen_visitors(n_visitors: int):
+def gen_visitors(n_visitors: int, exhibitions: list[dict]):
     visitors = []
-    today = date.today()
+    start_date = date.fromisoformat(exhibitions[0]['exhibition_start'])
+    end_date = date.fromisoformat(exhibitions[-1]['exhibition_end'])
+    span_days = (end_date - start_date).days
     for i in range(1, n_visitors + 1):
         name = fake.name()
-        visit_day = today + timedelta(days=random.randint(-30, 30))
+        visit_day = start_date + timedelta(days=random.randint(0, span_days))
         entry = rand_time_on(visit_day, 9, 18)
         stay_minutes = random.randint(30, 240)
         exit_ = entry + timedelta(minutes=stay_minutes)
-        # do 21:00
+
         exit_limit = datetime.combine(visit_day, time(21, 0, 0))
         if exit_ > exit_limit:
             exit_ = exit_limit
@@ -111,6 +177,9 @@ def gen_visitors(n_visitors: int):
             "entry_time": entry.isoformat(),
             "exit_time": exit_.isoformat(),
         })
+    visitors.sort(key=lambda v: v["visit_date"])
+    for i in range(0, n_visitors):
+        visitors[i]["visitor_id"] = i + 1
     return visitors
 
 
@@ -163,6 +232,6 @@ def gen_data(args):
     exhibits = gen_exhibits(args.exhibits)
     exhibit_exhibitions = gen_exhibit_exhibitions(exhibits, exhibitions, args.min_per_exhibition,
                                                   args.max_per_exhibition)
-    visitors = gen_visitors(args.visitors)
+    visitors = gen_visitors(args.visitors, exhibitions)
     exhibition_visits = gen_exhibition_visits(visitors, exhibitions)
     return rooms, exhibitions, exhibits, exhibit_exhibitions, visitors, exhibition_visits
