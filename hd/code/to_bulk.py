@@ -35,3 +35,22 @@ def save_bulk(out_dir: Path, rooms, exhibitions, exhibits, exhibit_exhibitions, 
     print(f"BULK zapisane do: {out_dir.resolve()}")
 
     save_exhibits_csv(out_dir, exhibits)
+
+
+def save_dw_bulk(out_dir: Path, visit, date, time, room, visitor, exhibition, is_visited, exhibit):
+
+    write_bulk(out_dir / "visit.bulk", visit,
+               ["visit_id", "date_id", "entry_time", "exit_time", "exhibition_id",
+                "room_id", "visitor_id", "visit_duration", "exhibits_total_value", "exhibits_count"])
+    write_bulk(out_dir / "date.bulk", date, ["date_id", "year", "quarter", "month", "day", "day_name"])
+    write_bulk(out_dir / "time.bulk", time, ["time_id", "hour", "minute", "second"])
+    write_bulk(out_dir / "room.bulk", room,
+               ["room_id", "name", "number", "flor", "effective_start_date", "effective_end_date"])
+    write_bulk(out_dir / "visitor.bulk", visitor, ["visitor_id", "name"])
+    write_bulk(out_dir / "exhibition.bulk", exhibition,
+               ["exhibition_id", "name", "start_date", "end_date", "average_value"])
+    write_bulk(out_dir / "is_visited.bulk", is_visited, ["visit_id", "exhibit_id"])
+    write_bulk(out_dir / "exhibit.bulk", exhibit,
+               ["exhibit_id", "number", "name", "author", "creation_era", "acquisition_duration",
+                "type", "value", "effective_start_date", "effective_end_date"])
+    print(f"BULK zapisane do: {out_dir.resolve()}")
