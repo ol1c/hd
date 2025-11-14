@@ -123,7 +123,7 @@ def gen_rooms(n_rooms: int, n_rooms_changed: int, start_date: date, end_date: da
             "effective_start_date": start_date.isoformat(),
             "effective_end_date": end_date.isoformat(),
         })
-    new_date = start_date + timedelta(days=random.randint(1, (end_date - start_date).days))
+    new_date = start_date + timedelta(days=random.randint(1, (end_date - start_date).days // 2))
     for i in range(1, n_rooms_changed + 1):
         room_id = random.randrange(0, len(rooms))
         rooms[room_id]["effective_end_date"] = new_date - timedelta(days=1)
