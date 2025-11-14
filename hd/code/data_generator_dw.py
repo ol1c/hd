@@ -211,7 +211,7 @@ def gen_exhibits(n_exhibits: int, n_exhibits_changed: int, start_date: date, end
             "effective_start_date": start_date.isoformat(),
             "effective_end_date": end_date.isoformat(),
         })
-    new_date = start_date + timedelta(days=random.randint(1, (end_date - start_date).days))
+    new_date = start_date + timedelta(days=random.randint(1, (end_date - start_date).days // 2))
     for i in range(1, n_exhibits_changed + 1):
         exhibit_id = random.randrange(0, len(exhibits))
         exhibits[exhibit_id]["effective_end_date"] = new_date - timedelta(days=1)
