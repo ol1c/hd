@@ -41,6 +41,15 @@ def _overlaps(a_start: date, a_end: date, b_start: date, b_end: date) -> bool:
     return not (a_end < b_start or b_end < a_start)
 
 
+def _as_date(d: any) -> date:
+    """Zwraca datetime.date z wejścia będącego date albo ISO-YYYY-MM-DD string."""
+    if isinstance(d, date):
+        return d
+    if isinstance(d, str):
+        return date.fromisoformat(d)
+    raise TypeError(f"Unsupported date type: {type(d)!r}")
+
+
 def gen_rooms(n_rooms: int):
     rooms = []
     floors = [0, 1, 2]
@@ -105,7 +114,7 @@ def gen_exhibits(n_exhibits: int):
         name = f"{fake.word().title()} {fake.word().title()}"
         author = fake.name() if random.random() < 0.85 else "Pieter Stashkov"
         creation_year = random.randint(1500, current_year)
-        acquisition_year = random.randint(creation_year, current_year)
+        acquisition_year = random.randint(2000, current_year)
         typ = random.choice(EXHIBIT_TYPES)
         value = round(random.uniform(5_000, 5_000_000), 2)
         exhibits.append({
@@ -122,15 +131,35 @@ def gen_exhibits(n_exhibits: int):
 
 def gen_exhibit_exhibitions(exhibits: list[dict], exhibitions: list[dict], min_per_exh=5, max_per_exh=20):
     links: list[dict] = []
+
+    occupied: dict[tuple[int, int], set[int]] = {}
     exhibit_ids = [e["exhibit_id"] for e in exhibits]
     for exh in exhibitions:
+        exh_id = exh["exhibition_id"]
+        start = _as_date(exh["exhibition_start"])
+        month_key = (start.year, start.month)
+
+        occupied.setdefault(month_key, set())
+
+        random.shuffle(exhibit_ids)
+
+        # assigned = False
         k = random.randint(min_per_exh, max_per_exh)
-        chosen = random.sample(exhibit_ids, k=min(k, len(exhibit_ids)))
-        for ex_id in chosen:
+        n = 0
+        for e in exhibit_ids:
+            if e in occupied[month_key]:
+                continue
+
             links.append({
-                "fk_exhibit_id": ex_id,
-                "fk_exhibition_id": exh["exhibition_id"],
+                "exhibit_id": e,
+                "exhibition_id": exh_id,
             })
+
+            occupied[month_key].add(e)
+            # assigned = True
+            n += 1
+            if n >= k:
+                break
     return links
 
 
