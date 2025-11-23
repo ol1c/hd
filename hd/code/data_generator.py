@@ -116,7 +116,7 @@ def gen_exhibits(n_exhibits: int):
         creation_year = random.randint(1, current_year)
         acquisition_year = random.randint(2014, current_year)
         typ = random.choice(EXHIBIT_TYPES)
-        value = round(random.uniform(1, 1_500_000), 2)
+        value = round(random.uniform(1, 1_001_000), 2)
         exhibits.append({
             "exhibit_id": i,
             "name": name,
