@@ -114,7 +114,7 @@ def gen_exhibits(n_exhibits: int):
         name = f"{fake.word().title()} {fake.word().title()}"
         author = fake.name() if random.random() < 0.85 else "Pieter Stashkov"
         creation_year = random.randint(1, current_year)
-        acquisition_year = random.randint(2000, current_year)
+        acquisition_year = random.randint(2014, current_year)
         typ = random.choice(EXHIBIT_TYPES)
         value = round(random.uniform(5_000, 5_000_000), 2)
         exhibits.append({
