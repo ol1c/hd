@@ -36,9 +36,9 @@ if args.bulk:
     save_bulk(Path(args.out_bulk_dir), rooms, exhibitions, exhibits, exhibit_exhibitions, visitors, exhibition_visits)
 
 visit, date, time, room, visitor, exhibition, is_visited, exhibit = gen_data_dw(args)
-save_dw_bulk(Path(args.out_bulk_dir+"_dw"), visit, date, time, room, visitor, exhibition, is_visited, exhibit)
+save_dw_bulk(Path(args.out_bulk_dir + "_dw"), visit, date, time, room, visitor, exhibition, is_visited, exhibit)
 
-
+print(count_value_below(exhibits, 1_000_000))
 print(count_value_below(exhibits, 100_000))
 print(count_value_below(exhibits, 10_000))
 tmp = sum(1 for e in exhibits)
