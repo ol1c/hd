@@ -1,0 +1,204 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="8ce5e947-55e9-457c-8dfe-319c88c5e822" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Visit</ID>
+  <Name>Visit</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="53477c66-23be-40b1-9de1-e6292e3c6a34">
+    <DataSourceViewID>Museum DB</DataSourceViewID>
+  </Source>
+  <UnknownMember>Visible</UnknownMember>
+  <ErrorConfiguration dwd:design-time-name="f35b64a3-f07e-4293-9c4e-89455bac4192">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="37e2f7cc-c402-4c1b-bbfa-2d1375dffdfc">
+      <ID>Visit Id</ID>
+      <Name>Visit Id</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="08a3a78e-2938-4647-a914-15ac8eb24dc5">
+          <DataType>Integer</DataType>
+          <NullProcessing>UnknownMember</NullProcessing>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="4686e392-91cb-4d0b-b25c-1d6242ec62c3">
+            <TableID>dbo_Visit</TableID>
+            <ColumnID>visit_id</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="5999e9f6-08ea-40ab-9253-c9f09ea2fcc5">
+          <AttributeID>Room Id</AttributeID>
+          <Name>Room Id</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="be70b6fb-7936-4609-9fbc-52daba6026cb">
+          <AttributeID>Exhibition Id</AttributeID>
+          <Name>Exhibition Id</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="199c76c7-f5c8-40df-b023-669f2a624c8e">
+          <AttributeID>Date Id</AttributeID>
+          <Name>Date Id</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="8b5b5cc6-4003-4e1a-bdc8-f67061a281a6">
+          <AttributeID>Exit Time</AttributeID>
+          <Name>Exit Time</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="04c92b5f-4f1a-41bd-b6fd-3cd01fb3a80d">
+          <AttributeID>Visitor Id</AttributeID>
+          <Name>Visitor Id</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="4c7b8738-cf5b-4c3d-b48b-fb72515925cf">
+          <AttributeID>Entry Time</AttributeID>
+          <Name>Entry Time</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="e9a7da63-ce4d-4eed-bf08-891e7b827cd6">
+      <ID>Room Id</ID>
+      <Name>Room Id</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="3daee9df-5208-446f-9816-268fa63c12a1">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="168306fb-1dcf-43f9-bd34-657f84449d5c">
+            <TableID>dbo_Visit</TableID>
+            <ColumnID>room_id</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="2e35600d-f5a6-46dd-9af2-1d5c6695b305">
+      <ID>Exhibition Id</ID>
+      <Name>Exhibition Id</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="5f9ec795-52bf-4fe7-9b7e-675c4997ba38">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="abf548c2-477e-4320-a391-9faaf1c5e05c">
+            <TableID>dbo_Visit</TableID>
+            <ColumnID>exhibition_id</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="cbc7d6f6-36d8-4a80-a6e8-0b80829d3392">
+      <ID>Date Id</ID>
+      <Name>Date Id</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="f41a6b4c-1deb-4ed5-986d-13c5aff8d253">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="2f52aa89-de6e-4544-b926-a8bdc74d3461">
+            <TableID>dbo_Visit</TableID>
+            <ColumnID>date_id</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="0e5b8bc5-afe2-4835-aed3-806ebe345749">
+      <ID>Exit Time</ID>
+      <Name>Exit Time</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="8253c80a-6c43-4775-afbb-9772f23bac04">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="d0088f35-8474-4590-a157-f5dc9acc17b9">
+            <TableID>dbo_Visit</TableID>
+            <ColumnID>exit_time</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="89b0dd2d-b603-422a-aa1c-f674744280c7">
+      <ID>Visitor Id</ID>
+      <Name>Visitor Id</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="0f6973d1-3d2a-4b10-9dd6-d53b9da2bec3">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="dc5b2270-466c-495b-8929-e635a233253c">
+            <TableID>dbo_Visit</TableID>
+            <ColumnID>visitor_id</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="3a2aca77-fc87-461a-ace0-05147783edd1">
+      <ID>Entry Time</ID>
+      <Name>Entry Time</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="331d3265-db32-4bee-bfb5-1e5972bacd1e">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="5b1ffae4-9feb-4da7-a57a-0285945b7e58">
+            <TableID>dbo_Visit</TableID>
+            <ColumnID>entry_time</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>

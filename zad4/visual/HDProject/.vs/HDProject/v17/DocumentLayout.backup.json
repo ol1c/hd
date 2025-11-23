@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67802F39-C863-A945-4465-650D9296E8EB}|HDProject\\HDProject.dwproj|C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Museum DB 1.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{67802F39-C863-A945-4465-650D9296E8EB}|HDProject\\HDProject.dwproj|solutionrelative:HDProject\\Museum DB 1.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67802F39-C863-A945-4465-650D9296E8EB}|HDProject\\HDProject.dwproj|C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Museum DB.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{67802F39-C863-A945-4465-650D9296E8EB}|HDProject\\HDProject.dwproj|solutionrelative:HDProject\\Museum DB.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67802F39-C863-A945-4465-650D9296E8EB}|HDProject\\HDProject.dwproj|C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Exhibition.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{67802F39-C863-A945-4465-650D9296E8EB}|HDProject\\HDProject.dwproj|solutionrelative:HDProject\\Exhibition.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67802F39-C863-A945-4465-650D9296E8EB}|HDProject\\HDProject.dwproj|C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Room.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{67802F39-C863-A945-4465-650D9296E8EB}|HDProject\\HDProject.dwproj|solutionrelative:HDProject\\Room.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67802F39-C863-A945-4465-650D9296E8EB}|HDProject\\HDProject.dwproj|C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Time.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{67802F39-C863-A945-4465-650D9296E8EB}|HDProject\\HDProject.dwproj|solutionrelative:HDProject\\Time.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67802F39-C863-A945-4465-650D9296E8EB}|HDProject\\HDProject.dwproj|C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Visitor.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{67802F39-C863-A945-4465-650D9296E8EB}|HDProject\\HDProject.dwproj|solutionrelative:HDProject\\Visitor.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67802F39-C863-A945-4465-650D9296E8EB}|HDProject\\HDProject.dwproj|C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{67802F39-C863-A945-4465-650D9296E8EB}|HDProject\\HDProject.dwproj|solutionrelative:HDProject\\Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67802F39-C863-A945-4465-650D9296E8EB}|HDProject\\HDProject.dwproj|C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Exhibit.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{67802F39-C863-A945-4465-650D9296E8EB}|HDProject\\HDProject.dwproj|solutionrelative:HDProject\\Exhibit.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67802F39-C863-A945-4465-650D9296E8EB}|HDProject\\HDProject.dwproj|C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Museum DB.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{67802F39-C863-A945-4465-650D9296E8EB}|HDProject\\HDProject.dwproj|solutionrelative:HDProject\\Museum DB.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Museum DB 1.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Museum DB 1.cube",
+              "RelativeDocumentMoniker": "HDProject\\Museum DB 1.cube",
+              "ToolTip": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Museum DB 1.cube [Design]",
+              "RelativeToolTip": "HDProject\\Museum DB 1.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T22:34:37.815Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Museum DB.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Museum DB.cube",
+              "RelativeDocumentMoniker": "HDProject\\Museum DB.cube",
+              "ToolTip": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Museum DB.cube [Design]",
+              "RelativeToolTip": "HDProject\\Museum DB.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-17T17:46:09.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Room.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Room.dim",
+              "RelativeDocumentMoniker": "HDProject\\Room.dim",
+              "ToolTip": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Room.dim [Design]",
+              "RelativeToolTip": "HDProject\\Room.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T12:16:49.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exhibition.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Exhibition.dim",
+              "RelativeDocumentMoniker": "HDProject\\Exhibition.dim",
+              "ToolTip": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Exhibition.dim [Design]",
+              "RelativeToolTip": "HDProject\\Exhibition.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T12:16:46.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Time.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Time.dim",
+              "RelativeDocumentMoniker": "HDProject\\Time.dim",
+              "ToolTip": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Time.dim [Design]",
+              "RelativeToolTip": "HDProject\\Time.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T11:23:05.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Date.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Date.dim",
+              "RelativeDocumentMoniker": "HDProject\\Date.dim",
+              "ToolTip": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Date.dim [Design]",
+              "RelativeToolTip": "HDProject\\Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T11:18:30.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exhibit.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Exhibit.dim",
+              "RelativeDocumentMoniker": "HDProject\\Exhibit.dim",
+              "ToolTip": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Exhibit.dim [Design]",
+              "RelativeToolTip": "HDProject\\Exhibit.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-15T18:15:42.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Visitor.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Visitor.dim",
+              "RelativeDocumentMoniker": "HDProject\\Visitor.dim",
+              "ToolTip": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Visitor.dim [Design]",
+              "RelativeToolTip": "HDProject\\Visitor.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-15T18:15:01.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Museum DB.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Museum DB.dsv",
+              "RelativeDocumentMoniker": "HDProject\\Museum DB.dsv",
+              "ToolTip": "C:\\Users\\jakub\\Documents\\Code\\University\\hd\\visual\\HDProject\\HDProject\\Museum DB.dsv [Design]",
+              "RelativeToolTip": "HDProject\\Museum DB.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T11:11:19.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

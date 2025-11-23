@@ -1,0 +1,14 @@
+USE MuseumDB
+GO
+
+DELETE FROM IsVisited;
+DELETE FROM Visit;
+
+DELETE FROM Visitor;
+
+DELETE FROM Exhibition;
+DELETE FROM Exhibit;
+
+DELETE FROM Date;
+DELETE FROM Time;
+DELETE FROM Room;

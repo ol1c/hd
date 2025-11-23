@@ -8,7 +8,7 @@ from pathlib import Path
 
 parser = argparse.ArgumentParser(description="VisitorTrack data generator")
 parser.add_argument("--csv", default=False, help="Zapis do pliku CSV")
-parser.add_argument("--bulk", default=False, help="Zapis do pliku BULK")
+parser.add_argument("--bulk", default=True, help="Zapis do pliku BULK")
 parser.add_argument("--out-csv-dir", default="../csv", help="Katalog wyjściowy na pliki CSV")
 parser.add_argument("--out-bulk-dir", default="../bulk", help="Katalog wyjściowy na pliki BULK")
 parser.add_argument("--rooms", type=int, default=15)
