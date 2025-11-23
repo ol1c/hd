@@ -113,7 +113,7 @@ def gen_exhibits(n_exhibits: int):
     for i in range(1, n_exhibits + 1):
         name = f"{fake.word().title()} {fake.word().title()}"
         author = fake.name() if random.random() < 0.85 else "Pieter Stashkov"
-        creation_year = random.randint(1500, current_year)
+        creation_year = random.randint(1, current_year)
         acquisition_year = random.randint(2000, current_year)
         typ = random.choice(EXHIBIT_TYPES)
         value = round(random.uniform(5_000, 5_000_000), 2)
