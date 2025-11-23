@@ -107,6 +107,12 @@ def gen_exhibitions(n_exh: int, rooms: list[dict]):
     return exhibitions
 
 
+def generate_value_beta_mild(min_val: int, max_val: int):
+    span = max_val - min_val
+    x = random.betavariate(1.2, 4.8)
+    return round(min_val + x * span, 2)
+
+
 def gen_exhibits(n_exhibits: int):
     exhibits = []
     current_year = date.today().year
@@ -116,7 +122,7 @@ def gen_exhibits(n_exhibits: int):
         creation_year = random.randint(1, current_year)
         acquisition_year = random.randint(2014, current_year)
         typ = random.choice(EXHIBIT_TYPES)
-        value = round(random.uniform(1, 1_001_000), 2)
+        value = generate_value_beta_mild(1, 1_001_000)
         exhibits.append({
             "exhibit_id": i,
             "name": name,

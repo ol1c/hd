@@ -6,6 +6,10 @@ from data_generator_dw import gen_data_dw
 from pathlib import Path
 
 
+def count_value_below(exhibits, lim):
+    return sum(1 for e in exhibits if e["value"] < lim)
+
+
 parser = argparse.ArgumentParser(description="VisitorTrack data generator")
 parser.add_argument("--csv", default=False, help="Zapis do pliku CSV")
 parser.add_argument("--bulk", default=True, help="Zapis do pliku BULK")
@@ -34,3 +38,8 @@ if args.bulk:
 visit, date, time, room, visitor, exhibition, is_visited, exhibit = gen_data_dw(args)
 save_dw_bulk(Path(args.out_bulk_dir+"_dw"), visit, date, time, room, visitor, exhibition, is_visited, exhibit)
 
+
+print(count_value_below(exhibits, 100_000))
+print(count_value_below(exhibits, 10_000))
+tmp = sum(1 for e in exhibits)
+print(tmp)
