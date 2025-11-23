@@ -3,7 +3,7 @@
 3|Exhibition 3|1|30|<1 000 000
 4|Exhibition 4|1|30|<1 000 000
 5|Exhibition 5|1|30|<1 000 000
-6|Exhibition 6|1|30|<100 000
+6|Exhibition 6|1|30|<1 000 000
 7|Exhibition 7|1|30|<1 000 000
 8|Exhibition 8|1|30|<1 000 000
 9|Exhibition 9|1|30|<1 000 000
@@ -21,15 +21,15 @@
 21|Exhibition 21|31|61|<1 000 000
 22|Exhibition 22|31|61|<1 000 000
 23|Exhibition 23|31|61|<1 000 000
-24|Exhibition 24|31|61|<100 000
+24|Exhibition 24|31|61|<1 000 000
 25|Exhibition 25|31|61|<1 000 000
 26|Exhibition 26|31|61|<1 000 000
 27|Exhibition 27|31|61|<1 000 000
 28|Exhibition 28|31|61|<1 000 000
-29|Exhibition 29|31|61|<1 000 000
+29|Exhibition 29|31|61|>1 000 000
 30|Exhibition 30|31|61|<1 000 000
 31|Exhibition 31|62|92|<1 000 000
-32|Exhibition 32|62|92|<1 000 000
+32|Exhibition 32|62|92|>1 000 000
 33|Exhibition 33|62|92|<1 000 000
 34|Exhibition 34|62|92|<1 000 000
 35|Exhibition 35|62|92|<1 000 000
