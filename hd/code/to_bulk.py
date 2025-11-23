@@ -45,7 +45,7 @@ def save_dw_bulk(out_dir: Path, visit, date, time, room, visitor, exhibition, is
     write_bulk(out_dir / "date.bulk", date, ["date_id", "year", "quarter", "month", "day", "day_name"])
     write_bulk(out_dir / "time.bulk", time, ["time_id", "hour", "minute", "second"])
     write_bulk(out_dir / "room.bulk", room,
-               ["room_id", "name", "number", "flor", "effective_start_date", "effective_end_date"])
+               ["room_id", "name", "number", "floor", "effective_start_date", "effective_end_date"])
     write_bulk(out_dir / "visitor.bulk", visitor, ["visitor_id", "name"])
     write_bulk(out_dir / "exhibition.bulk", exhibition,
                ["exhibition_id", "name", "start_date", "end_date", "average_value"])
