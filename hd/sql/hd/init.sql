@@ -36,7 +36,7 @@ CREATE TABLE Visitor (
 
 CREATE TABLE Exhibition (
 	exhibition_id INT IDENTITY(1,1) PRIMARY KEY,
-	name VARCHAR(200),
+	name VARCHAR(200) UNIQUE,
 	start_date INT FOREIGN KEY REFERENCES Date(date_id),
 	end_date INT FOREIGN KEY REFERENCES Date(date_id),
 	avarage_value VARCHAR(200)

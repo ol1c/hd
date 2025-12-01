@@ -22,8 +22,8 @@ MERGE INTO Room AS TT
                         ST.name,
                         ST.room_id,
                         ST.floor,
-                        GETDATE(),
-                        NULL
+                        GETDATE(), -- data dzisiaj
+                        NULL -- data zmiany
                     )
             WHEN NOT MATCHED BY SOURCE
                 THEN
