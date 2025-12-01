@@ -11,7 +11,7 @@ WITH vETLFactIsVisited AS (
     INNER JOIN VisitorTrack.dbo.Exhibit_Exhibitions ee 
         ON e.exhibition_id = ee.fk_exhibition_id
     INNER JOIN MuseumDB.dbo.Exhibit ex 
-        ON ee.fk_exhibit_id = ex.number
+        ON ee.fk_exhibit_id = ex.number AND ex.effective_end_date IS NULL
     INNER JOIN MuseumDB.dbo.Exhibition exhibition 
         ON e.name = exhibition.name
     INNER JOIN MuseumDB.dbo.Visit v 

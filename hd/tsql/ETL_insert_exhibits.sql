@@ -1,10 +1,10 @@
 USE MuseumDB
 GO
 
-IF OBJECT_ID('tempdb..#StockCSV') IS NOT NULL
-    DROP TABLE #StockCSV;
+IF OBJECT_ID('StockCSV_Staging') IS NOT NULL
+    DROP TABLE StockCSV_Staging;
 
-CREATE TABLE #StockCSV (
+CREATE TABLE StockCSV_Staging (
     exhibit_id INT,
     name VARCHAR(200),
     author VARCHAR(200),
@@ -15,7 +15,7 @@ CREATE TABLE #StockCSV (
 );
 
 -- do wartości
-BULK INSERT #StockCSV
+BULK INSERT StockCSV_Staging
 FROM 'c:\Users\jakub\Documents\Code\University\hd\hd\bulk\StockCSV.csv'
 WITH (
     FIRSTROW = 2,
@@ -37,13 +37,13 @@ SELECT
         WHEN s.creation_year < 1492 THEN 'średniowiecze'
         WHEN s.creation_year < 1789 THEN 'nowożytność'
         ELSE 'czasy współczesne'
-    END AS creation_era,
+    END AS ceratino_era,
     CASE 
         WHEN (YEAR(GETDATE()) - s.acquisition_year) < 1 THEN '<1'
         WHEN (YEAR(GETDATE()) - s.acquisition_year) < 5 THEN '<5'
         WHEN (YEAR(GETDATE()) - s.acquisition_year) < 10 THEN '<10'
         ELSE '>=10'
-    END AS acquisition_duration,
+    END AS acquasition_duration,
     s.type,
     CASE 
         WHEN s.value < 10000 THEN '<10 000'
@@ -51,7 +51,7 @@ SELECT
         WHEN s.value < 1000000 THEN '<1 000 000'
         ELSE '>1 000 000'
     END AS value
-FROM #StockCSV s;
+FROM StockCSV_Staging s;
 GO
 
 Declare @Today datetime;
@@ -66,8 +66,8 @@ MERGE INTO Exhibit AS TT
                         ST.exhibit_id,
                         ST.name,
                         ST.author,
-                        ST.creation_era,
-                        ST.acquisition_duration,
+                        ST.ceratino_era,
+                        ST.acquasition_duration,
                         ST.type,
                         ST.value,
                         @Today, -- data dzisiaj
@@ -78,8 +78,8 @@ MERGE INTO Exhibit AS TT
                 AND (
                     TT.name <> ST.name
                     OR TT.author <> ST.author
-                    OR TT.creation_era <> ST.creation_era
-                    OR TT.acquisition_duration <> ST.acquisition_duration
+                    OR TT.ceratino_era <> ST.ceratino_era
+                    OR TT.acquasition_duration <> ST.acquasition_duration
                     OR TT.type <> ST.type
                     OR TT.value <> ST.value
                 )
@@ -87,7 +87,6 @@ MERGE INTO Exhibit AS TT
                     UPDATE SET 
                         TT.effective_end_date = @Today
             WHEN NOT MATCHED BY SOURCE
-            AND TT.PID != 'UNKNOWN' -- do not update the UNKNOWN tuple
 			THEN
 				UPDATE
 				SET TT.effective_end_date = @Today;
@@ -96,7 +95,7 @@ INSERT INTO Exhibit (
     number,
     name,
     author,
-    creation_era,
+    ceratino_era,
     acquasition_duration,
     type,
     value,
@@ -107,8 +106,8 @@ INSERT INTO Exhibit (
         ST.exhibit_id,
         ST.name,
         ST.author,
-        ST.creation_era,
-        ST.acquisition_duration,
+        ST.ceratino_era,
+        ST.acquasition_duration,
         ST.type,
         ST.value,
         @Today, -- data dzisiaj
@@ -119,8 +118,8 @@ INSERT INTO Exhibit (
         TT.number,
         TT.name,
         TT.author,
-        TT.creation_era,
-        TT.acquisition_duration,
+        TT.ceratino_era,
+        TT.acquasition_duration,
         TT.type,
         TT.value,
         @Today, -- data dzisiaj
@@ -128,7 +127,6 @@ INSERT INTO Exhibit (
     FROM Exhibit AS TT;
 GO
 
--- Clean up staging table
-DROP TABLE #StockCSV;
+DROP TABLE StockCSV_Staging;
 Drop View vETLDimExhibit; 
 GO

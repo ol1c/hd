@@ -38,7 +38,6 @@ MERGE INTO Room AS TT
                     UPDATE SET 
                         TT.effective_end_date = @Today
             WHEN NOT MATCHED BY SOURCE
-            AND TT.PID != 'UNKNOWN' -- do not update the UNKNOWN tuple
 			THEN
 				UPDATE
 				SET TT.effective_end_date = @Today;
@@ -56,15 +55,15 @@ INSERT INTO Room (
         ST.floor,
         @Today, -- data dzisiaj
         NULL -- data zmiany
-    FROM vETLDimRoom AS ST;
-    EXCEPT
+    FROM vETLDimRoom AS ST
+    EXCEPT 
     SELECT
         TT.name,
         TT.number,
         TT.flor,
         @Today, -- data dzisiaj
         NULL -- data zmiany
-    FROM Room AS TT;
+    FROM Room AS TT
 GO
 
 DROP VIEW vETLDimRoom;
