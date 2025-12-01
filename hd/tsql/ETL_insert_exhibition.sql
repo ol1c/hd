@@ -64,6 +64,7 @@ MERGE INTO Exhibition AS TT
             WHEN NOT MATCHED BY SOURCE
                 THEN
                     DELETE;
+            -- to usuwa rekordy w docelowej tabeli, których już nie ma w źródle. Upewnij się, że to zamierzone (może powodować niechciane kasowanie).
 GO
 
 DROP TABLE #StockCSV;

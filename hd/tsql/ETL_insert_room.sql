@@ -13,6 +13,9 @@ SELECT
 FROM VisitorTrack.dbo.Rooms;
 GO
 
+Declare @Today datetime;
+SELECT @Today = GETDATE();
+
 MERGE INTO Room AS TT 
     USING vETLDimRoom AS ST
         ON TT.number = ST.room_id
@@ -25,9 +28,43 @@ MERGE INTO Room AS TT
                         GETDATE(), -- data dzisiaj
                         NULL -- data zmiany
                     )
-            WHEN NOT MATCHED BY SOURCE
+            WHEN MATCHED
+                AND TT.effective_end_date IS NULL
+                AND (  
+                    TT.name <> ST.name
+                    OR TT.flor <> ST.floor
+                )
                 THEN
-                    DELETE;
+                    UPDATE SET 
+                        TT.effective_end_date = @Today
+            WHEN NOT MATCHED BY SOURCE
+            AND TT.PID != 'UNKNOWN' -- do not update the UNKNOWN tuple
+			THEN
+				UPDATE
+				SET TT.effective_end_date = @Today;
+
+INSERT INTO Room (
+    name,
+    number,
+    flor,
+    effective_start_date,
+    effective_end_date
+    )
+    SELECT
+        ST.name,
+        ST.room_id,
+        ST.floor,
+        @Today, -- data dzisiaj
+        NULL -- data zmiany
+    FROM vETLDimRoom AS ST;
+    EXCEPT
+    SELECT
+        TT.name,
+        TT.number,
+        TT.flor,
+        @Today, -- data dzisiaj
+        NULL -- data zmiany
+    FROM Room AS TT;
 GO
 
 DROP VIEW vETLDimRoom;
