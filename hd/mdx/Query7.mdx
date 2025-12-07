@@ -1,16 +1,12 @@
 -- 7. Które sale odnotowały największy wzrost, a które największy spadek liczby odwiedzin po rotacji wystaw?
 WITH
 MEMBER [Measures].[Visits - Current Month] AS
-([Measures].[Visit Count], [Date].[Calendar].CurrentMember)
+([Measures].[Visit Count], [Date].[Date Hierarchy].CurrentMember)
 MEMBER [Measures].[Visits - Previous Month] AS
 ([Measures].[Visit Count],
 ParallelPeriod([Date].[Date Hierarchy].[Month], 1, [Date].[Date Hierarchy].CurrentMember))
 MEMBER [Measures].[Visits Change] AS
 [Measures].[Visits - Current Month] - [Measures].[Visits - Previous Month]
-MEMBER TopIncrease AS
-TopCount([Room].[Number].Members, 3, [Measures].[Visits Change])
-MEMBER BottomIncrease AS
-BottomCount([Room].[Number].Members, 3, [Measures].[Visits Change])
 SELECT
 {
 [Measures].[Visits - Current Month],
@@ -18,8 +14,8 @@ SELECT
 [Measures].[Visits Change]
 } ON COLUMNS,
 {
-TopIncrease,
-BottomIncrease
+	TopCount([Room].[Number].Members, 3, [Measures].[Visits Change]),
+	BottomCount([Room].[Number].Members, 3, [Measures].[Visits Change])
 } ON ROWS
 FROM [Museum DB 1]
 WHERE (

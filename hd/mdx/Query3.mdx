@@ -3,8 +3,8 @@ WITH
 MEMBER [Measures].[Avg Duration Amplitude - Current Month] AS
 (
 MAX([Room].[Number].Members,
-([Measures].[Avg Visit Dutarion], [Date].[Calendar].CurrentMember)) - MIN([Room].[Number].Members,
-([Measures].[Avg Visit Dutarion], [Date].[Calendar].CurrentMember))
+([Measures].[Avg Visit Dutarion], [Date].[Date Hierarchy].CurrentMember)) - MIN([Room].[Number].Members,
+([Measures].[Avg Visit Dutarion], [Date].[Date Hierarchy].CurrentMember))
 )
 MEMBER [Measures].[Avg Duration Amplitude - Previous Month] AS
 (
@@ -19,7 +19,7 @@ NULL,
 (
 ([Measures].[Avg Duration Amplitude - Current Month] - [Measures].[Avg Duration Amplitude - Previous Month])
 / [Measures].[Avg Duration Amplitude - Previous Month]
-) \* 100
+) * 100
 )
 SELECT
 {

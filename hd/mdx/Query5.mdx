@@ -3,7 +3,7 @@ SELECT
 { [Measures].[Avg Visit Dutarion] } ON COLUMNS,
 NON EMPTY
 NonEmpty(
-[Room].[Number].Members \* [Exhibit].[Type].Members,
+[Room].[Number].Members * [Exhibit].[Type].Members,
 { [Measures].[Avg Visit Dutarion] }
 ) ON ROWS
 FROM [Museum DB 1]

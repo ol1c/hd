@@ -3,7 +3,7 @@ SELECT
 { [Measures].[Visit Count] } ON COLUMNS,
 NON EMPTY
 CrossJoin(
-[Room].[Floor].Members,
+[Room].[Flor].Members,
 [Room].[Number].Members
 ) ON ROWS
 FROM [Museum DB 1]

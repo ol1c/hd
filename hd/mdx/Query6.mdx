@@ -1,7 +1,7 @@
 -- 6. Porównaj liczbę wejść do każdej sali w obecnym i poprzednim miesiącu.
 WITH
 MEMBER [Measures].[Visits - Current Month] AS
-([Measures].[Visit Count], [Date].[Calendar].CurrentMember)
+([Measures].[Visit Count], [Date].[Date Hierarchy].CurrentMember)
 MEMBER [Measures].[Visits - Previous Month] AS
 ([Measures].[Visit Count],
 ParallelPeriod([Date].[Date Hierarchy].[Month], 1, [Date].[Date Hierarchy].CurrentMember))

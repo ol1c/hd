@@ -1,7 +1,7 @@
 -- 2. Które sale wykazały największą zmianę w średnim czasie przebywania po zmianie rozmieszczenia eksponatów?
 WITH
 MEMBER [Measures].[Avg Duration - Current Month] AS
-([Measures].[Avg Visit Dutarion], [Date].[Calendar].CurrentMember)
+([Measures].[Avg Visit Dutarion], [Date].[Date Hierarchy].CurrentMember)
 MEMBER [Measures].[Avg Duration - Previous Month] AS
 ([Measures].[Avg Visit Dutarion],
 ParallelPeriod([Date].[Date Hierarchy].[Month], 1, [Date].[Date Hierarchy].CurrentMember))
@@ -13,7 +13,7 @@ SELECT
 [Measures].[Avg Duration - Previous Month],
 [Measures].[Avg Duration Change]
 } ON COLUMNS,
-TopCount([Room].[Number].Members, 5, [Measures].[Avg Duration Change]) ON ROWS
+TopCount([Room].[Number].Members, 3, [Measures].[Avg Duration Change]) ON ROWS
 FROM [Museum DB 1]
 WHERE (
 [Date].[Date Hierarchy].[Month].&[12]

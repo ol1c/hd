@@ -1,13 +1,8 @@
 -- 8. Jak liczba odwiedzin sal zmienia się w zależności od wieku eksponatów prezentowanych w danej sali?
 SELECT
 { [Measures].[Visit Count] } ON COLUMNS,
-NON EMPTY
-NON EMPTY
 NonEmpty(
-[Room].[Number].Members \* [Exhibit].[Creation Era].Members,
+[Room].[Number].Members * [Exhibit].[Ceratino Era].Members,
 { [Measures].[Visit Count] }
 ) ON ROWS
 FROM [Museum DB 1]
-WHERE (
-[Date].[Date Hierarchy].[Month].&[12]
-)

@@ -1,30 +1,34 @@
 -- 9. Czy sale z eksponatami nabytymi w ostatnich latach przyciągają więcej zwiedzających w porównaniu do sal z eksponatami starszymi?
 WITH
-MEMBER [New Exhibits] AS
+MEMBER [Measures].[New Exhibits] AS
 SUM(
 FILTER(
-[Exhibit].[Acquisition Duration].Members,
-[Exhibit].[Acquisition Duration].CurrentMember.NAME = "<1" -- coś chat przyszponcił, nie wiem czy nie trzeba
-), -- zostawić samego filter, ale nie wiem czy zadziała
-[Measures].[Visit Count]
-)
-
-MEMBER [Older Exhibits] AS
-SUM(
-FILTER(
-[Exhibit].[Acquisition Duration].Members,
-[Exhibit].[Acquisition Duration].CurrentMember.NAME <> "<1"
+[Exhibit].[Acquasition Duration].Members,
+[Exhibit].[Acquasition Duration].CurrentMember.NAME = "<1"
 ),
 [Measures].[Visit Count]
 )
 
-MEMBER [Difference (New - Older)] AS
-[New Exhibits] - [Older Exhibits]
+MEMBER [Measures].[Older Exhibits] AS
+SUM(
+FILTER(
+[Exhibit].[Acquasition Duration].Members,
+[Exhibit].[Acquasition Duration].CurrentMember.NAME <> "<1"
+),
+[Measures].[Visit Count]
+)
+
+MEMBER [Measures].[Difference (New - Older)] AS
+[Measures].[New Exhibits] - [Measures].[Older Exhibits]
+
 SELECT
-{ [Measures].[Visit Count] } ON COLUMNS,
 {
-[New Exhibits],
-[Older Exhibits],
-[Difference (New - Older)]
+[Measures].[Visit Count],
+[Measures].[New Exhibits],
+[Measures].[Older Exhibits],
+[Measures].[Difference (New - Older)]
+} ON COLUMNS,
+{
+[Room].[Number].Members
 } ON ROWS
 FROM [Museum DB 1]
