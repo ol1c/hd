@@ -1,0 +1,20 @@
+-- 6. Porównaj liczbę wejść do każdej sali w obecnym i poprzednim miesiącu.
+WITH
+MEMBER [Measures].[Visits - Current Month] AS
+([Measures].[Visit Count], [Date].[Calendar].CurrentMember)
+MEMBER [Measures].[Visits - Previous Month] AS
+([Measures].[Visit Count],
+ParallelPeriod([Date].[Date Hierarchy].[Month], 1, [Date].[Date Hierarchy].CurrentMember))
+MEMBER [Measures].[Current Month - Previous Month Difference] AS
+[Measures].[Visits - Current Month] - [Measures].[Visits - Previous Month]
+SELECT
+{
+[Measures].[Visits - Current Month],
+[Measures].[Visits - Previous Month],
+[Measures].[Current Month - Previous Month Difference]
+} ON COLUMNS,
+[Room].[Number].Members ON ROWS
+FROM [Museum DB 1]
+WHERE (
+[Date].[Date Hierarchy].[Month].&[12]
+)

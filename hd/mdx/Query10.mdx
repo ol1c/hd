@@ -1,0 +1,12 @@
+-- 10. W jaki sposób rozmieszczenie wystaw między piętrami wpłynęło na średnią liczbę wejść do poszczególnych sal?
+SELECT
+{ [Measures].[Visit Count] } ON COLUMNS,
+NON EMPTY
+CrossJoin(
+[Room].[Floor].Members,
+[Room].[Number].Members
+) ON ROWS
+FROM [Museum DB 1]
+WHERE (
+[Date].[Date Hierarchy].[Month].&[12]
+)

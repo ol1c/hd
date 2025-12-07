@@ -1,0 +1,16 @@
+-- 4. Czy sale z eksponatami o wysokiej wartości przyciągnęły więcej uwagi i spowodowały dłuższy czas przebywania?
+SELECT
+{
+[Measures].[Avg Visit Dutarion],
+[Measures].[Visit Count]
+[Measures].[Exhibits Total Value]
+} ON COLUMNS,
+NON EMPTY
+CrossJoin(
+[Room].[Number].Members,
+[Exhibit].[Value].Members
+) ON ROWS
+FROM [Museum DB 1]
+WHERE (
+[Date].[Date Hierarchy].[Month].&[12]
+)

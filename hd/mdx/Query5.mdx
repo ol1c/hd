@@ -1,0 +1,9 @@
+-- 5. Jak zmiana rodzaju eksponatów (np. obrazy vs rzeźby) wpłynęła na średni czas przebywania w poszczególnych salach?
+SELECT
+{ [Measures].[Avg Visit Dutarion] } ON COLUMNS,
+NON EMPTY
+NonEmpty(
+[Room].[Number].Members \* [Exhibit].[Type].Members,
+{ [Measures].[Avg Visit Dutarion] }
+) ON ROWS
+FROM [Museum DB 1]

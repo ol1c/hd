@@ -29,7 +29,7 @@ MEMBER [Measures].[Avg Duration - Current Month] AS
 ([Measures].[Avg Visit Dutarion], [Date].[Calendar].CurrentMember)
 MEMBER [Measures].[Avg Duration - Previous Month] AS
 ([Measures].[Avg Visit Dutarion],
-ParallelPeriod([Date].[Calendar].[Month], 1, [Date].[Calendar].CurrentMember))
+ParallelPeriod([Date].[Date Hierarchy].[Month], 1, [Date].[Date Hierarchy].CurrentMember))
 MEMBER [Measures].[Avg Duration Change] AS
 [Measures].[Avg Duration - Current Month] - [Measures].[Avg Duration - Previous Month]
 SELECT
@@ -40,7 +40,9 @@ SELECT
 } ON COLUMNS,
 TopCount([Room].[Number].Members, 5, [Measures].[Avg Duration Change]) ON ROWS
 FROM [Museum DB 1]
-WHERE ([Date].[Calendar].[Month].CurrentMember)
+WHERE (
+[Date].[Date Hierarchy].[Month].&[12]
+)
 
 -- 3. Czy nowe rozmieszczenie eksponatów miało wpływ na amplitudę średniej czasu przebywania w salach?
 WITH
@@ -53,8 +55,8 @@ MAX([Room].[Number].Members,
 MEMBER [Measures].[Avg Duration Amplitude - Previous Month] AS
 (
 MAX([Room].[Number].Members,
-([Measures].[Avg Visit Dutarion], ParallelPeriod([Date].[Calendar].[Month], 1, [Date].[Calendar].CurrentMember))) - MIN([Room].[Number].Members,
-([Measures].[Avg Visit Dutarion], ParallelPeriod([Date].[Calendar].[Month], 1, [Date].[Calendar].CurrentMember)))
+([Measures].[Avg Visit Dutarion], ParallelPeriod([Date].[Date Hierarchy].[Month], 1, [Date].[Date Hierarchy].CurrentMember))) - MIN([Room].[Number].Members,
+([Measures].[Avg Visit Dutarion], ParallelPeriod([Date].[Date Hierarchy].[Month], 1, [Date].[Date Hierarchy].CurrentMember)))
 )
 MEMBER [Measures].[Avg Duration Amplitude % Change] AS
 IIF(
@@ -72,7 +74,9 @@ SELECT
 [Measures].[Avg Duration Amplitude % Change]
 } ON COLUMNS
 FROM [Museum DB 1]
-WHERE ([Date].[Calendar].[Month].CurrentMember)
+WHERE (
+[Date].[Date Hierarchy].[Month].&[12]
+)
 
 -- 4. Czy sale z eksponatami o wysokiej wartości przyciągnęły więcej uwagi i spowodowały dłuższy czas przebywania?
 SELECT
@@ -87,7 +91,9 @@ CrossJoin(
 [Exhibit].[Value].Members
 ) ON ROWS
 FROM [Museum DB 1]
-WHERE ([Date].[Calendar].[Month].CurrentMember)
+WHERE (
+[Date].[Date Hierarchy].[Month].&[12]
+)
 
 -- 5. Jak zmiana rodzaju eksponatów (np. obrazy vs rzeźby) wpłynęła na średni czas przebywania w poszczególnych salach?
 SELECT
@@ -105,9 +111,9 @@ MEMBER [Measures].[Visits - Current Month] AS
 ([Measures].[Visit Count], [Date].[Calendar].CurrentMember)
 MEMBER [Measures].[Visits - Previous Month] AS
 ([Measures].[Visit Count],
-ParallelPeriod([Date].[Calendar].[Month], 1, [Date].[Calendar].CurrentMember))
+ParallelPeriod([Date].[Date Hierarchy].[Month], 1, [Date].[Date Hierarchy].CurrentMember))
 MEMBER [Measures].[Current Month - Previous Month Difference] AS
-'[Measures].[Visits - Current Month] - [Measures].[Visits - Previous Month]'
+[Measures].[Visits - Current Month] - [Measures].[Visits - Previous Month]
 SELECT
 {
 [Measures].[Visits - Current Month],
@@ -116,7 +122,9 @@ SELECT
 } ON COLUMNS,
 [Room].[Number].Members ON ROWS
 FROM [Museum DB 1]
-WHERE ([Date].[Calendar].[Month].CurrentMember)
+WHERE (
+[Date].[Date Hierarchy].[Month].&[12]
+)
 
 -- 7. Które sale odnotowały największy wzrost, a które największy spadek liczby odwiedzin po rotacji wystaw?
 WITH
@@ -124,7 +132,7 @@ MEMBER [Measures].[Visits - Current Month] AS
 ([Measures].[Visit Count], [Date].[Calendar].CurrentMember)
 MEMBER [Measures].[Visits - Previous Month] AS
 ([Measures].[Visit Count],
-ParallelPeriod([Date].[Calendar].[Month], 1, [Date].[Calendar].CurrentMember))
+ParallelPeriod([Date].[Date Hierarchy].[Month], 1, [Date].[Date Hierarchy].CurrentMember))
 MEMBER [Measures].[Visits Change] AS
 [Measures].[Visits - Current Month] - [Measures].[Visits - Previous Month]
 MEMBER TopIncrease AS
@@ -142,7 +150,9 @@ TopIncrease,
 BottomIncrease
 } ON ROWS
 FROM [Museum DB 1]
-WHERE ([Date].[Calendar].[Month].CurrentMember)
+WHERE (
+[Date].[Date Hierarchy].[Month].&[12]
+)
 
 -- 8. Jak liczba odwiedzin sal zmienia się w zależności od wieku eksponatów prezentowanych w danej sali?
 SELECT
@@ -154,7 +164,9 @@ NonEmpty(
 { [Measures].[Visit Count] }
 ) ON ROWS
 FROM [Museum DB 1]
-WHERE ([Date].[Calendar].[Month].CurrentMember)
+WHERE (
+[Date].[Date Hierarchy].[Month].&[12]
+)
 
 -- 9. Czy sale z eksponatami nabytymi w ostatnich latach przyciągają więcej zwiedzających w porównaniu do sal z eksponatami starszymi?
 WITH
@@ -196,4 +208,6 @@ CrossJoin(
 [Room].[Number].Members
 ) ON ROWS
 FROM [Museum DB 1]
-WHERE ([Date].[Calendar].[Month].CurrentMember)
+WHERE (
+[Date].[Date Hierarchy].[Month].&[12]
+)
