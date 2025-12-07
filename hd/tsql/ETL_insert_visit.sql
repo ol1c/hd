@@ -53,7 +53,7 @@ WITH vETLFactVisit AS (
     INNER JOIN MuseumDB.dbo.Visitor v ON vis.name = v.name
     INNER JOIN VisitorTrack.dbo.Exhibitions e ON ev.exhibition_id = e.exhibition_id
     INNER JOIN MuseumDB.dbo.Exhibition ex ON e.name = ex.name --na patencie. Nie przenosimy ID ale nazwy są UNIQUE
-    INNER JOIN MuseumDB.dbo.Room r ON e.room_id = r.number
+    INNER JOIN MuseumDB.dbo.Room r ON e.room_id = r.number AND r.effective_end_date IS NULL
     LEFT JOIN VisitorTrack.dbo.Exhibit_Exhibitions ee ON e.exhibition_id = ee.fk_exhibition_id
     LEFT JOIN #StockCSV csv ON ee.fk_exhibit_id = csv.exhibit_id
     GROUP BY ev.visit_id, ev.entry_time, ev.exit_time, d.date_id, t_entry.time_id, t_exit.time_id, ex.exhibition_id, r.room_id, v.visitor_id
