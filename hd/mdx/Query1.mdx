@@ -1,0 +1,22 @@
+-- 1. Porównaj średni czas przebywania w każdej sali w obecnym i poprzednim miesiącu.
+WITH
+MEMBER [Measures].[Avg Duration - Current Month] AS
+([Measures].[Avg Visit Dutarion], [Date].[Date Hierarchy].CurrentMember)
+MEMBER [Measures].[Avg Duration - Previous Month] AS
+([Measures].[Avg Visit Dutarion],
+ParallelPeriod([Date].[Date Hierarchy].[Month], 1, [Date].[Date Hierarchy].CurrentMember))
+MEMBER [Measures].[Difference in Avg Duration] AS
+[Measures].[Avg Duration - Current Month] - [Measures].[Avg Duration - Previous Month]
+SELECT
+{
+[Measures].[Avg Duration - Current Month],
+[Measures].[Avg Duration - Previous Month],
+[Measures].[Difference in Avg Duration]
+} ON COLUMNS,
+NON EMPTY (
+[Room].[Number].Members
+) ON ROWS
+FROM [Museum DB 1]
+WHERE (
+[Date].[Date Hierarchy].[Month].&[12]
+)

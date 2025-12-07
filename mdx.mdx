@@ -1,0 +1,199 @@
+-- 1. Porównaj średni czas przebywania w każdej sali w obecnym i poprzednim miesiącu.
+WITH
+MEMBER [Measures].[Avg Duration - Current Month] AS
+([Measures].[Avg Visit Dutarion], [Date].[Date Hierarchy].CurrentMember)
+MEMBER [Measures].[Avg Duration - Previous Month] AS
+([Measures].[Avg Visit Dutarion],
+ParallelPeriod([Date].[Date Hierarchy].[Month], 1, [Date].[Date Hierarchy].CurrentMember))
+MEMBER [Measures].[Difference in Avg Duration] AS
+[Measures].[Avg Duration - Current Month] - [Measures].[Avg Duration - Previous Month]
+SELECT
+{
+[Measures].[Avg Duration - Current Month],
+[Measures].[Avg Duration - Previous Month],
+[Measures].[Difference in Avg Duration]
+} ON COLUMNS,
+NON EMPTY (
+[Room].[Number].Members
+) ON ROWS
+FROM [Museum DB 1]
+WHERE (
+[Date].[Date Hierarchy].[Month].&[12]
+)
+
+-- Uwaga: wywołuj zapytanie z ustawionym kontekstem na konkretny miesiąc (np. przez slicer w kliencie), albo zastąp CurrentMember jawnie wskazanym miesiącem.
+
+-- 2. Które sale wykazały największą zmianę w średnim czasie przebywania po zmianie rozmieszczenia eksponatów?
+WITH
+MEMBER [Measures].[Avg Duration - Current Month] AS
+([Measures].[Avg Visit Dutarion], [Date].[Calendar].CurrentMember)
+MEMBER [Measures].[Avg Duration - Previous Month] AS
+([Measures].[Avg Visit Dutarion],
+ParallelPeriod([Date].[Calendar].[Month], 1, [Date].[Calendar].CurrentMember))
+MEMBER [Measures].[Avg Duration Change] AS
+[Measures].[Avg Duration - Current Month] - [Measures].[Avg Duration - Previous Month]
+SELECT
+{
+[Measures].[Avg Duration - Current Month],
+[Measures].[Avg Duration - Previous Month],
+[Measures].[Avg Duration Change]
+} ON COLUMNS,
+TopCount([Room].[Number].Members, 5, [Measures].[Avg Duration Change]) ON ROWS
+FROM [Museum DB 1]
+WHERE ([Date].[Calendar].[Month].CurrentMember)
+
+-- 3. Czy nowe rozmieszczenie eksponatów miało wpływ na amplitudę średniej czasu przebywania w salach?
+WITH
+MEMBER [Measures].[Avg Duration Amplitude - Current Month] AS
+(
+MAX([Room].[Number].Members,
+([Measures].[Avg Visit Dutarion], [Date].[Calendar].CurrentMember)) - MIN([Room].[Number].Members,
+([Measures].[Avg Visit Dutarion], [Date].[Calendar].CurrentMember))
+)
+MEMBER [Measures].[Avg Duration Amplitude - Previous Month] AS
+(
+MAX([Room].[Number].Members,
+([Measures].[Avg Visit Dutarion], ParallelPeriod([Date].[Calendar].[Month], 1, [Date].[Calendar].CurrentMember))) - MIN([Room].[Number].Members,
+([Measures].[Avg Visit Dutarion], ParallelPeriod([Date].[Calendar].[Month], 1, [Date].[Calendar].CurrentMember)))
+)
+MEMBER [Measures].[Avg Duration Amplitude % Change] AS
+IIF(
+[Measures].[Avg Duration Amplitude - Previous Month] = 0,
+NULL,
+(
+([Measures].[Avg Duration Amplitude - Current Month] - [Measures].[Avg Duration Amplitude - Previous Month])
+/ [Measures].[Avg Duration Amplitude - Previous Month]
+) \* 100
+)
+SELECT
+{
+[Measures].[Avg Duration Amplitude - Previous Month],
+[Measures].[Avg Duration Amplitude - Current Month],
+[Measures].[Avg Duration Amplitude % Change]
+} ON COLUMNS
+FROM [Museum DB 1]
+WHERE ([Date].[Calendar].[Month].CurrentMember)
+
+-- 4. Czy sale z eksponatami o wysokiej wartości przyciągnęły więcej uwagi i spowodowały dłuższy czas przebywania?
+SELECT
+{
+[Measures].[Avg Visit Dutarion],
+[Measures].[Visit Count]
+[Measures].[Exhibits Total Value]
+} ON COLUMNS,
+NON EMPTY
+CrossJoin(
+[Room].[Number].Members,
+[Exhibit].[Value].Members
+) ON ROWS
+FROM [Museum DB 1]
+WHERE ([Date].[Calendar].[Month].CurrentMember)
+
+-- 5. Jak zmiana rodzaju eksponatów (np. obrazy vs rzeźby) wpłynęła na średni czas przebywania w poszczególnych salach?
+SELECT
+{ [Measures].[Avg Visit Dutarion] } ON COLUMNS,
+NON EMPTY
+NonEmpty(
+[Room].[Number].Members \* [Exhibit].[Type].Members,
+{ [Measures].[Avg Visit Dutarion] }
+) ON ROWS
+FROM [Museum DB 1]
+
+-- 6. Porównaj liczbę wejść do każdej sali w obecnym i poprzednim miesiącu.
+WITH
+MEMBER [Measures].[Visits - Current Month] AS
+([Measures].[Visit Count], [Date].[Calendar].CurrentMember)
+MEMBER [Measures].[Visits - Previous Month] AS
+([Measures].[Visit Count],
+ParallelPeriod([Date].[Calendar].[Month], 1, [Date].[Calendar].CurrentMember))
+MEMBER [Measures].[Current Month - Previous Month Difference] AS
+'[Measures].[Visits - Current Month] - [Measures].[Visits - Previous Month]'
+SELECT
+{
+[Measures].[Visits - Current Month],
+[Measures].[Visits - Previous Month],
+[Measures].[Current Month - Previous Month Difference]
+} ON COLUMNS,
+[Room].[Number].Members ON ROWS
+FROM [Museum DB 1]
+WHERE ([Date].[Calendar].[Month].CurrentMember)
+
+-- 7. Które sale odnotowały największy wzrost, a które największy spadek liczby odwiedzin po rotacji wystaw?
+WITH
+MEMBER [Measures].[Visits - Current Month] AS
+([Measures].[Visit Count], [Date].[Calendar].CurrentMember)
+MEMBER [Measures].[Visits - Previous Month] AS
+([Measures].[Visit Count],
+ParallelPeriod([Date].[Calendar].[Month], 1, [Date].[Calendar].CurrentMember))
+MEMBER [Measures].[Visits Change] AS
+[Measures].[Visits - Current Month] - [Measures].[Visits - Previous Month]
+MEMBER TopIncrease AS
+TopCount([Room].[Number].Members, 3, [Measures].[Visits Change])
+MEMBER BottomIncrease AS
+BottomCount([Room].[Number].Members, 3, [Measures].[Visits Change])
+SELECT
+{
+[Measures].[Visits - Current Month],
+[Measures].[Visits - Previous Month],
+[Measures].[Visits Change]
+} ON COLUMNS,
+{
+TopIncrease,
+BottomIncrease
+} ON ROWS
+FROM [Museum DB 1]
+WHERE ([Date].[Calendar].[Month].CurrentMember)
+
+-- 8. Jak liczba odwiedzin sal zmienia się w zależności od wieku eksponatów prezentowanych w danej sali?
+SELECT
+{ [Measures].[Visit Count] } ON COLUMNS,
+NON EMPTY
+NON EMPTY
+NonEmpty(
+[Room].[Number].Members \* [Exhibit].[Creation Era].Members,
+{ [Measures].[Visit Count] }
+) ON ROWS
+FROM [Museum DB 1]
+WHERE ([Date].[Calendar].[Month].CurrentMember)
+
+-- 9. Czy sale z eksponatami nabytymi w ostatnich latach przyciągają więcej zwiedzających w porównaniu do sal z eksponatami starszymi?
+WITH
+MEMBER [New Exhibits] AS
+SUM(
+FILTER(
+[Exhibit].[Acquisition Duration].Members,
+[Exhibit].[Acquisition Duration].CurrentMember.NAME = "<1" -- coś chat przyszponcił, nie wiem czy nie trzeba
+), -- zostawić samego filter, ale nie wiem czy zadziała
+[Measures].[Visit Count]
+)
+
+MEMBER [Older Exhibits] AS
+SUM(
+FILTER(
+[Exhibit].[Acquisition Duration].Members,
+[Exhibit].[Acquisition Duration].CurrentMember.NAME <> "<1"
+),
+[Measures].[Visit Count]
+)
+
+MEMBER [Difference (New - Older)] AS
+[New Exhibits] - [Older Exhibits]
+SELECT
+{ [Measures].[Visit Count] } ON COLUMNS,
+{
+[New Exhibits],
+[Older Exhibits],
+[Difference (New - Older)]
+} ON ROWS
+FROM [Museum DB 1]
+
+-- 10. W jaki sposób rozmieszczenie wystaw między piętrami wpłynęło na średnią liczbę wejść do poszczególnych sal?
+SELECT
+{ [Measures].[Visit Count] } ON COLUMNS,
+NON EMPTY
+CrossJoin(
+[Room].[Floor].Members,
+[Room].[Number].Members
+) ON ROWS
+FROM [Museum DB 1]
+WHERE ([Date].[Calendar].[Month].CurrentMember)
