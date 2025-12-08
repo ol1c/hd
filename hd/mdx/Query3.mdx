@@ -2,9 +2,8 @@
 WITH
 MEMBER [Measures].[Avg Duration Amplitude - Current Month] AS
 (
-MAX([Room].[Number].Members,
-([Measures].[Avg Visit Dutarion], [Date].[Date Hierarchy].CurrentMember)) - MIN([Room].[Number].Members,
-([Measures].[Avg Visit Dutarion], [Date].[Date Hierarchy].CurrentMember))
+MAX([Room].[Number].Members, ([Measures].[Avg Visit Dutarion], [Date].[Date Hierarchy].CurrentMember))
+- MIN([Room].[Number].Members, ([Measures].[Avg Visit Dutarion], [Date].[Date Hierarchy].CurrentMember))
 )
 MEMBER [Measures].[Avg Duration Amplitude - Previous Month] AS
 (
@@ -29,5 +28,5 @@ SELECT
 } ON COLUMNS
 FROM [Museum DB 1]
 WHERE (
-[Date].[Date Hierarchy].[Month].&[12]
+[Date].[Date Hierarchy].[Month].&[2]
 )

@@ -1,5 +1,11 @@
 -- 9. Czy sale z eksponatami nabytymi w ostatnich latach przyciągają więcej zwiedzających w porównaniu do sal z eksponatami starszymi?
 WITH
+MEMBER [Measures].[All Exhibits Visits] AS
+SUM(
+[Exhibit].[Acquasition Duration].Members,
+[Measures].[Visit Count]
+)
+
 MEMBER [Measures].[New Exhibits] AS
 SUM(
 FILTER(
@@ -23,7 +29,7 @@ MEMBER [Measures].[Difference (New - Older)] AS
 
 SELECT
 {
-[Measures].[Visit Count],
+[Measures].[All Exhibits Visits],
 [Measures].[New Exhibits],
 [Measures].[Older Exhibits],
 [Measures].[Difference (New - Older)]

@@ -4,8 +4,11 @@ SELECT
 NON EMPTY
 CrossJoin(
 [Room].[Flor].Members,
-[Room].[Number].Members
-) ON ROWS
+ORDER(
+[Room].[Number].Children,
+[Measures].[Visit Count],
+BDESC
+)) ON ROWS
 FROM [Museum DB 1]
 WHERE (
 [Date].[Date Hierarchy].[Month].&[12]
