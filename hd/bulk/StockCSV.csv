@@ -1,226 +1,901 @@
 exhibit_id,name,author,creation_year,acquisition_year,type,value
-1,Consequatur Nam,Pieter Stashkov,514,2015,rzeźba,244253.46
-2,Recusandae Alias,Mrs Jessica Roberts,859,2024,rzeźba,700503.07
-3,Porro Nostrum,Marcus Singh,1102,2023,instalacja,153751.34
-4,Possimus Laboriosam,Jane Barrett,1979,2021,grafika,273860.97
-5,Delectus Eveniet,Mr Peter O'Neill,1982,2015,fotografia,619764.17
-6,Atque Corporis,Pieter Stashkov,1617,2021,fotografia,1053593.2
-7,Voluptates Laboriosam,Karen Smith,6,2020,obraz,2583458.48
-8,Neque Tempora,Pieter Stashkov,668,2024,fotografia,2561.8
-9,Quis Sunt,Kate Parker-Stevens,519,2018,instalacja,309989.57
-10,Exercitationem Excepturi,Pieter Stashkov,1305,2015,grafika,534896.72
-11,Itaque Autem,Dr Anne Atkinson,919,2017,grafika,1187938.35
-12,Qui Doloremque,Pieter Stashkov,1959,2014,rzeźba,507132.21
-13,Doloribus Exercitationem,Dean Wyatt,372,2019,rzeźba,110590.57
-14,Dolorem Sapiente,Amelia Knowles,1446,2015,obraz,4743.31
-15,Fuga Laborum,Ms Elizabeth Leach,353,2021,fotografia,3003874.53
-16,Dignissimos Veniam,Dr Ryan Ward,111,2021,fotografia,55369.94
-17,Porro Facere,Miss Jennifer Donnelly,1934,2014,instalacja,102826.03
-18,Repellendus Optio,Dr June Wallace,419,2022,grafika,113065.12
-19,Quia Similique,Dr Keith Young,58,2016,instalacja,29613.69
-20,Eum Ipsa,Mrs Holly Harris,1644,2018,grafika,115256.76
-21,Corrupti Placeat,Elliott Smith,1545,2015,grafika,52209.94
-22,Autem Rem,Allan Hill,1303,2021,instalacja,1313361.15
-23,Esse Placeat,Dean Davidson,1832,2024,fotografia,324002.69
-24,Explicabo Sapiente,Tony Coleman,1406,2019,instalacja,46627.82
-25,Voluptatum Harum,Hazel Mitchell,670,2023,grafika,1280852.9
-26,Ea Maiores,Miss Joan Kelly,855,2015,obraz,13971.34
-27,Tenetur Porro,Anthony Brooks-Allen,1945,2020,grafika,654249.46
-28,Aliquam Nulla,Mr Raymond Hall,804,2016,fotografia,849187.54
-29,Nisi Nobis,Max Webb,1930,2014,fotografia,443804.27
-30,Maiores Est,Sylvia Bowen-Mitchell,294,2014,obraz,842010.5
-31,Mollitia Perspiciatis,Pieter Stashkov,150,2016,grafika,29387.27
-32,Consectetur Suscipit,Terence Moore,620,2018,fotografia,24879.62
-33,Autem Deleniti,Benjamin Harding-Reeves,1281,2015,rzeźba,8903.0
-34,Eos Ut,Pieter Stashkov,848,2016,fotografia,359366.91
-35,Itaque Accusamus,Marc Kemp,255,2017,fotografia,350.83
-36,Dignissimos Non,Jeremy Wood,1040,2023,fotografia,150923.05
-37,Aliquam Modi,Pieter Stashkov,1407,2022,fotografia,72183.04
-38,Laborum Iusto,Philip Green,1802,2023,fotografia,67996.2
-39,Illum Hic,Liam Murphy-Dixon,1481,2015,rzeźba,157745.46
-40,Nam Consectetur,Mr Brian Chapman,424,2024,instalacja,112987.14
-41,Earum Illum,David Roberts,1701,2024,rzeźba,105933.33
-42,Iure Eos,Gary Dawson,585,2014,rzeźba,143991.6
-43,Laudantium Nisi,Donna Rhodes,1937,2017,grafika,1200154.2
-44,Porro Velit,Tina Phillips-Bird,1108,2018,fotografia,40110.47
-45,Vero Quaerat,Pieter Stashkov,194,2017,rzeźba,5.26
-46,Animi Molestiae,Carol Turner,289,2019,obraz,227244.08
-47,Animi Quisquam,Leonard Clarke-Smith,122,2023,grafika,98661.3
-48,Eveniet Velit,Miss Maureen Riley,1268,2016,fotografia,1927.25
-49,Ipsam Aliquid,Robert Murphy,1472,2016,grafika,30927.05
-50,Earum Assumenda,Pieter Stashkov,1596,2019,fotografia,161356.87
-51,Accusamus Voluptates,Miss Amelia Jones,182,2020,grafika,1249049.98
-52,Id Ullam,Pieter Stashkov,1709,2024,rzeźba,24765.06
-53,At Aperiam,Mr Lawrence Wood,246,2017,fotografia,41631.96
-54,Incidunt Distinctio,Yvonne King-Jones,1370,2025,obraz,68282.67
-55,Cum Voluptate,Pieter Stashkov,1799,2021,instalacja,136709.1
-56,Soluta Nulla,Dr Michael Butler,365,2020,fotografia,44482.04
-57,Consequatur Aspernatur,Dr Bradley Kirk,577,2018,instalacja,367388.81
-58,Distinctio Nulla,Caroline Perry,766,2017,obraz,161516.69
-59,Placeat Commodi,Pieter Stashkov,1319,2024,grafika,154620.26
-60,Temporibus Esse,Ms Debra Ross,1626,2014,grafika,569.93
-61,Voluptatibus Consectetur,Pieter Stashkov,1924,2025,instalacja,106080.83
-62,Repudiandae Magni,Mr Matthew Reed,1840,2018,instalacja,271335.11
-63,Modi Tenetur,Mr Iain Smith,402,2020,fotografia,332596.65
-64,Laboriosam Repudiandae,Annette Johnson,1274,2021,rzeźba,331231.29
-65,Ullam Perspiciatis,Vincent Smith-Rhodes,1448,2019,grafika,73605.77
-66,Id Id,Pieter Stashkov,1964,2019,fotografia,982548.64
-67,Recusandae Maxime,Brandon Johnson,1409,2015,obraz,603902.44
-68,Nesciunt Non,Pieter Stashkov,325,2018,rzeźba,4397.37
-69,Libero Iure,Hazel Clarke,1894,2024,rzeźba,8110.34
-70,Quasi Placeat,Brian Smith,719,2019,instalacja,11247.41
-71,Dignissimos Aspernatur,Arthur Walker-Bennett,239,2017,fotografia,102912.84
-72,Nesciunt Iure,Brandon Curtis,1728,2019,grafika,9019.06
-73,Laborum Ex,Pieter Stashkov,1153,2018,instalacja,307065.47
-74,Odit Hic,Maria Frost-Hughes,696,2025,instalacja,3879742.98
-75,Impedit Sit,Aaron Thorpe,1193,2023,rzeźba,1451715.34
-76,Explicabo Autem,Teresa Barnes,899,2023,grafika,4812.56
-77,Qui Quod,Josephine Marsden,1053,2014,obraz,348590.42
-78,Tempora Ipsa,Dr Peter Burgess,860,2023,rzeźba,66043.61
-79,Id Impedit,Clifford Hope,250,2018,rzeźba,430644.26
-80,Rem Eum,Joshua Hargreaves,1052,2019,fotografia,582642.48
-81,Repudiandae Consectetur,Pieter Stashkov,888,2014,fotografia,581523.65
-82,Quo Est,Geoffrey Cross-Pearce,1871,2020,instalacja,47254.68
-83,Vero Labore,Catherine Duffy,300,2023,rzeźba,205175.54
-84,Fugiat Minus,Dale Gill,315,2022,rzeźba,98833.13
-85,Voluptas Molestias,Stewart Smith,9,2014,fotografia,88419.15
-86,Repudiandae Quis,Lynn Hussain-Smith,325,2023,instalacja,813142.58
-87,Quo Qui,Pieter Stashkov,901,2022,fotografia,155186.53
-88,Esse Sunt,Maria Brown-Chapman,1416,2018,fotografia,86469.38
-89,Eius Expedita,Mr Norman Wong,1222,2016,grafika,303172.67
-90,Autem Aspernatur,Phillip Moore,2018,2015,grafika,396607.7
-91,Consequatur Temporibus,Pieter Stashkov,1253,2025,instalacja,1863408.51
-92,Recusandae Impedit,Shannon Jennings,1401,2021,grafika,333823.73
-93,Est Eum,Pieter Stashkov,1506,2023,obraz,932113.01
-94,Repudiandae Corporis,Tom Gray,843,2014,rzeźba,123420.57
-95,Illo Voluptas,Ms Marie Berry,198,2016,grafika,11222.74
-96,Accusantium Culpa,Valerie Hawkins,13,2014,instalacja,73615.55
-97,Minima Consequuntur,Edward Griffin,1256,2021,obraz,1246178.88
-98,Sint Impedit,Pieter Stashkov,2020,2017,obraz,53239.7
-99,Totam Vel,Dr Donna Stevens,627,2015,grafika,473416.65
-100,Voluptas Rem,Mr Owen Baker,180,2016,grafika,210220.79
-101,Ratione Rem,Pieter Stashkov,1182,2015,fotografia,1.18
-102,At Exercitationem,Ronald Barton,1478,2023,grafika,333728.42
-103,Porro Ea,Miss Maria Carroll,701,2018,fotografia,857679.55
-104,Cumque Velit,Emma Richards-Walsh,1857,2019,instalacja,1615567.74
-105,Voluptatibus Harum,Guy Woodward,267,2021,fotografia,164018.66
-106,Ab Quas,Pieter Stashkov,1265,2014,grafika,111922.47
-107,Ipsam Expedita,Janice Stevens,1780,2019,instalacja,620543.6
-108,Voluptatum Nostrum,Jayne Jones,1121,2024,fotografia,47354.48
-109,Omnis Cupiditate,Pauline Ferguson-Newman,1526,2021,fotografia,349618.82
-110,Molestiae Ipsam,Dr Megan Richardson,1898,2017,grafika,1622771.29
-111,Impedit Soluta,Anne Harrison,1376,2014,instalacja,183542.75
-112,Quis Ullam,Leonard Vaughan-Martin,1664,2024,obraz,226.22
-113,Earum A,Dennis Clark,1553,2019,obraz,231673.44
-114,Quia Aliquam,Ms Joanna White,215,2024,instalacja,3390823.13
-115,Repellendus Nisi,Ms Sarah Clarke,757,2015,rzeźba,224160.2
-116,Ea Quos,Mr Vincent Evans,562,2015,rzeźba,7083.04
-117,Repellendus Praesentium,Geraldine Brown,1572,2025,fotografia,11436.66
-118,Eveniet Assumenda,Georgina Chadwick,753,2016,fotografia,7572.45
-119,Illum Nisi,Pieter Stashkov,1119,2015,rzeźba,322031.91
-120,Eligendi Provident,Aaron Graham,324,2020,rzeźba,1239562.17
-121,Similique Et,Benjamin Singh,387,2022,instalacja,275912.27
-122,Veritatis Nesciunt,Tom Savage-Fuller,438,2015,rzeźba,191134.02
-123,Aspernatur Facere,Dr Garry Clayton,1759,2023,instalacja,1945460.11
-124,Consequuntur Molestiae,Nicole Tucker,1186,2023,grafika,156236.15
-125,Officia Et,Gillian Cross,945,2016,grafika,3415.91
-126,Corporis Architecto,Mrs Judith King,1608,2019,grafika,13550.35
-127,Necessitatibus Porro,Mary Kay-Morley,1773,2022,fotografia,84748.25
-128,Quae Omnis,Clare Hewitt,208,2024,rzeźba,280560.3
-129,Eligendi Ab,Dr Lydia Davey,317,2020,obraz,25191.88
-130,Labore Rem,Pieter Stashkov,1493,2023,grafika,849800.25
-131,Officiis Cum,Max Watson,1305,2016,fotografia,164573.34
-132,Cupiditate Ipsam,Toby Davies,217,2024,obraz,24407.05
-133,Rem Sint,Mr Guy Cook,1071,2015,instalacja,12386.1
-134,Hic Cum,Mary Mason-Hobbs,1248,2014,grafika,381066.74
-135,Eius Suscipit,George Baker,425,2017,grafika,474500.29
-136,Facilis Necessitatibus,Jill Warner,841,2025,grafika,562.41
-137,Voluptate Amet,Mrs Amanda Morris,809,2020,fotografia,2224687.29
-138,Sapiente Non,Miss Paula Hall,1523,2022,instalacja,33905.47
-139,Consequuntur Voluptatem,Jason Warner,1827,2014,obraz,83496.71
-140,Vel Autem,Pieter Stashkov,412,2025,fotografia,900506.83
-141,Dolorum Quis,Terence Young,1861,2023,rzeźba,510146.25
-142,Vel Incidunt,Georgia Parkinson-Collins,1262,2018,rzeźba,789227.04
-143,Illum Eligendi,Kim Gray,474,2023,rzeźba,373923.59
-144,Quas Explicabo,Jacob Clayton,1610,2024,rzeźba,1152512.11
-145,Dignissimos Dicta,Mr Liam Ellis,2019,2015,instalacja,344453.82
-146,Accusantium Provident,Abbie Clarke,1018,2025,rzeźba,481802.39
-147,Id Dignissimos,Mr Douglas Ward,888,2018,fotografia,31892.15
-148,Quibusdam Accusantium,Toby Morgan,1212,2019,rzeźba,112779.83
-149,Vel Consectetur,Malcolm Lee,368,2017,rzeźba,568835.65
-150,Sunt Vero,Pieter Stashkov,111,2025,grafika,86929.36
-151,Blanditiis Earum,Mr Lawrence Stephens,188,2017,instalacja,320501.98
-152,Adipisci Aperiam,Suzanne Webb-Bennett,1623,2023,instalacja,348712.13
-153,Corrupti Tempora,Henry Porter,596,2019,obraz,2889.17
-154,Veniam Est,Emily Preston,1837,2020,instalacja,80408.2
-155,Beatae Iure,Timothy Robinson,1975,2020,instalacja,1992095.56
-156,Reiciendis Voluptatem,Jacob Mills,251,2023,fotografia,78400.87
-157,Sunt Alias,Mr Douglas Armstrong,1088,2018,obraz,93178.7
-158,Autem Vitae,Dr Christopher Shepherd,513,2020,instalacja,76822.26
-159,Magnam Rem,Dr Denise Carter,1614,2020,fotografia,796840.75
-160,Quos Repellat,Paul Hughes,992,2023,fotografia,2518419.3
-161,Similique Id,Dale Watson,213,2020,obraz,201093.58
-162,Molestias Deserunt,Pieter Stashkov,1757,2025,obraz,32713.8
-163,Laudantium Fugit,Gail Johnson,369,2018,rzeźba,2315363.88
-164,Saepe Adipisci,Pieter Stashkov,1795,2025,instalacja,50616.54
-165,Qui Perferendis,Kim Bentley,1926,2024,fotografia,390811.65
-166,Veniam Enim,Mr Stephen May,303,2015,grafika,1171296.36
-167,Blanditiis Excepturi,Mrs Rebecca Bell,1417,2018,obraz,866160.11
-168,Laboriosam Distinctio,Kenneth Taylor,1087,2016,grafika,8.15
-169,Dolor Quasi,Eleanor Pickering,292,2023,fotografia,53361.52
-170,Quibusdam Nemo,Carole Wilson-Kirk,1554,2023,instalacja,11134.8
-171,Suscipit Delectus,Leonard Bentley,1373,2023,instalacja,1117769.56
-172,Excepturi Unde,Maria Foster,1915,2022,instalacja,59750.2
-173,Cum Vero,Miss Samantha Walsh,470,2014,obraz,613270.13
-174,Repudiandae Dolor,Pieter Stashkov,1975,2022,fotografia,695647.7
-175,Unde Quos,Terry Stone,43,2021,obraz,1254616.72
-176,Sunt Quod,Richard Wright,936,2022,instalacja,601054.39
-177,Voluptates Quaerat,Elliot Booth,1072,2021,rzeźba,647146.35
-178,Ducimus Mollitia,Pieter Stashkov,1023,2019,grafika,608445.38
-179,Quidem Dolorum,Simon James,1630,2022,grafika,355929.71
-180,Repellendus Deserunt,Mr Eric Richardson,909,2014,grafika,175557.23
-181,In Consectetur,Rita Gilbert-Smith,1495,2015,fotografia,10939.31
-182,Error Molestiae,Rosemary Whitehouse,98,2019,instalacja,92615.41
-183,Soluta Dicta,Eric Simpson,793,2019,grafika,457745.74
-184,Vitae Nostrum,Dr Aaron Kelly,992,2022,grafika,118438.86
-185,Laborum Quaerat,Aaron Bull,1451,2018,instalacja,917584.71
-186,Aspernatur Voluptatibus,Mr Tom O'Neill,217,2014,instalacja,416761.69
-187,Delectus Eveniet,Ms Ellie Newton,1802,2017,instalacja,368554.23
-188,Nulla Quibusdam,Pieter Stashkov,601,2025,instalacja,673369.88
-189,At Dolor,Benjamin Roberts,292,2024,fotografia,928737.66
-190,Consequuntur Neque,Christian Hall,1984,2014,rzeźba,1060886.38
-191,Aliquam Libero,Miss Michelle Booth,800,2017,fotografia,1298034.04
-192,Quis Temporibus,Cameron Cross-Bailey,564,2022,grafika,1322091.63
-193,Voluptatem Adipisci,Mr Denis Thompson,970,2019,rzeźba,54750.32
-194,Accusamus Fugit,Pieter Stashkov,1575,2018,instalacja,5746.54
-195,Similique Sapiente,Pieter Stashkov,876,2016,grafika,30494.73
-196,Ducimus Perspiciatis,Pieter Stashkov,53,2019,obraz,1112.65
-197,Repellat Voluptates,Sean Jenkins,205,2022,instalacja,312026.53
-198,Earum Quis,Dawn Miller,951,2015,fotografia,360757.03
-199,Debitis Repellendus,Pieter Stashkov,246,2021,obraz,829789.56
-200,Assumenda Ad,Dr Norman Price,1076,2018,fotografia,1053702.55
-201,Illo Vero,Rachael Lee,1660,2019,obraz,946132.15
-202,Porro Maiores,Janet Bennett,1702,2019,grafika,172974.6
-203,Laudantium Laborum,Janet Barker,424,2015,instalacja,1087642.01
-204,Aliquid Porro,Denise Brown,1871,2015,grafika,242929.35
-205,Soluta Cum,Mitchell Hope,970,2024,fotografia,151597.1
-206,Molestiae Reprehenderit,Pieter Stashkov,908,2022,grafika,149720.9
-207,Explicabo Vel,Eileen Edwards,2015,2021,rzeźba,121759.29
-208,Labore Eum,Katy Walker,1988,2017,fotografia,1630996.26
-209,Sequi Provident,Pieter Stashkov,606,2020,grafika,86929.01
-210,Doloribus Quos,Dr Kayleigh Kirby,597,2019,obraz,1052.51
-211,Accusantium Facere,Jodie O'Connor,1017,2017,fotografia,1597930.92
-212,Quaerat Optio,Alex Brown,305,2020,fotografia,215855.04
-213,Ea Animi,Clare Watkins,507,2018,instalacja,119173.29
-214,Explicabo Similique,Brian Pearson,738,2019,obraz,265.73
-215,Nesciunt Fugit,Dr Lisa Matthews,1445,2014,fotografia,793006.91
-216,Officiis Eos,Harriet Wilkinson,1689,2022,grafika,7699.3
-217,Eaque Vitae,Joan Richards,293,2014,obraz,33166.88
-218,Accusamus Libero,Zoe Barrett,854,2020,rzeźba,7860.23
-219,Veritatis Accusamus,Ricky Harrison,128,2024,obraz,62216.66
-220,Modi Quaerat,Eileen Freeman,143,2015,rzeźba,1039486.01
-221,Hic Magni,Donald Smith-Carpenter,642,2020,fotografia,204034.31
-222,Id Modi,Julian Alexander,631,2015,grafika,179151.52
-223,In Excepturi,Dr Damian Thomas,938,2020,obraz,127449.94
-224,Iste Nobis,Dr Callum Dixon,352,2023,instalacja,2019507.93
-225,Ducimus Numquam,Jacob Houghton,1874,2018,rzeźba,387529.34
+1,Illum Vitae,Michelle Bolton-Sharpe,1843,2019,instalacja,8991.99
+2,Dolorum Eius,Lee Taylor,1743,2022,instalacja,25960.46
+3,Vero Beatae,Shaun Ellis,261,2023,rzeźba,1197134.01
+4,Atque Quaerat,Suzanne Rowley,207,2025,rzeźba,142499.85
+5,Voluptas Excepturi,Stanley Harrison,1637,2025,instalacja,3658.75
+6,Dolores Quis,Pieter Stashkov,1129,2018,obraz,33699.85
+7,Soluta Saepe,Lauren Brown,1783,2024,obraz,34933.84
+8,Tempora Cupiditate,Owen Allen,821,2023,obraz,1548387.68
+9,Eveniet Eaque,Beth Johnson,1054,2022,instalacja,933952.01
+10,Minima Neque,Elaine Hewitt-Powell,622,2016,obraz,12770.16
+11,Quae Adipisci,Pieter Stashkov,1006,2018,rzeźba,598928.36
+12,Est Possimus,Ms Sally Pearson,1777,2025,rzeźba,214834.87
+13,Alias Dolor,Ms Jade Pratt,408,2025,fotografia,55481.81
+14,Excepturi Sunt,Frederick Morgan,403,2019,obraz,887097.54
+15,Veniam Labore,Pieter Stashkov,1978,2016,instalacja,271.89
+16,Libero Illum,Anthony Andrews,1308,2018,instalacja,161623.46
+17,Consequatur Totam,Callum Hodgson,1102,2025,obraz,26777.8
+18,Tempore Saepe,Scott Jones,1357,2019,obraz,2859650.28
+19,Ex Perspiciatis,Linda Riley-Smith,1026,2014,grafika,245560.36
+20,Quis Doloremque,Nathan Jordan,506,2018,grafika,138218.71
+21,Expedita Corporis,Mitchell Butler,1201,2014,instalacja,614316.39
+22,Harum Maxime,Marie Lane,799,2019,rzeźba,588103.49
+23,Debitis Explicabo,Rachael Thompson,450,2022,rzeźba,253201.52
+24,Quas Cum,Henry Sharp,788,2017,instalacja,55448.72
+25,Magnam Nihil,Chloe Barrett,898,2019,obraz,2071977.02
+26,Repellendus Natus,Miss Francesca Harris,770,2015,grafika,31241.24
+27,Ratione Debitis,Eileen Campbell,64,2017,fotografia,378140.64
+28,Dolorum Expedita,Pieter Stashkov,1072,2017,fotografia,773009.16
+29,Voluptas Minima,Maureen Martin,289,2016,fotografia,1359799.83
+30,Impedit Cupiditate,Pieter Stashkov,103,2019,grafika,602538.51
+31,Molestiae Amet,Mr Frank Khan,1723,2020,fotografia,10835.41
+32,Animi Qui,Lynda Ferguson,1369,2019,grafika,1220130.21
+33,Facere Libero,Brandon Jones-Williams,1052,2015,grafika,1132536.06
+34,Officia Totam,Olivia Cook,1322,2017,obraz,917313.34
+35,Ea Nulla,Rachael Watson,437,2021,rzeźba,5734.8
+36,Exercitationem Id,Ms Stacey Baker,635,2016,fotografia,139307.06
+37,Nostrum Vero,Brandon Nicholson-Short,1295,2014,grafika,943994.73
+38,Eaque Eaque,Dawn Cunningham,897,2021,fotografia,728.57
+39,Nisi Ab,Pieter Stashkov,1129,2022,rzeźba,168068.84
+40,Vitae At,Philip Parkes,1068,2018,obraz,413.31
+41,Inventore Minima,Alison Pritchard-Butler,360,2022,obraz,507423.87
+42,Perferendis Aliquid,Gary Nicholson,370,2022,grafika,316274.86
+43,Quos Nam,Mr Thomas Roberts,187,2015,fotografia,309692.99
+44,Accusantium Voluptatum,Oliver Williams,461,2025,instalacja,2098571.02
+45,Commodi Deserunt,Miss Pamela Booth,696,2015,grafika,43494.05
+46,Tempore Eius,Brian Wright,1688,2024,grafika,338523.44
+47,Possimus Vitae,Jordan Price,1254,2014,grafika,1722.85
+48,Quis Sit,Eileen Jackson,1492,2014,grafika,424313.37
+49,Libero Qui,Miss Kayleigh Ward,688,2017,rzeźba,18716.91
+50,Tempore Dicta,Louis Gardner,1544,2019,rzeźba,585978.39
+51,Amet Officia,Pieter Stashkov,1293,2018,obraz,782323.08
+52,Rerum Perferendis,Karl O'Brien-Barker,1332,2024,instalacja,165.33
+53,Temporibus Quaerat,Pieter Stashkov,763,2019,obraz,448447.95
+54,Iusto Nesciunt,Mr Nicholas Riley,1285,2018,obraz,40814.58
+55,Nostrum Temporibus,Michelle Williams,1676,2017,rzeźba,341822.4
+56,Adipisci Ipsa,Pieter Stashkov,436,2016,obraz,619924.21
+57,Minima Sunt,Scott Cooper,823,2018,fotografia,50078.0
+58,Quibusdam Illo,Miss Emily Parkes,1443,2021,grafika,128089.76
+59,Sequi Omnis,Dr Dylan Bennett,1073,2018,instalacja,294852.56
+60,Aut Aliquid,Liam Chambers,567,2022,fotografia,591240.97
+61,Quidem Nostrum,Carl Conway,429,2021,rzeźba,474266.06
+62,Fugiat Neque,Kimberley Richards-O'Donnell,1493,2015,grafika,149447.35
+63,Molestiae Non,Kate Dixon-Finch,611,2024,obraz,1958648.79
+64,Facere Libero,Dr Richard Parkin,1119,2019,fotografia,391648.88
+65,Unde Quos,Miss Valerie Gibbs,446,2025,grafika,2354150.17
+66,Provident Iure,Ms Diana Cooper,665,2024,obraz,65266.53
+67,Necessitatibus Consectetur,Garry Kay-Adams,808,2024,grafika,261079.18
+68,Tenetur Debitis,Ms Jodie Graham,826,2014,instalacja,33006.5
+69,Soluta Voluptate,Dr Brandon Reynolds,1674,2014,obraz,120282.22
+70,Repudiandae Nam,Dr Douglas Smith,1770,2016,rzeźba,69797.99
+71,Distinctio Molestiae,Frank Bradley,975,2024,fotografia,1326360.56
+72,Iure Rem,Natalie Curtis,1719,2016,obraz,1833784.25
+73,Nesciunt Eveniet,Pieter Stashkov,1592,2016,instalacja,566116.71
+74,Atque Cupiditate,Dr Keith Edwards,925,2023,instalacja,45586.1
+75,Exercitationem Culpa,Joseph Evans,476,2023,grafika,1190530.41
+76,Vel Nihil,Robin Jackson,98,2018,obraz,262809.3
+77,Fuga Aperiam,Joe Porter-Pratt,13,2017,rzeźba,2811.96
+78,Velit Placeat,Miss Aimee Sanderson,1646,2024,fotografia,1974.67
+79,Id Aut,Pieter Stashkov,64,2021,instalacja,221284.52
+80,Eligendi Aliquid,Pauline Walker,1303,2019,grafika,828227.99
+81,Eius Consequuntur,Simon Brown,1064,2023,obraz,1826.65
+82,Occaecati Minima,Miss Joyce Martin,320,2019,fotografia,56237.43
+83,Illo Voluptate,Dr Trevor Jackson,1528,2025,fotografia,280360.87
+84,Adipisci Nulla,Clifford Bartlett,1130,2017,fotografia,169166.53
+85,Voluptatem Cupiditate,Dr Mohamed Gibson,1610,2015,obraz,4469.76
+86,Neque Amet,Frank Mitchell,411,2019,rzeźba,248595.89
+87,Voluptas Ad,Pieter Stashkov,917,2023,grafika,150930.96
+88,Consectetur Excepturi,Marc Williams-Humphries,1893,2025,obraz,214093.13
+89,Mollitia Necessitatibus,Pieter Stashkov,1844,2016,grafika,659705.23
+90,Delectus Alias,Dr Steven Lewis,1439,2025,obraz,927926.77
+91,Tempora Nisi,Dr Steven McCarthy,24,2021,rzeźba,1239194.57
+92,Debitis Tempore,Mr Benjamin Oliver,999,2015,obraz,1547.56
+93,Modi Optio,Francis Conway,1461,2018,grafika,13535.69
+94,Aperiam Laboriosam,Pieter Stashkov,1221,2021,fotografia,26043.36
+95,Ad Officiis,Pieter Stashkov,958,2015,obraz,318248.09
+96,Non Ut,Mohamed Howarth,1910,2021,rzeźba,144754.29
+97,Facilis Enim,Andrew Owen,1920,2018,grafika,1269814.81
+98,Dolorum Veniam,Glen King-Buckley,81,2021,rzeźba,248291.97
+99,Nulla Laborum,Lucy Austin-Barrett,1221,2016,obraz,2694.01
+100,Nulla Dolores,Caroline Nicholson,1527,2021,fotografia,395659.05
+101,Esse Rem,Miss Molly Green,1170,2016,fotografia,319638.63
+102,Molestiae Saepe,Pieter Stashkov,1661,2018,rzeźba,186840.44
+103,Nobis Ipsum,Tony Willis-Williams,370,2021,obraz,721712.59
+104,Praesentium Qui,Dr Terry Jones,1336,2019,rzeźba,542377.78
+105,Tempora Aliquam,Benjamin Spencer,928,2024,fotografia,215542.67
+106,Voluptate Eaque,Joe Williams,441,2019,fotografia,19684.82
+107,Culpa Qui,Ross Wilson,2010,2020,rzeźba,101863.62
+108,Minima Voluptates,Melissa Booth,70,2014,obraz,156748.66
+109,Ducimus Ullam,Mr Sean Hardy,1648,2019,rzeźba,24830.16
+110,Nesciunt Officiis,Lynda Greenwood-Smith,773,2017,fotografia,1631890.65
+111,Molestiae Debitis,Lynn Baxter,1018,2019,obraz,131200.26
+112,Perspiciatis Vel,Leslie Stevens,725,2017,grafika,57409.34
+113,Repellat Sit,Pieter Stashkov,609,2021,grafika,2852.63
+114,Tempore Ea,Pieter Stashkov,948,2022,grafika,64024.71
+115,Esse Reiciendis,Pieter Stashkov,869,2023,rzeźba,1666.71
+116,Quisquam Laboriosam,Julia Jones,604,2018,grafika,2497.92
+117,Beatae Ullam,Mr Reece Tomlinson,597,2020,obraz,2480175.68
+118,Officiis Minima,Allan Davies,327,2019,obraz,113997.57
+119,Natus Nostrum,Pieter Stashkov,1755,2016,instalacja,87221.72
+120,Adipisci Eveniet,Martin Thorpe-Pollard,834,2024,instalacja,1872.98
+121,Ab Dolore,Mrs Leah Robertson,372,2024,fotografia,1588.45
+122,Quidem Voluptatum,Stewart Thomas,771,2018,instalacja,231380.4
+123,Iure Dolores,Pieter Stashkov,1024,2022,fotografia,1078355.16
+124,Hic Vero,Kenneth James,492,2019,rzeźba,453607.29
+125,Voluptates Quidem,Abdul Hall-Richardson,1452,2014,rzeźba,711516.12
+126,Labore Saepe,Emily Hawkins,1987,2022,obraz,279218.25
+127,Aut Repellat,Rebecca Harrison,977,2020,instalacja,623422.33
+128,Eos Facilis,Dr Eric Thompson,1705,2024,obraz,2490971.11
+129,Cum Nihil,Dr Malcolm Foster,1459,2019,rzeźba,496086.01
+130,Dolorem Totam,Pieter Stashkov,124,2020,fotografia,8.1
+131,Aliquid Tempora,Lawrence Lynch,1993,2020,obraz,2289765.61
+132,Neque Asperiores,Leah Harris,1034,2017,rzeźba,115734.54
+133,Expedita Voluptatum,Janice Johnson,713,2014,grafika,338534.0
+134,Hic In,Dr Leslie Miller,1623,2016,fotografia,388842.59
+135,Voluptatum Delectus,Geoffrey Jones-Bradley,718,2025,grafika,613176.68
+136,Magni Animi,Howard White,1886,2024,fotografia,1708483.14
+137,Blanditiis Harum,Miss Suzanne Wyatt,1776,2018,grafika,447174.59
+138,Magnam Veritatis,Dr Joshua Roberts,808,2016,fotografia,596119.35
+139,Asperiores Minima,Miss Julie Roberts,1817,2015,grafika,172093.42
+140,Est Laboriosam,Mr Richard Bell,1262,2021,grafika,579827.16
+141,Atque Cum,Kim Woods-Long,562,2023,fotografia,4391.14
+142,Consequatur Rerum,Sam Chamberlain-Baker,1298,2015,obraz,200176.3
+143,Harum Facilis,Mrs Joyce O'Brien,1276,2024,obraz,778734.78
+144,Ducimus Quo,Dr Jamie Williams,625,2020,obraz,2297793.28
+145,Excepturi Blanditiis,Mathew White,81,2016,instalacja,1052256.08
+146,Nemo Suscipit,Dr Lindsey Wilson,459,2022,fotografia,8670.63
+147,Voluptates Repellendus,Dr Sian Lee,1137,2024,rzeźba,352671.96
+148,Minus Optio,Dr Stuart Green,1310,2017,rzeźba,1875968.63
+149,Aliquam Provident,Dr Tracey Evans,476,2023,obraz,218504.32
+150,Voluptatum Tempore,Pieter Stashkov,623,2015,grafika,658608.54
+151,Vel Ad,Ian Webb,60,2015,grafika,254612.14
+152,Rerum Autem,Carol King,1688,2017,obraz,125163.28
+153,Iusto Quasi,Brian Hunt-James,1833,2024,instalacja,158613.56
+154,Ullam At,Joe Atkinson,893,2014,obraz,12869.29
+155,Quaerat Molestiae,Martin Smith-Hayes,1855,2018,rzeźba,8804.42
+156,Natus Reprehenderit,Lewis Marshall,1164,2018,obraz,74096.65
+157,Tenetur Quod,Glenn Allen,1637,2021,obraz,6603.63
+158,Eius Ex,Mitchell Fraser,1532,2025,grafika,415624.47
+159,Aut In,Pieter Stashkov,549,2014,instalacja,703878.91
+160,Nam Doloribus,Pieter Stashkov,263,2016,rzeźba,541228.08
+161,Provident Soluta,Alan Jones,1685,2014,obraz,11525.03
+162,Quos Molestias,Dr Jayne Lowe,754,2016,rzeźba,757757.76
+163,Hic Nostrum,Nicole Jones-Sharp,865,2023,instalacja,137241.0
+164,Unde Provident,Jill Hughes,1660,2022,instalacja,15771.5
+165,Consectetur Consequatur,Pieter Stashkov,144,2015,fotografia,132455.83
+166,Soluta Odio,Mr Richard Campbell,1805,2019,grafika,462341.39
+167,Quod Provident,Mrs Jacqueline Stone,425,2015,fotografia,227027.04
+168,Alias Voluptatibus,Pieter Stashkov,879,2024,fotografia,521609.18
+169,Reprehenderit Odit,Alexander Barton,705,2016,grafika,14490.63
+170,Dicta Mollitia,Carly Hardy-Webb,339,2016,obraz,940564.89
+171,Quisquam Nesciunt,Mrs Sara Davey,1512,2016,rzeźba,185737.47
+172,Tenetur Eaque,Dr Frances Watson,1514,2024,instalacja,24138.32
+173,Ut Autem,Norman Barker,638,2022,instalacja,355898.65
+174,Ipsa Ipsam,Amber Hardy,1575,2025,fotografia,224652.31
+175,Nam Doloremque,Kirsty Thompson,1840,2018,rzeźba,116438.7
+176,Beatae Ipsa,Helen Davis,1774,2025,obraz,156757.3
+177,Aspernatur Sunt,Adam Francis,1912,2019,grafika,63770.18
+178,Optio Dolorum,Mr Dale Cox,1882,2014,grafika,1670999.56
+179,Molestiae Aliquam,Julie Evans,850,2024,grafika,27008.77
+180,Veniam Dignissimos,Fiona Baker-Bailey,940,2021,obraz,2136.11
+181,Necessitatibus Facilis,Susan Jarvis,874,2024,obraz,70161.79
+182,Vero Possimus,Mr Ronald Brown,818,2022,instalacja,1143823.29
+183,Ad Nostrum,Mohammed Wood,68,2018,grafika,1071940.18
+184,Optio Officiis,Yvonne Nelson-Jones,724,2023,fotografia,502286.61
+185,Architecto Illo,Mr Gregory Farrell,130,2017,instalacja,168640.06
+186,Dolores Iusto,Pieter Stashkov,1935,2014,obraz,621460.26
+187,Est Modi,Pieter Stashkov,841,2020,grafika,165195.2
+188,Reprehenderit Natus,Pieter Stashkov,1790,2023,fotografia,177130.09
+189,Quis Distinctio,Paige Bruce,2001,2018,instalacja,1609826.59
+190,Corrupti Dolore,Natalie Roberts-Moran,505,2015,obraz,16161.79
+191,Praesentium Libero,Dorothy Archer,451,2020,rzeźba,25807.82
+192,Sequi Corrupti,Mr Mohammad Ellis,309,2016,obraz,1272.41
+193,Ab Eius,Pieter Stashkov,650,2020,instalacja,1314794.1
+194,Animi Amet,Mr Robert Simpson,1946,2020,rzeźba,102245.83
+195,Accusantium Optio,Kyle Green,509,2021,fotografia,132410.82
+196,Eum Quia,Samantha King,1108,2025,fotografia,63662.41
+197,Odio Dolores,Pieter Stashkov,2,2019,rzeźba,25709.35
+198,Vitae Sapiente,Mr Leigh Lewis,1141,2015,grafika,85858.18
+199,Ad Illo,Mrs Tracey Connolly,248,2022,grafika,314855.84
+200,Facere Possimus,Mr Carl Johnston,1814,2015,fotografia,495039.72
+201,Necessitatibus Dolorum,Heather Andrews-Wells,497,2023,grafika,538410.56
+202,Temporibus Voluptate,Robert Watts-Black,1674,2017,rzeźba,305490.0
+203,Corrupti At,Mrs Eleanor King,355,2014,rzeźba,53477.51
+204,Beatae Explicabo,Lydia Walker-Stevenson,1089,2019,instalacja,81067.81
+205,Aliquid Voluptatem,Mr Danny Davies,179,2021,instalacja,781217.43
+206,Quidem Nesciunt,Denise Jackson,1183,2022,rzeźba,965944.86
+207,Quidem Magni,Pieter Stashkov,337,2016,fotografia,230469.89
+208,Magni Enim,Dr Kevin Harris,1672,2019,instalacja,206975.06
+209,Odit Id,Fiona Martin,1239,2020,instalacja,343194.96
+210,Debitis Sint,Pieter Stashkov,1379,2018,rzeźba,450804.8
+211,Qui Quam,Claire Schofield,1871,2017,rzeźba,16579.38
+212,Rem Culpa,Miss Linda Jones,531,2024,rzeźba,203303.82
+213,Corrupti Eaque,Mrs Natasha Clark,482,2016,fotografia,119768.93
+214,Facilis Exercitationem,Pieter Stashkov,2019,2022,fotografia,12574.64
+215,Expedita Blanditiis,Pieter Stashkov,5,2022,obraz,454120.96
+216,Labore Nulla,Pieter Stashkov,1501,2023,obraz,432215.65
+217,Amet Rem,Marc Mitchell-Stokes,1969,2024,obraz,419901.29
+218,Aspernatur Doloremque,Dr Lynda Williams,1435,2024,fotografia,1119477.93
+219,Numquam Repellendus,Mr Jason Smith,1367,2018,obraz,163660.17
+220,Non Hic,Amelia Barber,1203,2020,grafika,1403830.39
+221,Officia Optio,Joyce Benson,328,2017,fotografia,1841716.78
+222,Repellat Minima,Ms Rachael Evans,1263,2015,instalacja,181691.28
+223,Fuga Ipsa,Billy Pearson,544,2019,instalacja,33622.73
+224,Aliquam Sunt,Mary Harvey,1057,2022,grafika,792016.93
+225,Voluptatem Est,Lawrence Lewis,1429,2014,obraz,186320.72
+226,Eveniet Non,Mr Julian Wright,161,2024,grafika,12526.27
+227,Adipisci Fugiat,Harry Parkin-Kelly,183,2020,fotografia,236107.99
+228,Repudiandae Repellendus,Pieter Stashkov,1126,2019,obraz,276001.83
+229,Ipsa Ab,Andrea Knight,297,2021,rzeźba,219211.34
+230,Commodi Nisi,Bradley Rose,469,2014,grafika,317274.99
+231,Voluptate Dolor,Miss Jodie Hughes,871,2023,instalacja,5859.92
+232,Porro Ex,Hilary Dodd,1382,2016,obraz,2564943.36
+233,Esse Esse,Dr Stewart Williams,747,2016,fotografia,302494.24
+234,Quisquam Neque,Mr Victor Knight,702,2016,grafika,634574.62
+235,Libero Exercitationem,Mandy Bailey,1007,2019,instalacja,74576.53
+236,Quo Nihil,Pieter Stashkov,142,2023,grafika,1971515.78
+237,Esse Iusto,Peter Stewart,40,2015,grafika,48419.99
+238,Ut Cum,Samuel Jackson,19,2017,fotografia,99680.34
+239,Quidem Mollitia,Dr Joe Griffiths,244,2018,obraz,2150.12
+240,Impedit Inventore,Ms Sandra Goodwin,231,2022,grafika,33733.93
+241,Nisi Sit,Debra Hughes,736,2017,obraz,250915.97
+242,Harum Nam,Kim Hancock,761,2020,instalacja,137397.36
+243,At Atque,Chloe Jones,1716,2024,grafika,1149095.18
+244,Eius Optio,Pieter Stashkov,1066,2019,rzeźba,544908.43
+245,Odio Doloremque,Pieter Stashkov,380,2014,instalacja,100947.93
+246,Dolore Consequuntur,Scott Williams,1507,2020,instalacja,81136.45
+247,Voluptatibus Tenetur,Miss Ellie Nicholson,98,2017,instalacja,189550.18
+248,Dolorem Voluptate,Samuel Rose,944,2022,instalacja,205420.38
+249,Qui Eaque,Lesley Begum,1397,2024,obraz,2328451.68
+250,Quisquam Aliquam,Hannah Martin,1577,2018,instalacja,151878.36
+251,Ea Numquam,Danny Clark,315,2019,instalacja,596.35
+252,Impedit Soluta,Dr Joshua Warner,497,2019,instalacja,1126941.18
+253,Incidunt Hic,Mitchell Gough,493,2019,fotografia,297940.57
+254,Distinctio Labore,Elliott Ball-Holmes,901,2015,instalacja,290440.37
+255,Accusamus Dolorum,Miss Helen Haynes,1122,2022,instalacja,11642.28
+256,Numquam Eveniet,Oliver Martin,1920,2021,fotografia,227295.73
+257,Dolor Est,Ben Jackson-Daniels,1751,2024,rzeźba,525382.4
+258,Minus Excepturi,Dr Marion Gibson,1072,2023,grafika,5641.91
+259,Deleniti Sit,Barry George,1126,2017,fotografia,37046.99
+260,Itaque Velit,Pieter Stashkov,1356,2025,instalacja,716672.56
+261,Neque Voluptas,Lynda Webb,187,2019,obraz,227883.5
+262,Inventore Consequuntur,Kirsty Shaw-Hall,1338,2023,instalacja,205146.7
+263,Odio Atque,Miss Catherine Watkins,1298,2020,obraz,69323.45
+264,Itaque Quas,Wayne Rose,1582,2018,obraz,781139.17
+265,Cupiditate Aliquid,Miss Charlene Lee,827,2015,instalacja,48685.95
+266,Blanditiis Consequuntur,Pieter Stashkov,352,2016,grafika,23593.08
+267,In Optio,Victoria Mills,1145,2018,fotografia,69859.13
+268,Ex Alias,Arthur Phillips,1076,2018,grafika,872813.3
+269,Culpa Nobis,Caroline Evans,1995,2022,instalacja,1940.2
+270,Veniam Blanditiis,Tina Wright,240,2016,fotografia,694067.44
+271,Praesentium Placeat,Donald Thompson-Barber,500,2019,fotografia,196304.74
+272,Eos Quisquam,Ashley Ryan,641,2023,instalacja,1316.22
+273,Accusamus Necessitatibus,Charlene Myers,2017,2021,obraz,1670163.7
+274,Animi Minima,Pieter Stashkov,1183,2021,grafika,76315.43
+275,Adipisci Doloremque,Ms Eileen Jarvis,549,2022,instalacja,431815.75
+276,Ducimus Voluptates,Irene Williams,1368,2014,rzeźba,412.87
+277,Ducimus Distinctio,Mrs Nicole Knight,1853,2017,instalacja,202440.55
+278,Dolor Dolorum,Toby Collins,231,2019,fotografia,1026448.12
+279,Velit Unde,Miss Rebecca Taylor,1382,2024,fotografia,745.62
+280,Esse Deleniti,Kathleen Wood,1678,2016,fotografia,716810.14
+281,Necessitatibus Debitis,Georgina Lowe,1296,2025,instalacja,8751.77
+282,Reprehenderit Nesciunt,Mr Duncan Miles,347,2017,rzeźba,13767.15
+283,Velit Laudantium,Dr Adam Peters,818,2018,grafika,535833.54
+284,Numquam Delectus,Pieter Stashkov,1777,2018,rzeźba,224013.12
+285,Neque Ut,Danielle Burrows,67,2025,grafika,228973.5
+286,Dignissimos Mollitia,Miss Victoria Hayes,1024,2025,instalacja,219092.38
+287,Voluptatum Ipsam,Kieran Carey,2011,2021,instalacja,439472.34
+288,Suscipit Ad,Tracy Harrison,291,2018,fotografia,51966.64
+289,Illum Placeat,Roger Jones,1440,2020,fotografia,1113503.66
+290,Sequi Non,Eleanor Pope,1308,2014,obraz,113326.82
+291,Minus Explicabo,Claire Brown,1459,2022,fotografia,262318.43
+292,Assumenda Voluptatem,Abdul Barnes-Patel,1061,2017,rzeźba,857720.73
+293,Repellat Tempore,Mr Victor Ali,1424,2015,instalacja,963778.16
+294,Officiis Id,Mathew Johnson,756,2019,obraz,1037822.58
+295,Excepturi Accusamus,Amanda Peacock-Ward,898,2017,obraz,1070110.01
+296,Est Aspernatur,Jemma Robinson,1352,2014,fotografia,728569.45
+297,Et Alias,Dr Antony Miller,600,2020,obraz,564358.1
+298,Deserunt Debitis,Ms Harriet Baker,1405,2020,rzeźba,507693.21
+299,Voluptatem Ipsum,Mrs Michelle Marshall,1314,2017,grafika,71026.45
+300,Animi Placeat,Pieter Stashkov,903,2019,instalacja,1660339.8
+301,Voluptatem Illo,Pieter Stashkov,1590,2020,fotografia,30545.87
+302,Laudantium Illum,Ben Murray,1847,2020,rzeźba,365110.25
+303,Maiores Odio,Oliver Rhodes,1345,2017,instalacja,469476.74
+304,Deserunt Provident,Josh Jenkins,274,2024,grafika,1467951.95
+305,Totam Doloremque,Mr Wayne Walters,1922,2023,instalacja,904342.27
+306,Eligendi Eligendi,Beth Bradshaw,1951,2018,instalacja,789645.98
+307,Blanditiis Atque,Mrs Shannon George,1719,2014,instalacja,458048.92
+308,Mollitia Veritatis,Beverley Walsh-Andrews,1205,2014,obraz,556040.36
+309,Fugit Et,Ian Patel-Chadwick,1089,2024,obraz,138411.47
+310,Eveniet Eligendi,Mr Jonathan Quinn,1868,2025,rzeźba,529782.98
+311,Rem Cum,Irene Edwards-Wood,1839,2021,rzeźba,664739.16
+312,Aspernatur Aperiam,Antony Brooks,545,2017,obraz,294342.18
+313,Hic Laboriosam,Pieter Stashkov,1100,2017,obraz,2392987.84
+314,Inventore Odio,Steven Begum,715,2022,instalacja,33897.81
+315,Voluptatum Ducimus,Ms Susan Davis,664,2023,fotografia,217020.23
+316,Exercitationem Asperiores,Michelle Johnson-Andrews,129,2024,obraz,650464.13
+317,Consequuntur Aperiam,Nathan Hayward,632,2016,obraz,3061.55
+318,Corporis Doloribus,Garry Turner,1759,2024,rzeźba,125808.91
+319,Doloremque Eveniet,Max Collins,1771,2020,fotografia,170279.64
+320,Totam Sint,Pieter Stashkov,1291,2020,obraz,299927.74
+321,Nemo Ducimus,Kyle Clark,477,2015,rzeźba,14297.0
+322,Porro Quaerat,Ms Margaret Collins,803,2017,instalacja,69454.06
+323,Officia Quae,Ms Amelia Wright,120,2021,instalacja,243025.64
+324,Delectus Qui,Terry Webb,25,2014,fotografia,909014.54
+325,Provident Earum,Abigail Knight,793,2018,rzeźba,172839.74
+326,Pariatur Odio,Michael Bailey,141,2019,grafika,351201.99
+327,Nulla Facere,Pieter Stashkov,1721,2024,grafika,78022.17
+328,Ipsam Delectus,Pieter Stashkov,218,2016,obraz,884618.52
+329,Corporis Reprehenderit,Mr Guy Davies,544,2017,grafika,267880.1
+330,Totam Deserunt,Mr Malcolm Cook,1196,2021,instalacja,830023.23
+331,A Assumenda,Frank Campbell,1212,2018,obraz,82827.77
+332,Debitis Quae,Wayne Carter-Vaughan,1918,2018,fotografia,585302.42
+333,Et Cupiditate,Graham Long,327,2025,obraz,102293.01
+334,Quaerat Repellendus,Pieter Stashkov,1473,2024,obraz,673956.58
+335,Veniam Consectetur,Marion Jones-Nelson,1020,2023,grafika,34637.47
+336,Odit Quas,Nicole Clements-Richards,562,2017,rzeźba,286395.01
+337,Dignissimos Dolores,Miss Debra Baker,243,2022,obraz,12840.35
+338,Dolore Nobis,Mr Guy Fox,587,2022,obraz,12486.66
+339,Harum Incidunt,Dr Dale Martin,936,2025,obraz,223083.84
+340,Maiores Sequi,Liam McDonald,61,2014,fotografia,63364.1
+341,Facere Corporis,Kathleen Parker,532,2014,rzeźba,39827.98
+342,Sit Minima,Pieter Stashkov,1969,2023,fotografia,34893.65
+343,Exercitationem Saepe,Pieter Stashkov,426,2018,instalacja,895615.0
+344,Veniam Aliquam,Maureen Rhodes,1211,2021,rzeźba,9606.96
+345,Voluptatum Vitae,Lynda Slater,509,2018,rzeźba,700292.3
+346,Corrupti Ullam,Carol Field,187,2021,fotografia,80565.67
+347,Iure Vero,Duncan O'Connor,315,2021,fotografia,570881.57
+348,Nobis Blanditiis,Amber Lee-Bishop,1144,2017,fotografia,735448.14
+349,Nam Provident,Abigail Harding,1609,2019,grafika,934445.03
+350,Officiis Totam,Brenda Begum-Burton,1493,2020,fotografia,155881.05
+351,A Repellat,Mrs Mandy Thomas,1373,2021,instalacja,373857.37
+352,Consectetur Nam,Pieter Stashkov,83,2022,rzeźba,1573888.68
+353,Quod Aliquam,Danny Bennett,1913,2023,obraz,1282.14
+354,Quas Quae,Miss Hollie Lloyd,1712,2023,rzeźba,336828.83
+355,Minus Aspernatur,Dr Jade Thomas,237,2025,rzeźba,493768.53
+356,Doloremque Cum,Ruth Turner-Richardson,2022,2015,instalacja,1503822.43
+357,Amet Eius,Julie Moore-Scott,1979,2020,grafika,105023.68
+358,Distinctio Iste,Lee Wilson-Davies,888,2018,rzeźba,182325.71
+359,Atque Praesentium,Guy Mitchell,1769,2024,obraz,13844.33
+360,Ad Officiis,Miss Natasha Jones,958,2014,rzeźba,1399092.14
+361,Non Ea,Dominic Griffin,605,2025,obraz,1315.47
+362,Voluptates Accusamus,Jacqueline Andrews,642,2023,fotografia,2035486.82
+363,Placeat Quo,Pieter Stashkov,506,2015,fotografia,176448.26
+364,Consectetur Porro,Ben Williams,1409,2014,grafika,8846.95
+365,Nisi Accusamus,Rachael Hunt-Russell,1908,2015,grafika,30903.93
+366,Eum Labore,Louis Fletcher,265,2016,obraz,779549.05
+367,Placeat Libero,Pieter Stashkov,1721,2020,grafika,246972.7
+368,Dolor Omnis,Billy Smith,1453,2021,obraz,159498.52
+369,Inventore Odio,Carole Saunders,1971,2025,obraz,255786.45
+370,Architecto Aspernatur,Teresa Wheeler-Taylor,1499,2024,grafika,312001.86
+371,Eius Ullam,Mr Luke Lewis,397,2023,instalacja,371608.35
+372,Assumenda Alias,Barry Sharp-Ball,1881,2018,instalacja,93.16
+373,Fugiat Vel,Craig Dyer,1893,2015,instalacja,1836275.15
+374,Repudiandae Enim,Molly Hooper,1249,2022,instalacja,842862.07
+375,Culpa Earum,Pieter Stashkov,1948,2017,rzeźba,1224716.77
+376,Nobis Deleniti,Miss Amy Adams,263,2023,grafika,808808.67
+377,Consectetur Debitis,Pieter Stashkov,1728,2019,instalacja,99267.62
+378,Provident Quae,Frank Dixon-Booth,811,2016,grafika,145459.06
+379,Excepturi Itaque,Pieter Stashkov,1628,2024,obraz,215421.8
+380,Sequi Necessitatibus,Charlene Knight,1653,2020,obraz,290013.75
+381,Accusamus Cum,Carol Sharpe,999,2023,fotografia,86783.57
+382,Saepe Molestiae,Sara Wood,1153,2019,instalacja,1019948.93
+383,Eaque Perferendis,Dr Rosie Baker,910,2021,instalacja,421774.59
+384,Ad Voluptatem,Ms Teresa Marsh,1623,2024,fotografia,259113.99
+385,Quas Exercitationem,Natasha Johnson,1113,2024,instalacja,1297785.28
+386,Distinctio Accusantium,Emma Davis-Shaw,1749,2021,obraz,9611.22
+387,Quae Quisquam,Rosemary Lane,1318,2021,obraz,16.1
+388,Natus Quae,Craig Bird,780,2023,fotografia,711.75
+389,Temporibus In,Mr Brandon Carroll,1946,2019,instalacja,99.13
+390,Eaque Tempore,Mrs Nicole Palmer,995,2017,fotografia,6546.23
+391,Id Voluptatum,Pieter Stashkov,328,2023,fotografia,235948.73
+392,Pariatur Perspiciatis,Suzanne McCarthy,730,2023,obraz,411692.32
+393,Possimus Accusantium,Stuart Hughes,924,2018,instalacja,1143670.91
+394,Est Repellat,Pieter Stashkov,1498,2015,instalacja,160089.63
+395,Ducimus Ex,Ms Sylvia Moss,130,2025,instalacja,1259488.81
+396,Cupiditate Nisi,Mr Marc Hawkins,565,2018,instalacja,613239.28
+397,Cumque Dolore,Pieter Stashkov,694,2018,grafika,276631.13
+398,Asperiores Asperiores,Leslie Clark,1841,2022,instalacja,286520.79
+399,Perferendis Officiis,Dr Connor Dickinson,485,2022,instalacja,349034.74
+400,Ex Quis,Carole Stewart,455,2015,instalacja,212206.31
+401,Illum At,Hayley Richards,1048,2014,obraz,514379.58
+402,Incidunt Modi,Tracey Richardson,2000,2024,rzeźba,563468.82
+403,Culpa Enim,Ms Jenna Read,1342,2016,fotografia,259539.13
+404,Maiores Perferendis,Natalie Stokes,858,2019,rzeźba,678207.56
+405,Vitae Amet,Janet Jones,1671,2019,fotografia,75773.43
+406,Doloremque Ratione,Jane Anderson-Bentley,772,2019,rzeźba,52881.7
+407,Consequuntur Ratione,Janet Wright,227,2014,obraz,23720.55
+408,Natus Debitis,Marcus Ross,816,2023,instalacja,628461.17
+409,Sunt Architecto,Karen Hughes,464,2014,grafika,29729.64
+410,Modi Magni,Stuart James,1962,2019,rzeźba,1180378.84
+411,Eius Explicabo,Dr Ronald Moore,1169,2018,fotografia,201394.02
+412,Necessitatibus Eius,Joan Harris,1716,2018,grafika,6235.39
+413,Fugit Vitae,Gerard Jones-Robson,1009,2023,rzeźba,169222.41
+414,Voluptatum Laboriosam,Pieter Stashkov,763,2015,instalacja,572814.28
+415,Quo Sit,Pieter Stashkov,308,2017,grafika,101663.0
+416,Neque Itaque,Antony Gregory,555,2017,grafika,1644021.09
+417,Soluta Doloremque,Sophie Chambers,1927,2018,obraz,181863.79
+418,Odio Voluptates,Craig Harper,1100,2024,fotografia,4.62
+419,Porro At,Henry Townsend,709,2015,instalacja,621.05
+420,Placeat Quidem,Denise Bond,767,2018,fotografia,55026.01
+421,Totam Tempore,Leonard Richards,234,2018,obraz,86604.6
+422,Dolor Cum,Pieter Stashkov,343,2014,fotografia,201047.38
+423,Suscipit Nemo,Dennis Howard,1887,2024,fotografia,561.08
+424,Dolores Suscipit,Elaine Baker,82,2014,fotografia,617985.39
+425,Tempora Eveniet,Pieter Stashkov,1556,2018,obraz,495607.67
+426,Eligendi Quas,Kate Mason,1767,2019,obraz,526397.91
+427,Doloribus Quidem,Lucy Begum,2023,2018,fotografia,181179.66
+428,Laudantium Necessitatibus,Mr Timothy Richards,96,2019,obraz,1458950.49
+429,Ullam Molestias,Dr Marion Weston,233,2020,fotografia,1689.94
+430,Ab Alias,Ms Marie Lambert,1411,2017,grafika,297991.71
+431,Ducimus Nulla,Dr Maureen Clark,191,2024,obraz,102008.44
+432,Suscipit Itaque,Dr Jamie Daly,1960,2014,fotografia,42927.1
+433,Quibusdam Blanditiis,Natasha Harrison,1161,2023,grafika,457099.6
+434,Necessitatibus Repellat,Kevin Pugh,1140,2024,instalacja,190244.54
+435,Velit Totam,Kathryn Thorpe,355,2015,fotografia,174421.94
+436,Suscipit Pariatur,Maria Smith,1325,2018,grafika,151322.15
+437,Sint Magnam,Maria Smith,1565,2016,rzeźba,175752.68
+438,Quod Maiores,Jayne Reid,213,2014,grafika,154213.02
+439,Ad Quia,Lynne Gilbert,1445,2023,obraz,1347316.53
+440,Et Deserunt,Miss Grace Smith,1870,2020,rzeźba,78621.8
+441,Tempore Rem,Miss Abbie Allen,704,2018,rzeźba,55806.53
+442,Est Inventore,Gerard Dennis,256,2017,obraz,1227.04
+443,Quod Ut,Elliot Hudson,215,2019,grafika,36477.1
+444,Ducimus Incidunt,Claire Taylor,893,2023,obraz,522033.4
+445,A Optio,Robin Mitchell,1840,2024,instalacja,1910903.93
+446,Harum Corrupti,Pieter Stashkov,161,2016,obraz,69066.92
+447,Ipsa Nulla,Geraldine Jackson,1160,2019,rzeźba,556280.81
+448,Assumenda Magnam,Mr Matthew Phillips,242,2016,fotografia,8741.04
+449,Eum Eligendi,Mr Jordan Hilton,1463,2023,rzeźba,409026.95
+450,Similique Consequuntur,Gail Welch,301,2022,rzeźba,496648.0
+451,Minus Quasi,Miss Sophie Wright,1423,2016,fotografia,12218.72
+452,Inventore Sequi,Lee Taylor,1256,2017,fotografia,284441.23
+453,Sequi Voluptates,Bryan Carpenter,203,2019,grafika,1085.38
+454,Doloribus Pariatur,Tom Gregory,1499,2018,grafika,33012.58
+455,Repudiandae Corrupti,Marie Williams,120,2022,obraz,207459.6
+456,Delectus Similique,Ashleigh White-Norman,530,2019,fotografia,187874.45
+457,Itaque Ex,Melanie Smith-Davis,2022,2025,instalacja,1156.88
+458,Beatae Impedit,Pieter Stashkov,1520,2025,grafika,10864.73
+459,Alias Mollitia,Aimee Carroll,253,2023,grafika,161117.02
+460,Eum Porro,Graeme Lambert,143,2024,rzeźba,525650.24
+461,Reprehenderit Sequi,Mark Armstrong,1549,2023,obraz,638662.02
+462,Possimus Ratione,Carl Short,431,2025,instalacja,625984.86
+463,Numquam Fuga,Dr Maurice Holmes,495,2017,rzeźba,17011.04
+464,Dignissimos Natus,Dr Roger Williams,857,2017,rzeźba,311660.66
+465,Ipsum Occaecati,Ruth Martin-Bailey,962,2023,obraz,12634.71
+466,Molestiae Totam,Miss Dawn Collins,1793,2024,grafika,4685.87
+467,Accusantium Quis,Marc Smith,861,2020,fotografia,1227544.07
+468,Reprehenderit Dolor,Bradley Wright,777,2014,rzeźba,103124.52
+469,Aperiam Placeat,William Hughes-McKenzie,1682,2017,grafika,181776.65
+470,Culpa Ad,Carolyn Moss,1721,2016,rzeźba,1325211.43
+471,Ad Perferendis,Pieter Stashkov,657,2015,rzeźba,1161.54
+472,Consequatur Esse,Clifford Chamberlain,1695,2015,instalacja,277636.66
+473,Rerum Quas,Pieter Stashkov,13,2021,obraz,9677.02
+474,Id Tempore,Dr Beverley Price,1852,2017,instalacja,1071189.16
+475,Voluptates Vitae,Samuel O'Brien,396,2015,rzeźba,280218.52
+476,Sint Quia,Albert Pope,1793,2020,instalacja,1254800.45
+477,Molestiae Similique,Lee Williams-Dunn,234,2015,instalacja,46636.17
+478,Iusto Vitae,Pieter Stashkov,217,2020,instalacja,499503.72
+479,Saepe Necessitatibus,Kayleigh Hughes-White,355,2019,obraz,256897.51
+480,Laborum Possimus,Kelly Walsh,1985,2022,fotografia,123010.4
+481,Odit Temporibus,Sean Mitchell,1968,2024,instalacja,448680.98
+482,Amet Magni,Brett Smith,1650,2022,grafika,902713.5
+483,Possimus Reprehenderit,Pieter Stashkov,1456,2017,grafika,530589.35
+484,Ducimus Assumenda,Dr Robert Collins,1374,2019,instalacja,410341.51
+485,Veritatis Totam,Caroline Fisher,304,2024,rzeźba,30255.12
+486,Magnam Magni,Joshua Allan,887,2022,rzeźba,28879.95
+487,Voluptatibus Suscipit,Mr Mohammad Adams,1531,2022,grafika,839370.7
+488,Laborum Quis,Adrian Moore,310,2022,fotografia,2194671.91
+489,Doloribus Esse,Gregory King,1883,2017,rzeźba,634535.57
+490,Eius Magni,Mr Karl James,823,2016,fotografia,898518.24
+491,Cum Optio,Ms Lynn Gough,967,2016,rzeźba,346643.08
+492,Ea Excepturi,Sandra Sharpe,662,2020,instalacja,101432.76
+493,Explicabo In,Dr Frank Smith,1409,2019,obraz,414225.02
+494,Dolorum Expedita,Leslie Simpson,1127,2020,rzeźba,923219.16
+495,Unde Eos,Rachael Whitehead-Anderson,12,2016,rzeźba,211789.28
+496,Nobis Sit,Pieter Stashkov,1549,2025,fotografia,532948.32
+497,Quibusdam Totam,Stanley Cooper,559,2022,instalacja,192086.87
+498,Quas Nulla,Mrs Holly Fox,616,2022,grafika,296545.05
+499,Excepturi Vero,Ashley Griffiths,1474,2014,grafika,404511.01
+500,Doloribus Illo,Mathew Richardson,2,2021,fotografia,21525.86
+501,Quidem Impedit,Kyle Bull,647,2018,rzeźba,2477303.8
+502,Labore Reprehenderit,Stewart Holt,1644,2016,obraz,1108386.22
+503,Omnis Quo,Damien Watson-Robertson,2015,2019,grafika,125197.05
+504,Accusamus Laudantium,Pieter Stashkov,2019,2017,fotografia,33731.82
+505,Aspernatur Consequuntur,Jodie Fisher-Thomas,1691,2021,instalacja,627318.32
+506,Maiores Consequuntur,Carol Turner,977,2020,rzeźba,153915.97
+507,Architecto Neque,Stewart Preston,1534,2024,fotografia,804284.22
+508,Labore Velit,Olivia Potter,1616,2014,rzeźba,75540.58
+509,Atque Autem,Miss Chelsea Woods,117,2022,obraz,24952.7
+510,Quibusdam Distinctio,Pieter Stashkov,1762,2023,grafika,20360.24
+511,Molestias Voluptatibus,Beth Smith,1959,2021,obraz,1220311.58
+512,Totam Voluptates,Jane Carr,538,2016,fotografia,119783.43
+513,Ullam Deleniti,Mrs Hilary Miller,963,2019,fotografia,110512.19
+514,Repellat A,Pieter Stashkov,299,2016,rzeźba,186950.36
+515,Vero Aliquid,Shane James-Wright,711,2023,obraz,237698.81
+516,Ab Voluptas,Billy Newman-Thompson,1646,2022,fotografia,2325710.01
+517,Doloremque Est,Pieter Stashkov,75,2023,fotografia,562605.23
+518,Repudiandae Dolorum,Ryan Bennett,1431,2017,obraz,391268.49
+519,Sed Sunt,Holly Johnson-Shepherd,335,2025,instalacja,837109.3
+520,Eius Expedita,Pieter Stashkov,839,2024,grafika,13051.52
+521,Id Sunt,Dr Beverley Smith,537,2021,instalacja,50364.52
+522,Tempore Consequuntur,Bruce Middleton,1318,2020,instalacja,1342402.68
+523,Eius Porro,Matthew Harvey-Jackson,1588,2024,grafika,429269.99
+524,Totam Inventore,Douglas Walton,1422,2021,rzeźba,694314.56
+525,Sunt Aspernatur,Pieter Stashkov,1308,2019,instalacja,67.89
+526,Laborum Libero,Dr Jessica Thomas,1778,2019,grafika,195992.05
+527,Itaque Odio,Neil Wood,1257,2021,grafika,444100.26
+528,Dolor Porro,Pieter Stashkov,1357,2022,grafika,243114.79
+529,Repellendus Magnam,Sylvia Davies,509,2020,rzeźba,227460.91
+530,Delectus Quaerat,Joshua Gray,1157,2025,instalacja,385227.2
+531,Commodi Quis,Pieter Stashkov,734,2021,obraz,14851.75
+532,Delectus Molestiae,Joseph Patel,1477,2022,fotografia,28342.6
+533,Nesciunt Ea,Frances Walker,843,2019,grafika,35409.01
+534,Adipisci Similique,Pieter Stashkov,1307,2020,instalacja,99046.75
+535,Excepturi Ipsum,Pieter Stashkov,1445,2015,rzeźba,85866.71
+536,Facilis Quam,Gregory Berry,21,2023,instalacja,115592.73
+537,Quas Neque,Donald Bell,449,2021,instalacja,932569.33
+538,Facere Blanditiis,Zoe Newton,1922,2018,grafika,426236.99
+539,Atque Deleniti,Joel Booth,1949,2022,instalacja,145552.49
+540,Libero Deleniti,Nicola Rice,988,2023,obraz,4.99
+541,Explicabo A,Mr Donald Hamilton,711,2024,fotografia,26684.89
+542,Iusto Ab,Pieter Stashkov,1854,2014,rzeźba,39984.45
+543,Iste Veritatis,Frances Cooper,935,2015,fotografia,399954.84
+544,Vitae Sit,Carly Kemp,277,2014,fotografia,52093.96
+545,Dicta Tempore,Mr Adam Warren,207,2021,grafika,54483.01
+546,Praesentium Facilis,Shannon Lloyd,548,2024,instalacja,62544.19
+547,Perferendis Aliquid,Pieter Stashkov,885,2019,fotografia,40426.02
+548,Illo Quis,Pieter Stashkov,1728,2025,instalacja,1022047.24
+549,Repudiandae Iure,Dr David Robinson,1980,2016,obraz,795363.27
+550,Reprehenderit Doloribus,Dr Frank Hughes,1890,2014,rzeźba,1619653.55
+551,Optio Minus,Mandy Kelly,372,2017,fotografia,2121.99
+552,Iusto Saepe,Dr Phillip Spencer,1461,2015,obraz,811330.08
+553,Itaque Recusandae,Declan Smith,821,2018,rzeźba,73225.87
+554,Consectetur Nisi,Hollie Reeves,1437,2014,fotografia,175444.14
+555,Aperiam Aliquid,Mrs Jennifer Lee,751,2017,fotografia,28650.59
+556,Illum Sint,Henry Cooper,1429,2015,obraz,436655.63
+557,Ipsa Aperiam,Pieter Stashkov,190,2019,obraz,973596.95
+558,Aspernatur Laboriosam,Benjamin Wright-Barnes,359,2014,rzeźba,425391.27
+559,Sed Harum,Rachel Lloyd,904,2017,obraz,14022.46
+560,Nesciunt Asperiores,Mrs Vanessa Evans,262,2014,obraz,64844.38
+561,Necessitatibus Consequatur,Dr Sylvia Lee,981,2023,instalacja,7359.93
+562,Ducimus Odit,Hollie Young-Johnson,575,2021,instalacja,29945.68
+563,Iure Accusantium,Julian Barnett,987,2018,grafika,144295.74
+564,Aut Pariatur,Billy Smith,900,2015,rzeźba,1933104.9
+565,Ut Nostrum,Pieter Stashkov,878,2014,rzeźba,624467.76
+566,Dignissimos Velit,Dr Dawn Cox,2000,2025,fotografia,663270.08
+567,Blanditiis Architecto,Iain Richardson,1280,2025,grafika,1715077.0
+568,Perspiciatis Officiis,Anna Kay,1481,2018,grafika,62849.18
+569,Illum Id,Joan Walker,283,2015,rzeźba,172838.27
+570,Assumenda Itaque,Sean Scott-Warren,1790,2023,rzeźba,1.6
+571,Quasi Vitae,Pieter Stashkov,496,2021,rzeźba,495005.37
+572,Placeat Corporis,Mr Allan Preston,127,2015,rzeźba,771909.66
+573,Quae In,Albert Roberts,529,2020,fotografia,35097.02
+574,Eaque Ipsa,Harriet Dunn,931,2019,obraz,3.93
+575,Deserunt Eaque,Dr Teresa Williams,1873,2021,rzeźba,272600.36
+576,Ullam Dolor,Dr Arthur Gill,931,2016,fotografia,9558.01
+577,Dolore Quis,Marian Brown-Campbell,342,2014,obraz,282981.66
+578,Doloremque Quas,Georgia Metcalfe,812,2021,fotografia,193355.9
+579,Illum Vel,Jamie Nicholson,783,2019,instalacja,43398.86
+580,Mollitia Facere,Pieter Stashkov,1867,2021,grafika,598982.48
+581,Vero Laboriosam,Gregory Payne,1230,2024,rzeźba,57167.14
+582,Molestiae Aperiam,Tracy Turner,749,2020,fotografia,1118075.06
+583,Odit Quod,Dr Gary Wright,1989,2014,fotografia,410303.83
+584,Dignissimos Blanditiis,Pieter Stashkov,201,2024,rzeźba,823259.92
+585,Eos Eaque,Mr Aaron Williams,1641,2014,fotografia,214155.85
+586,Dolor Illo,Marcus Gregory,671,2016,instalacja,563443.76
+587,Ullam Voluptates,Ms Emma Jones,1412,2024,grafika,592549.49
+588,Qui Expedita,Sophie Bates-Lees,1579,2021,rzeźba,896876.44
+589,Atque Similique,Dr Glen Bradshaw,350,2014,rzeźba,196960.64
+590,Asperiores Molestiae,Dr Stewart Ryan,535,2017,fotografia,53777.76
+591,Aspernatur Modi,John Fisher,611,2023,grafika,648978.87
+592,Maxime Eos,Pieter Stashkov,1906,2015,instalacja,1297839.71
+593,Vel Debitis,Mr Tony Murphy,896,2022,rzeźba,1330734.3
+594,Error Cumque,Christopher Holmes,565,2014,rzeźba,151.39
+595,A Eius,Mrs Diane Roberts,1991,2017,obraz,88223.46
+596,Iure Facere,Dr Reece Hill,1459,2022,instalacja,3920.51
+597,Inventore Doloribus,Sandra Rees,1658,2020,fotografia,94.72
+598,Quod Illum,Jack Burrows,531,2014,grafika,218408.09
+599,Rem Expedita,Pieter Stashkov,1667,2014,grafika,1138941.18
+600,Occaecati Veniam,Clifford Ryan,1132,2014,rzeźba,80019.56
+601,Qui Quaerat,Mrs Hazel Parker,940,2021,grafika,327519.19
+602,Inventore Aspernatur,Donald Stewart,1192,2024,rzeźba,30067.17
+603,Rem Quas,Ricky Brown-Smith,633,2022,fotografia,276493.42
+604,Assumenda Excepturi,Wayne Hamilton,110,2021,instalacja,118603.32
+605,Ea Beatae,Pieter Stashkov,607,2014,grafika,388046.61
+606,Eligendi Facere,Miss Nicole Simmons,799,2024,fotografia,45308.51
+607,Quam Architecto,Dr Darren Wilson,816,2018,instalacja,1933720.49
+608,Ex Repellat,Jeremy Curtis,634,2018,rzeźba,1030831.72
+609,Deserunt Vitae,Jennifer Gibson-Hicks,970,2016,instalacja,119615.14
+610,Blanditiis Atque,Pieter Stashkov,479,2022,rzeźba,961222.84
+611,Perspiciatis Rerum,Guy Mellor-Bates,1184,2017,grafika,1410.61
+612,Mollitia Autem,Carl Harris,501,2021,grafika,73130.43
+613,Voluptatibus Occaecati,Edward Evans-Harvey,12,2019,rzeźba,933384.45
+614,Doloremque Exercitationem,Dr Antony Jenkins,1721,2018,rzeźba,159382.41
+615,Repudiandae Quos,Raymond Harrison,1900,2014,instalacja,1024690.82
+616,Laborum Facilis,Dale Griffiths,933,2014,fotografia,114154.36
+617,Quis Provident,Dawn Sharpe-Davies,308,2024,instalacja,10459.38
+618,At Eaque,Mr Ronald Rose,190,2023,rzeźba,105014.24
+619,Voluptates Fugiat,Abdul Watkins-Davies,984,2015,grafika,34984.72
+620,Quaerat Ipsa,Kathleen Hart,1572,2016,rzeźba,276204.91
+621,Occaecati Exercitationem,Max Graham,739,2020,fotografia,5326.53
+622,Inventore Explicabo,Gillian Newton,314,2017,instalacja,31417.39
+623,Qui Accusantium,Gemma Law,756,2015,rzeźba,669177.19
+624,Sit Cupiditate,Dominic Whittaker-Chapman,946,2024,fotografia,1765950.55
+625,Suscipit Excepturi,Sharon Richardson,39,2023,fotografia,726035.57
+626,Esse Iste,Martyn Edwards,1010,2018,rzeźba,67628.08
+627,Repellat Nihil,Dr Leah Wilson,593,2020,obraz,1643299.37
+628,Eos Repudiandae,Pieter Stashkov,1499,2024,grafika,129401.33
+629,Voluptatum At,Dr Ben Jones,1461,2024,fotografia,221423.96
+630,Voluptatibus Eligendi,Dr Ian Ross,612,2022,rzeźba,10481.33
+631,Omnis Vero,Laura Hall,284,2025,grafika,2021019.74
+632,Magnam Consequuntur,Megan Stanley,1019,2024,rzeźba,14227.85
+633,Quas Dolore,Louis Butler-Norton,1369,2020,grafika,288383.52
+634,Ducimus Numquam,Ruth Harper,612,2024,obraz,668045.36
+635,Hic A,Dr Leigh Pugh,161,2025,fotografia,520209.55
+636,Nostrum Ea,William Thomas,1472,2025,grafika,348573.45
+637,Architecto Vero,Mr Neil Elliott,1282,2021,rzeźba,926102.88
+638,Quod Debitis,Ian Morris-Johnson,259,2024,rzeźba,2403910.97
+639,Accusamus Officia,Pieter Stashkov,990,2019,rzeźba,382938.3
+640,Excepturi Saepe,Brian Harris,1883,2019,instalacja,39354.47
+641,Eos Veritatis,Megan Dunn,451,2014,instalacja,1993.78
+642,Culpa Aut,Dr Gerald Vincent,53,2016,grafika,337731.19
+643,Atque Similique,Graham Smith-Knight,75,2024,fotografia,16209.54
+644,Necessitatibus Assumenda,Dr Richard Hunt,1383,2016,fotografia,2021946.41
+645,Libero Velit,Pieter Stashkov,1658,2025,rzeźba,141548.46
+646,Dicta Suscipit,Pieter Stashkov,553,2021,grafika,712507.38
+647,Sed Magni,Ronald Poole-Walker,1815,2019,obraz,506634.02
+648,Accusamus Eum,Shaun Poole,785,2023,instalacja,1172073.31
+649,Dolorem Incidunt,Amanda Dunn,1555,2015,grafika,15974.76
+650,Doloribus Odio,Tracy Jenkins-Brown,1868,2015,obraz,8229.61
+651,Quidem Ducimus,Pieter Stashkov,152,2020,rzeźba,1867182.69
+652,Fuga Distinctio,Charlene Hanson,307,2024,instalacja,959153.98
+653,Consectetur Aperiam,Graham Thompson,1448,2021,obraz,224179.72
+654,Ullam Incidunt,Clifford Nolan-Harris,1524,2021,instalacja,618282.17
+655,Ullam Cumque,Dr Lauren Turner,1746,2015,fotografia,154730.79
+656,Dicta Officiis,Damien Newman,1934,2024,instalacja,804318.45
+657,Aperiam Voluptas,Hugh Davies,1175,2017,obraz,16347.71
+658,Ad Omnis,Brian Matthews,1379,2018,instalacja,419507.02
+659,Vitae Optio,Charlie Wilson,1402,2017,instalacja,35058.08
+660,Eligendi Nulla,Liam Cooper,1638,2015,fotografia,1405267.53
+661,Molestias Excepturi,Dr George Kent,698,2015,grafika,5143.85
+662,Praesentium Eos,Miss Natalie Bull,800,2018,grafika,461981.95
+663,Occaecati Maiores,Craig Roberts,150,2021,instalacja,4785.8
+664,Id At,Miss Susan Miles,1994,2018,rzeźba,16001.09
+665,Ratione Modi,Dr Carl Miles,599,2014,rzeźba,1202669.09
+666,Velit Pariatur,Pieter Stashkov,308,2015,instalacja,42218.45
+667,Ut Nemo,Pieter Stashkov,1410,2017,fotografia,58975.09
+668,Nobis Aliquid,Mr Martin Thorpe,579,2016,rzeźba,2562.75
+669,Saepe Voluptate,Dr Rosie Kennedy,636,2015,obraz,108244.66
+670,Culpa Sed,Pieter Stashkov,1026,2024,grafika,178157.03
+671,Neque Inventore,Catherine Talbot,1417,2020,grafika,43476.12
+672,Iste Ab,Miss Joan Brown,1500,2018,instalacja,9275.51
+673,Facere Sit,Dr Matthew Chapman,1461,2022,rzeźba,106274.73
+674,Neque Iusto,Pieter Stashkov,1683,2024,grafika,1169036.29
+675,Harum Neque,Donald Murray,23,2023,obraz,30539.81
+676,Vitae Iusto,Darren May,525,2020,rzeźba,24076.11
+677,Officia Aliquid,Stephen Murray,1711,2018,rzeźba,57040.14
+678,Necessitatibus Harum,Peter Duffy-Patel,883,2018,grafika,7993.75
+679,Facilis Dicta,Jade Cooper-Marshall,196,2025,obraz,20060.46
+680,Quas Saepe,Pieter Stashkov,836,2016,instalacja,944456.68
+681,Excepturi Temporibus,Ms Beth Smith,994,2018,fotografia,16448.12
+682,Tempore Sunt,Pieter Stashkov,1720,2014,instalacja,115720.48
+683,Culpa Facilis,Pieter Stashkov,1888,2014,instalacja,948866.46
+684,Deserunt Cumque,Dr Richard Jackson,1440,2017,rzeźba,761130.82
+685,Officiis Eos,Lorraine Little,1121,2015,obraz,456337.53
+686,Neque Deserunt,Katie Thompson,15,2019,rzeźba,1441417.12
+687,Tenetur Minus,Ruth Newton,528,2025,instalacja,1873.67
+688,Ipsa Necessitatibus,Dr Georgina Matthews,818,2020,obraz,2410326.42
+689,Maxime Ad,Dale Fletcher,466,2016,fotografia,154766.89
+690,Officiis Consequatur,Owen Davies,259,2014,fotografia,747768.85
+691,Dolore Vero,Miss Danielle Hicks,154,2021,rzeźba,138082.15
+692,Ratione Unde,Pieter Stashkov,81,2016,grafika,2777.99
+693,Dolores Sequi,Norman Parker,451,2020,instalacja,47431.74
+694,Earum Eius,Maureen Smith,532,2016,grafika,82338.83
+695,Officia Molestias,Karen Murray,1427,2019,rzeźba,202735.39
+696,Error Culpa,Christian Barrett-Gardner,359,2017,obraz,3241125.0
+697,Possimus Ipsa,Ronald White,1238,2015,obraz,1553551.58
+698,Quidem Hic,Mr Elliott Allen,1803,2025,grafika,564179.79
+699,Itaque Rerum,Dr Jordan Gill,435,2024,obraz,18825.9
+700,Maiores Illum,Mark Bray,932,2020,fotografia,1383006.03
+701,Sequi Dolorem,Leanne Buckley,1107,2018,rzeźba,1415921.44
+702,Quisquam Suscipit,Tony Martin,1552,2021,grafika,114162.56
+703,Occaecati Modi,Dr Iain Hodgson,1563,2014,rzeźba,9937.03
+704,Quam Earum,Mitchell Begum,869,2023,instalacja,65342.39
+705,Possimus Voluptates,Barbara Barber,595,2014,fotografia,33816.16
+706,Sed Cumque,Pieter Stashkov,435,2021,rzeźba,20406.11
+707,Pariatur Dicta,Donald Perry,515,2022,grafika,98356.21
+708,Est Eius,Pieter Stashkov,1834,2024,grafika,17353.68
+709,Qui Quam,Marion Oliver,1991,2017,instalacja,82139.24
+710,Quisquam Minus,Dr Robin Gibbs,630,2024,instalacja,182859.3
+711,Eaque Nulla,Mr Jay John,1979,2019,grafika,1145600.21
+712,Laboriosam Ipsum,Janice Donnelly,1639,2022,fotografia,153456.77
+713,Quaerat Aliquam,Pieter Stashkov,1366,2015,grafika,1638746.5
+714,Suscipit Id,Amber Barton,1381,2019,obraz,425194.71
+715,Expedita Perferendis,Mr Stanley Richardson,1051,2020,instalacja,1390.43
+716,At Porro,Justin Hart,1830,2015,rzeźba,637854.74
+717,Sed Provident,Ms Naomi Gill,1477,2021,instalacja,557820.09
+718,Totam Itaque,Pieter Stashkov,994,2022,instalacja,58644.89
+719,Iure Praesentium,Victor Taylor-Taylor,1003,2022,rzeźba,9069.15
+720,Repellendus Incidunt,David Charlton-Wilson,574,2019,grafika,93859.23
+721,Possimus Natus,Josephine Brown,224,2021,rzeźba,4520.85
+722,Placeat Placeat,Pieter Stashkov,1662,2020,grafika,1562675.94
+723,Dicta Aut,Dr Joel Moran,973,2018,obraz,307643.24
+724,Illum Quos,Lorraine Wright,1236,2017,grafika,792066.09
+725,Eaque Nihil,Mr Joel Davis,512,2020,rzeźba,229257.46
+726,Ipsam Omnis,Ms Debra Smith,319,2024,fotografia,228820.86
+727,Cum Iusto,Scott Tyler-Moore,129,2019,obraz,94241.39
+728,Sunt Rerum,Pieter Stashkov,1904,2016,instalacja,15214.8
+729,Corrupti Recusandae,Pieter Stashkov,286,2019,obraz,830889.07
+730,Natus Aliquam,Leslie Evans,1730,2019,obraz,68007.82
+731,Est Neque,Derek Wong,1486,2019,instalacja,1434038.46
+732,Illo Eligendi,Sean Richardson,1553,2018,rzeźba,32696.8
+733,Inventore Deserunt,Pieter Stashkov,1494,2024,instalacja,251860.1
+734,Natus Deserunt,Jayne Evans,485,2021,instalacja,463473.33
+735,Dicta Qui,Stanley Cameron,945,2019,instalacja,228310.95
+736,Ipsum Nostrum,Eric Lewis,1737,2023,rzeźba,751310.6
+737,Eligendi Architecto,Mr Gerard Begum,799,2022,instalacja,10530.61
+738,Officia Ea,Dawn Murphy,1778,2017,fotografia,109209.92
+739,Eos Quaerat,Liam Marshall-Thomas,1039,2016,rzeźba,55949.98
+740,Soluta Autem,Jeremy Thomas-Smith,284,2018,grafika,16207.02
+741,Eius Beatae,Aimee Murphy,982,2023,instalacja,1123882.03
+742,Enim Odio,Jill Shaw-Miller,1940,2025,grafika,390346.35
+743,Molestias Et,Antony Bull,1800,2024,rzeźba,897828.62
+744,Dolor Vitae,Jayne Rowley-Jones,803,2017,grafika,117990.28
+745,Ut Architecto,Henry Allen,793,2016,instalacja,53999.78
+746,Fugiat Temporibus,Miss Emily Howell,1781,2018,fotografia,273485.83
+747,Exercitationem Dolor,Mr Clifford Adams,590,2018,instalacja,554931.59
+748,Officia Quas,Neil Barrett,1704,2014,rzeźba,221568.92
+749,Modi Mollitia,Charlene Kelly,1920,2018,grafika,662957.55
+750,Accusantium Quae,Dr Carol Smith,1456,2025,rzeźba,172566.76
+751,Atque Nisi,Dr Nigel Griffiths,476,2023,rzeźba,319918.88
+752,Omnis Alias,Donna Harper-Thomas,873,2022,grafika,796626.44
+753,Vel Totam,Gavin Thomas,772,2016,rzeźba,394761.31
+754,Necessitatibus Culpa,Harriet Sanderson,1929,2020,obraz,74604.32
+755,Quos Esse,Marian Randall,1696,2018,rzeźba,159974.6
+756,Maiores Ab,Pieter Stashkov,800,2019,fotografia,61134.72
+757,Quo Sit,Mary Young,669,2017,rzeźba,500.6
+758,Unde Libero,Rosemary Martin,1660,2025,obraz,506729.11
+759,Alias Nobis,Norman Rice,344,2024,obraz,280584.92
+760,Officia Officiis,Pieter Stashkov,1801,2022,grafika,163250.21
+761,Culpa Adipisci,Dr Derek Adams,487,2022,grafika,880839.1
+762,Ipsa Quasi,Naomi Gill-Bennett,810,2023,obraz,9344.72
+763,Veniam Nisi,Ann Newman,803,2016,fotografia,1173565.39
+764,Tenetur Iste,Paula Wilson,125,2018,grafika,723360.7
+765,Esse Aliquam,Jeffrey Woodward,1062,2018,instalacja,619980.42
+766,Quam Rerum,Pieter Stashkov,1136,2014,rzeźba,1868.48
+767,Facere Labore,Douglas Fox,1553,2019,instalacja,71645.93
+768,Consequatur Amet,Benjamin Jones-McCarthy,1752,2019,instalacja,343369.3
+769,Vel Vitae,Sharon Davies,1233,2016,grafika,212825.49
+770,Quasi Recusandae,Dr Howard Cooper,1513,2023,grafika,185606.85
+771,Delectus Temporibus,Pieter Stashkov,390,2018,grafika,139796.59
+772,Laborum Architecto,Annette Cooke,220,2024,instalacja,33340.39
+773,Impedit Minus,Carol Davies,328,2014,fotografia,342699.63
+774,Enim Nemo,Bradley Lee,1985,2018,grafika,1452921.41
+775,Facilis Saepe,Shaun Gould,1606,2020,instalacja,746937.88
+776,Labore Accusantium,Louise Harrison,1821,2023,grafika,316239.42
+777,Eaque Vitae,Jennifer Smith-Slater,626,2016,obraz,2162640.63
+778,Id Repellat,Louis Atkinson,774,2016,obraz,399471.92
+779,Animi Eum,Phillip Duncan,506,2020,rzeźba,231241.91
+780,Veniam Omnis,Conor Ball-Gibbons,1976,2023,grafika,2497.9
+781,Fugit Officiis,Mr Howard Jones,644,2025,rzeźba,524800.03
+782,Error Molestias,Darren Edwards-Lane,1928,2021,instalacja,115225.19
+783,Reprehenderit Reiciendis,Megan Brown,773,2019,obraz,220033.34
+784,Dolores Recusandae,Pieter Stashkov,788,2024,instalacja,2110041.24
+785,Repudiandae Facilis,Mohammad Willis,979,2022,fotografia,184161.34
+786,Iusto Totam,Dr Luke Price,1016,2025,instalacja,35743.14
+787,Exercitationem Aspernatur,Caroline Johnson,932,2016,obraz,387168.61
+788,Dolores Distinctio,Ms Ann Garner,462,2016,obraz,1232.79
+789,Ipsum Omnis,Pieter Stashkov,1510,2023,rzeźba,544545.9
+790,Ut Quae,Charles Stone,1997,2015,obraz,646583.79
+791,Sunt Modi,Stanley Porter,687,2015,obraz,383154.38
+792,Beatae Error,Kelly Jackson,112,2023,obraz,109660.5
+793,Optio Occaecati,Vincent Johnson,1751,2018,rzeźba,550096.63
+794,Ut Deleniti,Pieter Stashkov,1201,2018,fotografia,114173.54
+795,Esse Impedit,Wendy Cox,776,2020,fotografia,386928.85
+796,Laboriosam Esse,Pieter Stashkov,1139,2017,instalacja,511661.35
+797,Porro Placeat,Mr Karl Rowe,493,2023,obraz,45843.26
+798,Reiciendis Dignissimos,Jack Jenkins,1568,2019,rzeźba,115.62
+799,Vel Facilis,Pieter Stashkov,1222,2017,grafika,2133346.23
+800,Vel Pariatur,Miss Teresa Cooper,1431,2024,instalacja,220438.18
+801,Autem Error,Dr Callum Fisher,1890,2016,obraz,3387.42
+802,Consectetur Officiis,Iain Barton,795,2015,rzeźba,127356.63
+803,Voluptatibus Iusto,Elliot Read,175,2017,obraz,338397.38
+804,Doloribus Unde,Jasmine Kaur,2005,2017,obraz,850985.36
+805,Commodi Perspiciatis,Peter Bell,1049,2018,obraz,285479.16
+806,Harum Mollitia,Angela Price,1038,2014,instalacja,213733.54
+807,Doloremque Praesentium,Pieter Stashkov,1104,2016,grafika,1018109.67
+808,Cum Id,Mrs Judith Barrett,806,2019,instalacja,2463839.35
+809,Quisquam Ipsa,Tina Rowe,1031,2019,instalacja,71631.24
+810,Perspiciatis Facere,Mrs Georgia Boyle,1081,2020,fotografia,286250.68
+811,Earum Soluta,Bradley George,1735,2018,grafika,915965.55
+812,Nam Ut,Elaine Wong-Brown,25,2015,obraz,373181.3
+813,Aut Beatae,Aimee Green,784,2018,rzeźba,15809.51
+814,Nemo Qui,Michael Clark,905,2020,fotografia,1618861.8
+815,Consectetur Ut,Ms Pamela Martin,1152,2024,fotografia,275448.62
+816,Voluptatibus Consequuntur,Eleanor Johnson,616,2017,obraz,243679.07
+817,Nulla Asperiores,Jordan Chamberlain,48,2014,instalacja,417913.63
+818,Illum Quos,Sian Howe,142,2024,instalacja,1070834.58
+819,Vitae A,Katie Lord,11,2020,grafika,1021477.86
+820,Temporibus Sed,Ricky Hall,1387,2019,instalacja,161241.74
+821,Recusandae Incidunt,Terence Kemp,1894,2017,obraz,467856.01
+822,Possimus Assumenda,Denise Taylor,1737,2022,fotografia,27211.89
+823,Veritatis Consequuntur,Mr Douglas Fletcher,423,2016,obraz,58146.79
+824,Ea A,Pieter Stashkov,1198,2020,fotografia,6260.12
+825,Similique Sapiente,Henry Oliver,1434,2020,grafika,656747.39
+826,Accusamus Ex,Beth Harper,1965,2021,obraz,1078324.43
+827,Atque Ea,Samuel Oliver,1063,2019,grafika,1144365.15
+828,Vitae Ab,Gregory Turner,1047,2021,grafika,12450.27
+829,Veritatis Vero,Pieter Stashkov,503,2024,grafika,194309.8
+830,Nam Dicta,Jacob Hodgson,696,2014,instalacja,308343.09
+831,Commodi Unde,Aimee Taylor-Evans,768,2017,rzeźba,359081.99
+832,Eum Iusto,Natalie Hall,507,2014,instalacja,149725.02
+833,Similique Ipsum,David Brooks-Brown,390,2024,obraz,22164.95
+834,Libero Veniam,Douglas Wilkinson,642,2023,fotografia,141715.32
+835,Molestias Ut,Janet Berry-Campbell,945,2025,fotografia,100910.58
+836,Maiores Ad,Samuel Goodwin-Fletcher,988,2024,instalacja,1798067.17
+837,Praesentium Nulla,Ashley Butcher,1383,2022,grafika,518658.62
+838,Distinctio Nobis,Ross Mistry,1506,2018,instalacja,2587993.47
+839,Ratione Quibusdam,Mr Mohammed Reid,1477,2019,grafika,114778.47
+840,Eum Earum,Eileen Rose,491,2020,obraz,1424794.18
+841,Distinctio Dolorem,Stephen Lee,1287,2022,rzeźba,673688.86
+842,Perspiciatis Recusandae,Sophie Barnes,1018,2022,rzeźba,135595.45
+843,Pariatur Inventore,Sophie Ellis-Walton,1410,2018,obraz,2199.3
+844,Dignissimos Blanditiis,Ms Mandy Murphy,925,2021,obraz,2809.99
+845,Sed Quo,Dr Sandra Richardson,1121,2022,instalacja,327164.15
+846,Tempora Impedit,Amanda Rhodes-Smith,1465,2022,obraz,207179.42
+847,Itaque Doloribus,Dr Declan Clark,675,2018,fotografia,1099997.22
+848,Incidunt Ratione,Stacey O'Connor-Ward,1751,2020,obraz,1935865.15
+849,Beatae Eveniet,Diane Watts-Rice,1998,2022,fotografia,167141.91
+850,A Quisquam,Miss Julie Russell,1044,2024,grafika,247474.12
+851,Laudantium Quo,Brian Smith,1482,2024,grafika,14074.02
+852,Molestias Fugiat,Gail Howard,630,2023,rzeźba,727239.38
+853,Saepe Velit,Katy Roberts-Lloyd,1506,2019,obraz,805974.93
+854,Dignissimos Beatae,Victor Evans,1578,2024,rzeźba,318390.21
+855,Minus Nobis,Miss Sian Chambers,1939,2022,fotografia,618494.6
+856,Reiciendis Nihil,Grace Rose,928,2015,obraz,197875.61
+857,Natus Voluptatem,Jasmine Thomas,849,2024,fotografia,332527.89
+858,Autem Non,Charles Hughes-Butcher,1192,2018,instalacja,345315.53
+859,Nulla Cumque,Nicola Lord,1443,2024,rzeźba,622838.97
+860,Aliquid Voluptatem,Fiona Miah,1519,2022,obraz,245994.37
+861,Neque Repudiandae,Teresa Murphy,768,2014,fotografia,5062.98
+862,Veniam Reiciendis,Pieter Stashkov,1385,2018,fotografia,631375.17
+863,Error Nisi,Dr Jane Saunders,135,2018,obraz,64445.16
+864,Voluptatum Magni,Sandra Hawkins-Allen,1692,2024,instalacja,51807.93
+865,Impedit Ducimus,Lauren Jones,938,2025,fotografia,14553.06
+866,Eos Animi,Dr Kyle Smith,434,2014,instalacja,1481963.65
+867,Nesciunt Doloremque,Mr Maurice Morgan,1354,2020,obraz,170847.64
+868,Minus Doloremque,Mr Leonard Lee,1479,2015,obraz,175079.34
+869,Sunt Doloremque,Mr Callum Bennett,945,2019,rzeźba,370675.91
+870,Quos Facere,Chloe Clarke,636,2021,instalacja,419417.63
+871,Est Possimus,Dr Joseph Flynn,156,2021,fotografia,2291.49
+872,Asperiores Quam,Dr Roger Williams,1849,2021,fotografia,339962.89
+873,Velit Alias,Jennifer Hall-White,70,2018,grafika,728396.46
+874,Placeat Totam,Sam Wright,473,2024,fotografia,135529.45
+875,Tempore A,Dr Steven Fletcher,401,2016,fotografia,775274.35
+876,Temporibus Velit,Richard Davies,1548,2024,grafika,305057.02
+877,Dolorem Amet,Pieter Stashkov,1408,2020,obraz,549042.95
+878,Minima Velit,Mrs Jill Burke,1576,2019,rzeźba,63396.83
+879,Quasi Ducimus,Terence Wood,675,2019,instalacja,29535.0
+880,Molestias Est,Denise Storey,429,2022,rzeźba,36693.58
+881,Ea Labore,Brandon Jones,1346,2022,rzeźba,1644278.27
+882,Numquam Tempora,Pieter Stashkov,1940,2023,fotografia,822913.91
+883,Perspiciatis Molestiae,Conor Jones,284,2020,grafika,88103.09
+884,Vero Quis,Mr Reece Burrows,994,2018,grafika,2446.34
+885,Rem Aspernatur,Pieter Stashkov,1252,2019,rzeźba,1485905.47
+886,Rerum Consectetur,Rebecca Hudson-Williams,1684,2025,obraz,173495.53
+887,Blanditiis Possimus,Mrs Teresa Thompson,94,2023,fotografia,276274.43
+888,Quidem Labore,Dennis Daly-Hudson,1604,2025,instalacja,2474702.23
+889,Deserunt Dolore,Dr Dale Day,45,2024,instalacja,875529.48
+890,Enim Voluptates,Ms Nicole Atkins,1905,2025,rzeźba,895804.16
+891,Quo Explicabo,Mr Guy Doherty,1144,2014,obraz,95484.84
+892,Dolorum Debitis,Holly Bennett,1247,2015,fotografia,3565.62
+893,Accusantium Quisquam,Pieter Stashkov,658,2025,obraz,78793.85
+894,Commodi Esse,Eleanor Fowler,735,2025,rzeźba,45630.29
+895,Delectus Consequuntur,Pieter Stashkov,628,2015,obraz,44995.15
+896,Assumenda Quo,Josh Williams-Doherty,1480,2014,grafika,318779.56
+897,Placeat Mollitia,Jay Hall,1405,2025,rzeźba,97168.27
+898,Quod Alias,Dr Callum Swift,1683,2016,obraz,37680.81
+899,Rem Esse,Ronald Smith,1789,2025,fotografia,396859.38
+900,Iure Incidunt,Graham Bull,506,2014,instalacja,270406.96
