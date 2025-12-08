@@ -1,6 +1,7 @@
 import random
 from datetime import datetime, date, time, timedelta
 from faker import Faker
+from collections import defaultdict
 
 fake = Faker("en_GB")
 EXHIBIT_TYPES = ["rzeźba", "obraz", "fotografia", "instalacja", "grafika"]
@@ -139,20 +140,29 @@ def gen_exhibit_exhibitions(exhibits: list[dict], exhibitions: list[dict], min_p
     links: list[dict] = []
 
     occupied: dict[tuple[int, int], set[int]] = {}
-    exhibit_ids = [e["exhibit_id"] for e in exhibits]
+    exhibits_by_type: dict[str, list] = defaultdict(list)
+    for ex in exhibits:
+        t = ex.get("type")
+        if t in EXHIBIT_TYPES:
+            exhibits_by_type[t].append(ex["exhibit_id"])
     for exh in exhibitions:
         exh_id = exh["exhibition_id"]
         start = _as_date(exh["exhibition_start"])
         month_key = (start.year, start.month)
 
-        occupied.setdefault(month_key, set())
+        allowed_types = random.sample(EXHIBIT_TYPES, k=random.randint(2, 3))
+        candidate_exhibits = []
+        for t in allowed_types:
+            candidate_exhibits.extend(exhibits_by_type.get(t, []))
 
-        random.shuffle(exhibit_ids)
+        random.shuffle(candidate_exhibits)
+
+        occupied.setdefault(month_key, set())
 
         # assigned = False
         k = random.randint(min_per_exh, max_per_exh)
         n = 0
-        for e in exhibit_ids:
+        for e in candidate_exhibits:
             if e in occupied[month_key]:
                 continue
 
