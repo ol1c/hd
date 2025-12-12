@@ -1,0 +1,5 @@
+SELECT
+{[Measures].[Visit Count], [Measures].[Avg Visit Dutarion]} ON COLUMNS,
+[Exhibition].[Name].Members ON ROWS
+FROM [Museum DB 1]
+WHERE ([Date].[Year].&[2026], [Date].[Month].&[6])

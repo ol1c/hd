@@ -1,907 +1,906 @@
-1|1|Atque Amet|Ryan Watson|czasy współczesne|>=10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-2|2|Recusandae Inventore|Dr Geoffrey Gill|prehistoria|<10|fotografia|<10 000|2025-12-01|2026-05-31
-3|3|Aliquam Excepturi|Dr Maurice Thompson|prehistoria|<10|rzeźba|<100 000|2025-12-01|2026-05-31
-4|4|Temporibus Hic|Lynne O'Sullivan|średniowiecze|<5|grafika|<1 000 000|2025-12-01|2026-05-31
-5|5|Dolorem Vitae|Vanessa Cook|nowożytność|<1|rzeźba|<10 000|2025-12-01|2026-05-31
-6|6|Cumque Ipsa|Pieter Stashkov|prehistoria|<1|obraz|<1 000 000|2025-12-01|2026-05-31
-7|7|Possimus Laborum|Dr Sandra Roberts|prehistoria|<10|fotografia|<10 000|2025-12-01|2026-05-31
-8|8|Expedita Doloribus|Anna Hall|prehistoria|<5|fotografia|>1 000 000|2025-12-01|2026-05-31
-9|9|Cumque Sunt|Jonathan Wilson|nowożytność|<1|rzeźba|>1 000 000|2025-12-01|2026-05-31
-10|10|Culpa Eligendi|Damien Wilson|nowożytność|<5|obraz|<100 000|2025-12-01|2026-05-31
-11|11|Molestias Repudiandae|Mr Thomas Wood|czasy współczesne|<5|grafika|<10 000|2025-12-01|2026-05-31
-12|12|Maxime Necessitatibus|Gillian Ball|czasy współczesne|<5|rzeźba|<10 000|2025-12-01|2026-05-31
-13|13|Nihil Consequatur|Pieter Stashkov|nowożytność|<10|fotografia|>1 000 000|2025-12-01|2026-05-31
-14|14|Tenetur Atque|Mrs Aimee Hughes|starożytność|<5|rzeźba|<10 000|2025-12-01|2026-05-31
-15|15|Architecto Fugiat|Frances Turner|prehistoria|<5|grafika|>1 000 000|2025-12-01|2026-05-31
-16|16|Eum Quibusdam|Pieter Stashkov|czasy współczesne|>=10|grafika|<1 000 000|2025-12-01|2026-05-31
-17|17|Pariatur Molestiae|Emily Green-Smith|średniowiecze|>=10|fotografia|<1 000 000|2025-12-01|2026-05-31
-18|18|Aspernatur Cupiditate|Ricky Atkins|średniowiecze|<1|rzeźba|<10 000|2025-12-01|2026-05-31
-19|19|Asperiores Quibusdam|Mark Green|średniowiecze|>=10|instalacja|<100 000|2025-12-01|2026-05-31
-20|20|Accusamus Animi|Conor Fox|starożytność|<10|fotografia|<100 000|2025-12-01|2026-05-31
-21|21|Sapiente Ipsam|Samuel Riley-Adams|średniowiecze|<1|instalacja|<10 000|2025-12-01|2026-05-31
-22|22|Quasi Officiis|Elizabeth Bryan|nowożytność|>=10|instalacja|>1 000 000|2025-12-01|2026-05-31
-23|23|Similique Quia|Bethany Osborne|średniowiecze|<10|fotografia|<10 000|2025-12-01|2026-05-31
-24|24|Veritatis Perspiciatis|Conor Brown|nowożytność|<1|grafika|>1 000 000|2025-12-01|2026-05-31
-25|25|Perspiciatis Officiis|Pieter Stashkov|prehistoria|<1|obraz|<10 000|2025-12-01|2026-05-31
-26|26|Porro Maxime|Dr Irene Hilton|starożytność|<5|rzeźba|<100 000|2025-12-01|2026-05-31
-27|27|Voluptatem Accusamus|Mr Benjamin Kirk|prehistoria|<10|instalacja|>1 000 000|2025-12-01|2026-05-31
-28|28|Nemo Molestiae|Jean O'Sullivan-Webb|nowożytność|<10|grafika|<10 000|2025-12-01|2026-05-31
-29|29|Voluptatum Vero|Gordon Kelly-Atkins|prehistoria|<10|fotografia|<100 000|2025-12-01|2026-05-31
-30|30|Nam Impedit|Ryan Wilson|starożytność|<1|fotografia|>1 000 000|2025-12-01|2026-05-31
-31|31|Dolor Nemo|Shane Henderson|starożytność|<5|obraz|>1 000 000|2025-12-01|2026-05-31
-32|32|Saepe Asperiores|Victor Kay-Smith|średniowiecze|<10|fotografia|<100 000|2025-12-01|2026-05-31
-33|33|Atque Voluptate|Marcus Howarth-Henry|nowożytność|>=10|grafika|<100 000|2025-12-01|2026-05-31
-34|34|Provident Error|Pieter Stashkov|średniowiecze|<1|fotografia|<10 000|2025-12-01|2026-05-31
-35|35|Corrupti Quos|Miss Marilyn Vaughan|starożytność|<10|grafika|>1 000 000|2025-12-01|2026-05-31
-36|36|Quibusdam Necessitatibus|Mr Russell Griffin|średniowiecze|<5|obraz|<100 000|2025-12-01|2026-05-31
-37|37|Autem Dolorum|Pieter Stashkov|nowożytność|>=10|fotografia|<10 000|2025-12-01|2026-05-31
-38|38|Quidem Blanditiis|Kimberley Morrison|prehistoria|<5|rzeźba|<100 000|2025-12-01|2026-05-31
-39|39|Nobis Dolores|Mary Harrison|starożytność|>=10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-40|40|Similique Voluptatem|Eric Wade|nowożytność|<10|rzeźba|<100 000|2025-12-01|2026-05-31
-41|41|Adipisci Saepe|Clare Bishop|średniowiecze|<5|rzeźba|<10 000|2025-12-01|2026-05-31
-42|42|Perferendis Culpa|Clive Jones|średniowiecze|<1|instalacja|>1 000 000|2025-12-01|2026-05-31
-43|43|Error Provident|Raymond Baker|nowożytność|<1|instalacja|<10 000|2025-12-01|2026-05-31
-44|44|Commodi Laboriosam|Pieter Stashkov|nowożytność|<1|grafika|<100 000|2025-12-01|2026-05-31
-45|45|Ad Iste|Jennifer Thomas|nowożytność|<10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-46|46|Itaque Modi|Pieter Stashkov|starożytność|<10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-47|47|Delectus Laborum|Adam Wallace|prehistoria|>=10|instalacja|>1 000 000|2025-12-01|2026-05-31
-48|48|Quod Eius|Pieter Stashkov|prehistoria|>=10|obraz|<1 000 000|2025-12-01|2026-05-31
-49|49|Alias Labore|Victoria Phillips|średniowiecze|>=10|obraz|<100 000|2025-12-01|2026-05-31
-50|50|Neque Dignissimos|Michelle Williams|czasy współczesne|<5|obraz|<10 000|2025-12-01|2026-05-31
-51|51|Possimus In|Wayne Gordon|nowożytność|<5|grafika|<10 000|2025-12-01|2026-05-31
-52|52|Doloribus Ad|Pieter Stashkov|starożytność|>=10|obraz|>1 000 000|2025-12-01|2026-05-31
-53|53|Consequuntur Quibusdam|Mr David Weston|średniowiecze|<1|fotografia|<100 000|2025-12-01|2026-05-31
-54|54|Laborum Ad|Pieter Stashkov|czasy współczesne|>=10|instalacja|<100 000|2025-12-01|2026-05-31
-55|55|Magnam Necessitatibus|Dr Leslie Smith|nowożytność|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-56|56|Quo Minus|Mr Wayne Pugh|czasy współczesne|<5|instalacja|>1 000 000|2025-12-01|2026-05-31
-57|57|Quis Cumque|Eileen Burke-Bishop|starożytność|<1|rzeźba|<1 000 000|2025-12-01|2026-05-31
-58|58|Molestias Id|Graham Turner|starożytność|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-59|59|Maxime Numquam|Elliott Steele|nowożytność|<5|instalacja|<10 000|2025-12-01|2026-05-31
-60|60|Excepturi Exercitationem|Dr Lynn Henry|starożytność|<10|obraz|<1 000 000|2025-12-01|2026-05-31
-61|61|Autem Nostrum|Mr Norman Armstrong|średniowiecze|<10|obraz|<10 000|2025-12-01|2026-05-31
-62|62|A Error|Donna Peters-Hodgson|czasy współczesne|<5|fotografia|<10 000|2025-12-01|2026-05-31
-63|63|Fugit Perferendis|Gareth Dennis|średniowiecze|<10|instalacja|<100 000|2025-12-01|2026-05-31
-64|64|Est Cupiditate|Christine Hussain|prehistoria|<1|obraz|<1 000 000|2025-12-01|2026-05-31
-65|65|Et Magni|Mr Victor James|prehistoria|<1|fotografia|<1 000 000|2025-12-01|2026-05-31
-66|66|Ratione Molestias|Hugh Brown|czasy współczesne|<10|fotografia|<1 000 000|2025-12-01|2026-05-31
-67|67|Perspiciatis Porro|Lisa Robinson|średniowiecze|<5|instalacja|<100 000|2025-12-01|2026-05-31
-68|68|Aperiam Dicta|Lydia Davies|prehistoria|<1|grafika|<10 000|2025-12-01|2026-05-31
-69|69|Voluptatem Voluptas|Dr Lisa Davies|czasy współczesne|<5|rzeźba|<1 000 000|2025-12-01|2026-05-31
-70|70|Praesentium Quas|Marilyn Howell|nowożytność|>=10|obraz|<10 000|2025-12-01|2026-05-31
-71|71|Iure Accusamus|Ms Julie Richardson|starożytność|<1|instalacja|<1 000 000|2025-12-01|2026-05-31
-72|72|Sapiente Illo|Mr Mark Davies|nowożytność|<1|rzeźba|<100 000|2025-12-01|2026-05-31
-73|73|Ullam Natus|Roy O'Brien|prehistoria|<10|grafika|>1 000 000|2025-12-01|2026-05-31
-74|74|Vero Ex|Pieter Stashkov|nowożytność|<5|instalacja|>1 000 000|2025-12-01|2026-05-31
-75|75|Omnis Officiis|Hayley Rowe|średniowiecze|<5|grafika|<10 000|2025-12-01|2026-05-31
-76|76|Perspiciatis Libero|Justin Clarke|prehistoria|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-77|77|Sequi Hic|Pieter Stashkov|prehistoria|<10|instalacja|<10 000|2025-12-01|2026-05-31
-78|78|Ut Corrupti|Mr Ronald Hill|czasy współczesne|<1|grafika|>1 000 000|2025-12-01|2026-05-31
-79|79|Reprehenderit Quos|Brian Bibi|starożytność|<10|obraz|<10 000|2025-12-01|2026-05-31
-80|80|Iure Voluptas|Gail Wilson|czasy współczesne|>=10|obraz|<10 000|2025-12-01|2026-05-31
-81|81|Esse Id|Andrea Richards|nowożytność|<5|grafika|<1 000 000|2025-12-01|2026-05-31
-82|82|Rem Doloribus|Bernard Phillips-Kelly|prehistoria|<5|grafika|<10 000|2025-12-01|2026-05-31
-83|83|Cum Necessitatibus|Pieter Stashkov|prehistoria|>=10|grafika|<100 000|2025-12-01|2026-05-31
-84|84|Deserunt Voluptate|Adam Newman|prehistoria|<5|obraz|<10 000|2025-12-01|2026-05-31
-85|85|Cumque Est|Pieter Stashkov|czasy współczesne|<10|fotografia|>1 000 000|2025-12-01|2026-05-31
-86|86|Sed Vitae|Mr Arthur Fleming|starożytność|>=10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-87|87|Iusto Deleniti|Karl Cook|średniowiecze|<1|fotografia|<1 000 000|2025-12-01|2026-05-31
-88|88|Cupiditate Ea|Kieran Watson|starożytność|>=10|rzeźba|<100 000|2025-12-01|2026-05-31
-89|89|Officia Commodi|Mr Ronald Green|czasy współczesne|>=10|obraz|<1 000 000|2025-12-01|2026-05-31
-90|90|Sapiente Sapiente|Paula Kemp|prehistoria|<10|grafika|>1 000 000|2025-12-01|2026-05-31
-91|91|Facilis Culpa|Christian Winter|prehistoria|>=10|fotografia|<10 000|2025-12-01|2026-05-31
-92|92|At Quaerat|Roger James-Hawkins|średniowiecze|<5|obraz|>1 000 000|2025-12-01|2026-05-31
-93|93|Aperiam Et|Pieter Stashkov|nowożytność|>=10|grafika|<10 000|2025-12-01|2026-05-31
-94|94|Autem Eum|Malcolm Greenwood|średniowiecze|>=10|fotografia|<1 000 000|2025-12-01|2026-05-31
-95|95|Necessitatibus Voluptatibus|Deborah Burke|starożytność|>=10|obraz|<1 000 000|2025-12-01|2026-05-31
-96|96|Porro Molestias|Thomas Macdonald|starożytność|<10|instalacja|>1 000 000|2025-12-01|2026-05-31
-97|97|Error Assumenda|Ricky Hamilton|nowożytność|<1|fotografia|>1 000 000|2025-12-01|2026-05-31
-98|98|Minus Aliquam|Judith Hartley|nowożytność|>=10|obraz|<100 000|2025-12-01|2026-05-31
-99|99|Cumque Fuga|Amber Chadwick|nowożytność|<10|fotografia|<100 000|2025-12-01|2026-05-31
-100|100|Reprehenderit Quo|Dr Mitchell Dean|średniowiecze|>=10|rzeźba|<100 000|2025-12-01|2026-05-31
-101|101|Sint A|Graham Phillips|czasy współczesne|>=10|grafika|<100 000|2025-12-01|2026-05-31
-102|102|Iusto Ab|Nicole Palmer|czasy współczesne|<1|obraz|<100 000|2025-12-01|2026-05-31
-103|103|Dolorem Ipsam|Jonathan Griffiths|nowożytność|>=10|obraz|<10 000|2025-12-01|2026-05-31
-104|104|Minus Quisquam|Ms Cheryl Johnson|starożytność|>=10|obraz|<10 000|2025-12-01|2026-05-31
-105|105|Nulla Fuga|Justin Vaughan-Smith|starożytność|<10|grafika|<100 000|2025-12-01|2026-05-31
-106|106|Consequuntur Et|Pieter Stashkov|starożytność|<1|grafika|<1 000 000|2025-12-01|2026-05-31
-107|107|Minus Autem|Grace Baker-Holloway|czasy współczesne|>=10|fotografia|<1 000 000|2025-12-01|2026-05-31
-108|108|Saepe Amet|Dr Keith Morgan|starożytność|>=10|rzeźba|<100 000|2025-12-01|2026-05-31
-109|109|Autem Provident|Stanley Smith|średniowiecze|<1|rzeźba|<100 000|2025-12-01|2026-05-31
-110|110|Delectus Dolores|Pieter Stashkov|prehistoria|>=10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-111|111|Deleniti In|Dawn Law|nowożytność|<5|grafika|<10 000|2025-12-01|2026-05-31
-112|112|Molestiae Beatae|Pieter Stashkov|czasy współczesne|<5|obraz|<1 000 000|2025-12-01|2026-05-31
-113|113|Assumenda Reiciendis|Mrs Aimee Smith|starożytność|<1|grafika|<10 000|2025-12-01|2026-05-31
-114|114|Nemo Placeat|Josephine Ward|prehistoria|<10|instalacja|<1 000 000|2025-12-01|2026-05-31
-115|115|Maiores Doloribus|Nathan Robinson|prehistoria|<10|fotografia|<1 000 000|2025-12-01|2026-05-31
-116|116|Velit Esse|Kerry Palmer|średniowiecze|<5|fotografia|<1 000 000|2025-12-01|2026-05-31
-117|117|Ullam Tenetur|Dr Philip Steele|czasy współczesne|>=10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-118|118|Tenetur Suscipit|Cheryl Power-Gibson|czasy współczesne|<10|instalacja|<100 000|2025-12-01|2026-05-31
-119|119|Aut Cupiditate|Dr Chelsea Gibson|prehistoria|>=10|instalacja|<10 000|2025-12-01|2026-05-31
-120|120|Corrupti Commodi|Pieter Stashkov|średniowiecze|<10|fotografia|<10 000|2025-12-01|2026-05-31
-121|121|Sequi Repellat|Mr Lewis Kerr|średniowiecze|<5|obraz|<1 000 000|2025-12-01|2026-05-31
-122|122|Ad Voluptatem|Gail Houghton|czasy współczesne|<10|grafika|<100 000|2025-12-01|2026-05-31
-123|123|Illo Quam|Bradley Patel|czasy współczesne|<10|fotografia|<100 000|2025-12-01|2026-05-31
-124|124|Vitae Sapiente|Pieter Stashkov|nowożytność|>=10|obraz|<100 000|2025-12-01|2026-05-31
-125|125|Ipsa Perferendis|Shirley Moore|średniowiecze|<10|grafika|>1 000 000|2025-12-01|2026-05-31
-126|126|Provident Aliquam|Steven Storey|czasy współczesne|<10|instalacja|>1 000 000|2025-12-01|2026-05-31
-127|127|Quasi Delectus|Pieter Stashkov|nowożytność|<5|grafika|>1 000 000|2025-12-01|2026-05-31
-128|128|Sapiente Minus|Claire Carter|średniowiecze|<5|grafika|<100 000|2025-12-01|2026-05-31
-129|129|Ipsam Nostrum|Mathew James|starożytność|<1|fotografia|>1 000 000|2025-12-01|2026-05-31
-130|130|Modi Ratione|Megan Brady-Ellis|czasy współczesne|<1|grafika|<10 000|2025-12-01|2026-05-31
-131|131|A Velit|Lydia Hewitt|prehistoria|<1|obraz|<100 000|2025-12-01|2026-05-31
-132|132|Error Veritatis|Debra Smith|czasy współczesne|>=10|fotografia|<100 000|2025-12-01|2026-05-31
-133|133|Eum Quidem|Pieter Stashkov|prehistoria|<10|instalacja|<1 000 000|2025-12-01|2026-05-31
-134|134|Doloribus Eveniet|Malcolm Cooper-Spencer|starożytność|<10|obraz|>1 000 000|2025-12-01|2026-05-31
-135|135|Aspernatur Numquam|Pieter Stashkov|nowożytność|>=10|fotografia|>1 000 000|2025-12-01|2026-05-31
-136|136|Atque Suscipit|Suzanne Tomlinson|czasy współczesne|<5|rzeźba|<1 000 000|2025-12-01|2026-05-31
-137|137|Maxime Dicta|Duncan Morris|nowożytność|>=10|grafika|<1 000 000|2025-12-01|2026-05-31
-138|138|Voluptatibus Nostrum|Jessica Robinson|czasy współczesne|>=10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-139|139|Ut Ex|Derek Smith|średniowiecze|<1|obraz|<100 000|2025-12-01|2026-05-31
-140|140|Aut Ab|Pieter Stashkov|prehistoria|<1|rzeźba|<10 000|2025-12-01|2026-05-31
-141|141|Quos Tenetur|Hayley Ryan|nowożytność|<1|fotografia|<10 000|2025-12-01|2026-05-31
-142|142|Dolore Facilis|Mr Barry Lewis|prehistoria|<10|fotografia|>1 000 000|2025-12-01|2026-05-31
-143|143|Illo Voluptatum|Jemma Baxter|czasy współczesne|<10|instalacja|<10 000|2025-12-01|2026-05-31
-144|144|Voluptatem Quo|Mark Blake|starożytność|<1|instalacja|<10 000|2025-12-01|2026-05-31
-145|145|Quos Fugit|Stacey Gregory-Parkin|nowożytność|>=10|instalacja|<1 000 000|2025-12-01|2026-05-31
-146|146|Sunt Sed|Pieter Stashkov|nowożytność|<5|obraz|>1 000 000|2025-12-01|2026-05-31
-147|147|Nulla Ullam|Leslie Porter|czasy współczesne|<5|obraz|>1 000 000|2025-12-01|2026-05-31
-148|148|Dolor Omnis|Pieter Stashkov|prehistoria|<10|grafika|>1 000 000|2025-12-01|2026-05-31
-149|149|Dolorum Mollitia|Dorothy Patel|starożytność|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-150|150|Necessitatibus Dicta|Eleanor Birch-Collins|czasy współczesne|<1|grafika|>1 000 000|2025-12-01|2026-05-31
-151|151|Necessitatibus Laudantium|Clive Davison|czasy współczesne|<1|rzeźba|<100 000|2025-12-01|2026-05-31
-152|152|Magni Quia|Dr Melissa Dean|średniowiecze|<10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-153|153|Ratione Sed|Sean Evans|nowożytność|>=10|grafika|<1 000 000|2025-12-01|2026-05-31
-154|154|Quam Et|Louis Grant|prehistoria|<5|grafika|<100 000|2025-12-01|2026-05-31
-155|155|Consequatur Incidunt|Jessica Wright|prehistoria|<5|obraz|>1 000 000|2025-12-01|2026-05-31
-156|156|Illo Sequi|Martyn Ward|nowożytność|<5|obraz|<10 000|2025-12-01|2026-05-31
-157|157|Atque Aspernatur|Dr Geoffrey Carter|nowożytność|<1|instalacja|<100 000|2025-12-01|2026-05-31
-158|158|Quas Expedita|Emma Griffiths|średniowiecze|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-159|159|Reiciendis Tempora|Kayleigh Whitehead-Stevens|czasy współczesne|<10|obraz|<1 000 000|2025-12-01|2026-05-31
-160|160|Doloremque Debitis|Pieter Stashkov|nowożytność|<5|instalacja|<10 000|2025-12-01|2026-05-31
-161|161|Ipsa Eaque|Miss Rebecca Hughes|średniowiecze|<5|rzeźba|<10 000|2025-12-01|2026-05-31
-162|162|Magni Magni|Dr Nicole Lewis|czasy współczesne|<10|rzeźba|<10 000|2025-12-01|2026-05-31
-163|163|Mollitia Inventore|Mr Louis Foster|prehistoria|<10|fotografia|>1 000 000|2025-12-01|2026-05-31
-164|164|Magnam Soluta|Miss Alice Henderson|czasy współczesne|<1|rzeźba|>1 000 000|2025-12-01|2026-05-31
-165|165|Velit Sapiente|Jay Russell|nowożytność|>=10|fotografia|<10 000|2025-12-01|2026-05-31
-166|166|Nostrum Inventore|Dr Kenneth Brooks|czasy współczesne|<5|obraz|<1 000 000|2025-12-01|2026-05-31
-167|167|Vel Dolorum|Michael Finch|nowożytność|<1|grafika|<1 000 000|2025-12-01|2026-05-31
-168|168|Soluta Ducimus|Leonard Adams-Thomas|czasy współczesne|<5|rzeźba|>1 000 000|2025-12-01|2026-05-31
-169|169|Dolorum Quidem|Dr Frances Hodgson|prehistoria|<5|instalacja|<10 000|2025-12-01|2026-05-31
-170|170|Magnam Distinctio|Mr Norman Bradley|prehistoria|<5|instalacja|<1 000 000|2025-12-01|2026-05-31
-171|171|Corrupti Eligendi|Connor Saunders|czasy współczesne|<5|instalacja|<1 000 000|2025-12-01|2026-05-31
-172|172|Impedit Repellendus|Charlie Rees-Moore|starożytność|<1|instalacja|<10 000|2025-12-01|2026-05-31
-173|173|Dolores Aliquid|Leah Miller|średniowiecze|<5|instalacja|>1 000 000|2025-12-01|2026-05-31
-174|174|Odit Id|Terry Harris-Davis|średniowiecze|>=10|grafika|<10 000|2025-12-01|2026-05-31
-175|175|Tenetur Blanditiis|Dr Rachael Evans|nowożytność|<1|rzeźba|<100 000|2025-12-01|2026-05-31
-176|176|Eaque Esse|Karen Smith|starożytność|<5|obraz|<1 000 000|2025-12-01|2026-05-31
-177|177|Illo Voluptates|Mr Danny Pollard|prehistoria|<1|fotografia|<100 000|2025-12-01|2026-05-31
-178|178|Repellendus Laboriosam|Anna Allen|nowożytność|<5|fotografia|<100 000|2025-12-01|2026-05-31
-179|179|Vero Placeat|Georgia Green|czasy współczesne|<10|grafika|<1 000 000|2025-12-01|2026-05-31
-180|180|Soluta Labore|Pieter Stashkov|starożytność|>=10|obraz|>1 000 000|2025-12-01|2026-05-31
-181|181|Harum Veniam|Nicholas Knowles-Gardiner|nowożytność|<1|fotografia|>1 000 000|2025-12-01|2026-05-31
-182|182|Nobis Eveniet|Jeffrey Oliver|starożytność|<1|obraz|<100 000|2025-12-01|2026-05-31
-183|183|Quia Amet|Lydia Miller|starożytność|<5|grafika|<10 000|2025-12-01|2026-05-31
-184|184|Officia Ad|Irene Moore|starożytność|>=10|fotografia|>1 000 000|2025-12-01|2026-05-31
-185|185|Distinctio Occaecati|Holly Morris|prehistoria|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-186|186|At Vitae|Jill Archer|starożytność|<10|grafika|<10 000|2025-12-01|2026-05-31
-187|187|Autem Iste|Henry Parkinson|czasy współczesne|<1|obraz|<100 000|2025-12-01|2026-05-31
-188|188|Magni Occaecati|Laura Robinson|średniowiecze|<10|fotografia|<1 000 000|2025-12-01|2026-05-31
-189|189|Vitae Inventore|Timothy Ellis|czasy współczesne|<5|instalacja|<1 000 000|2025-12-01|2026-05-31
-190|190|Molestias Cupiditate|Pieter Stashkov|czasy współczesne|>=10|obraz|>1 000 000|2025-12-01|2026-05-31
-191|191|At Tempora|Dean Wilson|prehistoria|<1|rzeźba|>1 000 000|2025-12-01|2026-05-31
-192|192|Minus Quidem|Sophie Pratt|nowożytność|<10|instalacja|>1 000 000|2025-12-01|2026-05-31
-193|193|Eligendi Quibusdam|Denise Morrison|średniowiecze|<5|rzeźba|>1 000 000|2025-12-01|2026-05-31
-194|194|Sunt Iusto|Lucy Baker|średniowiecze|<10|fotografia|<1 000 000|2025-12-01|2026-05-31
-195|195|Aut Culpa|Ms Rebecca Dawson|nowożytność|<10|obraz|<1 000 000|2025-12-01|2026-05-31
-196|196|Eligendi Natus|Brandon Carey-Archer|prehistoria|<10|fotografia|<1 000 000|2025-12-01|2026-05-31
-197|197|Excepturi Esse|Jonathan Page|średniowiecze|<10|grafika|<1 000 000|2025-12-01|2026-05-31
-198|198|Cumque Ullam|Jordan Shah|nowożytność|<1|instalacja|<10 000|2025-12-01|2026-05-31
-199|199|Iusto Saepe|Sheila Carr|średniowiecze|<5|rzeźba|<1 000 000|2025-12-01|2026-05-31
-200|200|Perspiciatis Enim|Dr Antony Connor|prehistoria|<5|obraz|>1 000 000|2025-12-01|2026-05-31
-201|201|Reiciendis Voluptas|Bradley Burton|czasy współczesne|>=10|rzeźba|<100 000|2025-12-01|2026-05-31
-202|202|Dignissimos Accusantium|Dr Ronald Perkins|prehistoria|>=10|instalacja|<100 000|2025-12-01|2026-05-31
-203|203|Atque Aperiam|Kimberley Roberts|starożytność|<5|instalacja|<100 000|2025-12-01|2026-05-31
-204|204|A Itaque|Christopher Roberts|czasy współczesne|<1|grafika|>1 000 000|2025-12-01|2026-05-31
-205|205|Odit Non|Sally Jackson|nowożytność|<1|obraz|>1 000 000|2025-12-01|2026-05-31
-206|206|Distinctio Velit|Declan Bell|średniowiecze|<1|grafika|<10 000|2025-12-01|2026-05-31
-207|207|Maxime Asperiores|Dr Danielle Horton|starożytność|<10|obraz|<10 000|2025-12-01|2026-05-31
-208|208|Quasi Pariatur|Christian Kennedy-Sanderson|prehistoria|<1|grafika|>1 000 000|2025-12-01|2026-05-31
-209|209|Atque Rerum|Ms Shirley Reid|średniowiecze|<1|grafika|>1 000 000|2025-12-01|2026-05-31
-210|210|Laudantium Doloribus|Nathan Stephens|prehistoria|<10|grafika|<100 000|2025-12-01|2026-05-31
-211|211|Odit Necessitatibus|Alice Saunders-Kaur|średniowiecze|<1|grafika|<10 000|2025-12-01|2026-05-31
-212|212|Enim Consequatur|Beverley Brown|czasy współczesne|>=10|grafika|<100 000|2025-12-01|2026-05-31
-213|213|Totam Unde|Wendy Stone|starożytność|<1|grafika|>1 000 000|2025-12-01|2026-05-31
-214|214|Similique Accusamus|Nigel Edwards|starożytność|<1|fotografia|<10 000|2025-12-01|2026-05-31
-215|215|Nihil Quis|Jason Roberts-Donnelly|prehistoria|<1|obraz|<1 000 000|2025-12-01|2026-05-31
-216|216|Possimus Officiis|Dr Alan Gill|starożytność|<10|obraz|<100 000|2025-12-01|2026-05-31
-217|217|Eum Accusamus|Carl Hawkins|średniowiecze|<10|rzeźba|<10 000|2025-12-01|2026-05-31
-218|218|Iusto Culpa|Ms Sian Martin|średniowiecze|<1|obraz|<1 000 000|2025-12-01|2026-05-31
-219|219|Vero Occaecati|Marilyn Baxter|czasy współczesne|<5|rzeźba|<100 000|2025-12-01|2026-05-31
-220|220|Reiciendis Aperiam|Pieter Stashkov|czasy współczesne|>=10|fotografia|<100 000|2025-12-01|2026-05-31
-221|221|Minus Consequatur|Ross Edwards-Smith|starożytność|<10|fotografia|<1 000 000|2025-12-01|2026-05-31
-222|222|Quo Placeat|Rachael Kemp|średniowiecze|<10|rzeźba|<10 000|2025-12-01|2026-05-31
-223|223|Corrupti Officiis|Dr Graeme Reed|czasy współczesne|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-224|224|Suscipit Placeat|Mr Scott Davies|czasy współczesne|<1|grafika|>1 000 000|2025-12-01|2026-05-31
-225|225|Neque A|Kimberley Hewitt-Kerr|prehistoria|<1|obraz|<1 000 000|2025-12-01|2026-05-31
-226|226|Eius A|Pauline Jackson-Hanson|nowożytność|<5|obraz|<10 000|2025-12-01|2026-05-31
-227|227|Voluptas Eveniet|Billy Price|czasy współczesne|<10|rzeźba|<10 000|2025-12-01|2026-05-31
-228|228|Aut Doloremque|Pieter Stashkov|nowożytność|>=10|fotografia|<1 000 000|2025-12-01|2026-05-31
-229|229|Sed Facere|Naomi Williams|prehistoria|<10|fotografia|<10 000|2025-12-01|2026-05-31
-230|230|Quasi Eum|Dr Ian Davies|średniowiecze|<5|grafika|>1 000 000|2025-12-01|2026-05-31
-231|231|Harum Modi|Duncan Pearson-Mahmood|średniowiecze|<10|grafika|<10 000|2025-12-01|2026-05-31
-232|232|Magnam Rem|Mrs Jean Davies|średniowiecze|<5|instalacja|<1 000 000|2025-12-01|2026-05-31
-233|233|Nulla Dolores|Paula Hill|prehistoria|<10|grafika|>1 000 000|2025-12-01|2026-05-31
-234|234|Ea Culpa|Samuel Palmer|czasy współczesne|>=10|grafika|>1 000 000|2025-12-01|2026-05-31
-235|235|Minima Illum|Pieter Stashkov|średniowiecze|<10|instalacja|<100 000|2025-12-01|2026-05-31
-236|236|Sint Harum|Pieter Stashkov|średniowiecze|<5|obraz|<100 000|2025-12-01|2026-05-31
-237|237|Neque Voluptatibus|John Wright|średniowiecze|<1|instalacja|>1 000 000|2025-12-01|2026-05-31
-238|238|Repellat Ut|Pieter Stashkov|czasy współczesne|<10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-239|239|Maxime Maxime|Anthony Jackson|prehistoria|<10|instalacja|>1 000 000|2025-12-01|2026-05-31
-240|240|Ab Ipsam|Ms June Fletcher|czasy współczesne|<10|obraz|>1 000 000|2025-12-01|2026-05-31
-241|241|Cumque Aspernatur|Tom Brown|czasy współczesne|<10|grafika|<10 000|2025-12-01|2026-05-31
-242|242|Dolor Aliquid|Dr Gavin Holland|nowożytność|>=10|fotografia|<10 000|2025-12-01|2026-05-31
-243|243|Iusto Placeat|Julie Watson-Davies|prehistoria|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-244|244|Ex Ipsa|Frederick Anderson-Read|czasy współczesne|>=10|instalacja|>1 000 000|2025-12-01|2026-05-31
-245|245|Provident Deleniti|Dr Wayne Dyer|średniowiecze|<10|fotografia|<100 000|2025-12-01|2026-05-31
-246|246|Commodi Blanditiis|Clifford Parsons|prehistoria|<10|fotografia|<1 000 000|2025-12-01|2026-05-31
-247|247|Animi Occaecati|Claire Pearson|średniowiecze|<5|fotografia|>1 000 000|2025-12-01|2026-05-31
-248|248|Ipsum Ipsa|Pieter Stashkov|prehistoria|<1|instalacja|>1 000 000|2025-12-01|2026-05-31
-249|249|Labore Error|Pieter Stashkov|czasy współczesne|<1|grafika|<1 000 000|2025-12-01|2026-05-31
-250|250|Ad Aliquid|Mr Jay Fowler|czasy współczesne|<1|rzeźba|<1 000 000|2025-12-01|2025-12-08
-251|251|Magnam Veritatis|Bradley Thomas|czasy współczesne|<5|grafika|>1 000 000|2025-12-01|2026-05-31
-252|252|Laudantium Earum|Pieter Stashkov|starożytność|<5|rzeźba|>1 000 000|2025-12-01|2026-05-31
-253|253|Occaecati Praesentium|Natalie Lewis|prehistoria|>=10|obraz|<1 000 000|2025-12-01|2026-05-31
-254|254|Repellendus Quaerat|Mrs Amber Baker|prehistoria|<10|grafika|<100 000|2025-12-01|2026-05-31
-255|255|Quo Minima|Pieter Stashkov|nowożytność|<1|instalacja|>1 000 000|2025-12-01|2026-05-31
-256|256|Pariatur Ipsa|Catherine Harris|czasy współczesne|<5|grafika|<1 000 000|2025-12-01|2026-05-31
-257|257|Vel Ex|Dr Nathan Harrison|starożytność|<10|grafika|<10 000|2025-12-01|2026-05-31
-258|258|Facere Magni|Mr Gordon Lewis|średniowiecze|<5|instalacja|<100 000|2025-12-01|2026-05-31
-259|259|Beatae Non|Victor Marsh-Thomas|prehistoria|<5|grafika|>1 000 000|2025-12-01|2026-05-31
-260|260|Beatae Facilis|Ms Louise Smith|czasy współczesne|<1|fotografia|>1 000 000|2025-12-01|2026-05-31
-261|261|Itaque Facere|Anthony Davies|czasy współczesne|<10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-262|262|Neque Mollitia|Mathew Green|czasy współczesne|>=10|instalacja|<1 000 000|2025-12-01|2026-05-31
-263|263|Doloribus Molestiae|Pieter Stashkov|prehistoria|>=10|fotografia|>1 000 000|2025-12-01|2026-05-31
-264|264|Nam Labore|Vanessa Allen|czasy współczesne|<1|grafika|<100 000|2025-12-01|2026-05-31
-265|265|Fugit Aspernatur|Mr Anthony Perry|nowożytność|<5|fotografia|<1 000 000|2025-12-01|2026-05-31
-266|266|Dolorem Minus|Helen Davies|nowożytność|>=10|obraz|<100 000|2025-12-01|2026-05-31
-267|267|Quos Nostrum|Dr Jeffrey Shaw|czasy współczesne|>=10|fotografia|>1 000 000|2025-12-01|2026-05-31
-268|268|Repellat Ipsam|Stacey Smith|starożytność|<10|fotografia|<1 000 000|2025-12-01|2026-05-31
-269|269|Nihil Optio|Miss Molly Clarke|średniowiecze|<1|obraz|<10 000|2025-12-01|2026-05-31
-270|270|Fugiat Nam|Mr Jason Cooper|starożytność|<1|instalacja|<10 000|2025-12-01|2026-05-31
-271|271|Consequatur Sed|Miss Hilary James|nowożytność|<10|fotografia|<1 000 000|2025-12-01|2026-05-31
-272|272|Aliquid Deserunt|Kieran Middleton-Adams|prehistoria|<1|rzeźba|<1 000 000|2025-12-01|2026-05-31
-273|273|Necessitatibus Consequatur|Mr Joel Davies|starożytność|<10|grafika|<10 000|2025-12-01|2026-05-31
-274|274|Expedita Ad|Joshua Harvey|czasy współczesne|<1|fotografia|<100 000|2025-12-01|2026-05-31
-275|275|Ipsam Aliquid|Karen King-Smith|czasy współczesne|<10|fotografia|<1 000 000|2025-12-01|2026-05-31
-276|276|Explicabo Debitis|Simon Morris|starożytność|<10|obraz|<10 000|2025-12-01|2026-05-31
-277|277|Commodi Quod|Mark Gardiner-Holmes|czasy współczesne|<10|grafika|<10 000|2025-12-01|2026-05-31
-278|278|Impedit Ab|Mrs Heather Bond|średniowiecze|<1|rzeźba|>1 000 000|2025-12-01|2026-05-31
-279|279|Quis Deserunt|Bradley Summers|średniowiecze|<1|obraz|>1 000 000|2025-12-01|2026-05-31
-280|280|Vel Necessitatibus|Vanessa Barber-Bates|prehistoria|<1|fotografia|<100 000|2025-12-01|2026-05-31
-281|281|Maxime Omnis|Nigel Lord|prehistoria|>=10|fotografia|<1 000 000|2025-12-01|2026-05-31
-282|282|Quae Atque|Pieter Stashkov|nowożytność|>=10|rzeźba|<100 000|2025-12-01|2026-05-31
-283|283|Rerum Iure|Dr Charlotte Bates|starożytność|<1|rzeźba|<10 000|2025-12-01|2026-05-31
-284|284|Asperiores Dignissimos|Abigail Thompson|prehistoria|<1|instalacja|>1 000 000|2025-12-01|2026-05-31
-285|285|Magni Perferendis|Pieter Stashkov|prehistoria|<5|rzeźba|<10 000|2025-12-01|2026-05-31
-286|286|Sequi Temporibus|Rachael Leonard|prehistoria|<5|obraz|<1 000 000|2025-12-01|2026-05-31
-287|287|Ducimus Rem|Christopher Clark|starożytność|<10|fotografia|<10 000|2025-12-01|2026-05-31
-288|288|A Earum|Kim Johnson|prehistoria|<1|obraz|<1 000 000|2025-12-01|2026-05-31
-289|289|Mollitia Accusantium|Yvonne Davies|starożytność|<5|grafika|<10 000|2025-12-01|2026-05-31
-290|290|Eaque Deleniti|Samuel Webster-Begum|czasy współczesne|<5|fotografia|>1 000 000|2025-12-01|2026-05-31
-291|291|Ipsa Maxime|Jacqueline Steele-Davies|czasy współczesne|<10|obraz|<1 000 000|2025-12-01|2026-05-31
-292|292|Cum Quos|Lydia Watson|średniowiecze|<1|grafika|>1 000 000|2025-12-01|2026-05-31
-293|293|Voluptatum Veritatis|Pieter Stashkov|nowożytność|<1|rzeźba|<100 000|2025-12-01|2026-05-31
-294|294|Voluptatum Laborum|Brenda Ali|starożytność|>=10|fotografia|<100 000|2025-12-01|2026-05-31
-295|295|Veniam Error|Carolyn Austin-Smith|czasy współczesne|>=10|obraz|<1 000 000|2025-12-01|2026-05-31
-296|296|Sapiente Facilis|Susan Kelly|prehistoria|>=10|instalacja|<10 000|2025-12-01|2026-05-31
-297|297|Tenetur Itaque|Lynne Morris-Fisher|starożytność|>=10|fotografia|>1 000 000|2025-12-01|2026-05-31
-298|298|In Consequuntur|Pieter Stashkov|czasy współczesne|<5|fotografia|>1 000 000|2025-12-01|2026-05-31
-299|299|Repellat Ab|Mr Kenneth Stevens|prehistoria|<5|rzeźba|<100 000|2025-12-01|2026-05-31
-300|300|Architecto Ducimus|Lorraine Shaw|prehistoria|<1|instalacja|<10 000|2025-12-01|2026-05-31
-301|301|Dolor Aut|Mrs Mary Stephens|czasy współczesne|<5|rzeźba|<1 000 000|2025-12-01|2026-05-31
-302|302|Aspernatur Vero|George Walters|średniowiecze|<1|grafika|<100 000|2025-12-01|2026-05-31
-303|303|Adipisci Fugit|Connor Austin|czasy współczesne|<5|rzeźba|<10 000|2025-12-01|2026-05-31
-304|304|Deleniti Non|Jake Doherty|czasy współczesne|>=10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-305|305|Facilis Rerum|Suzanne Clark|prehistoria|>=10|fotografia|<10 000|2025-12-01|2026-05-31
-306|306|Maxime Perferendis|Joyce Cross|średniowiecze|>=10|fotografia|<10 000|2025-12-01|2026-05-31
-307|307|Tenetur Incidunt|Wayne White|czasy współczesne|<1|instalacja|<1 000 000|2025-12-01|2026-05-31
-308|308|Vel Magnam|Katherine Hughes|czasy współczesne|<1|grafika|<100 000|2025-12-01|2026-05-31
-309|309|Repellat Quibusdam|Pieter Stashkov|starożytność|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-310|310|Quisquam Dolores|Nicole Duncan|nowożytność|>=10|instalacja|<10 000|2025-12-01|2026-05-31
-311|311|Delectus Quisquam|Julia Richardson|starożytność|<5|obraz|<100 000|2025-12-01|2026-05-31
-312|312|Aspernatur Libero|Dr Henry Turner|starożytność|<10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-313|313|Saepe Iusto|Mr Damien Jones|czasy współczesne|<5|rzeźba|<1 000 000|2025-12-01|2026-05-31
-314|314|Doloribus Possimus|Samuel Holt|nowożytność|<5|fotografia|>1 000 000|2025-12-01|2026-05-31
-315|315|Assumenda Optio|Pieter Stashkov|starożytność|<1|obraz|>1 000 000|2025-12-01|2026-05-31
-316|316|Aperiam Ad|Owen Vincent-Harrison|prehistoria|<5|rzeźba|<100 000|2025-12-01|2026-05-31
-317|317|Accusamus Ea|Geraldine Thompson|czasy współczesne|<1|obraz|<100 000|2025-12-01|2026-05-31
-318|318|Consequuntur Quidem|Mrs Valerie Patel|nowożytność|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-319|319|Harum Officiis|Pieter Stashkov|czasy współczesne|>=10|rzeźba|<100 000|2025-12-01|2026-05-31
-320|320|Distinctio Molestiae|Dr June Nixon|średniowiecze|>=10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-321|321|Impedit Adipisci|Ellie Armstrong-Hunt|czasy współczesne|<10|instalacja|>1 000 000|2025-12-01|2026-05-31
-322|322|Quia Nostrum|Tina Taylor|nowożytność|>=10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-323|323|Dolorem Repellat|Pieter Stashkov|średniowiecze|<1|grafika|>1 000 000|2025-12-01|2026-05-31
-324|324|Ab Molestiae|Harriet Baker|średniowiecze|<10|fotografia|<100 000|2025-12-01|2026-05-31
-325|325|Cum Quia|Nicole Warner|nowożytność|<10|instalacja|<100 000|2025-12-01|2026-05-31
-326|326|Ducimus Unde|Jake Pearson|czasy współczesne|<1|obraz|<10 000|2025-12-01|2026-05-31
-327|327|Atque Fugiat|Mr Mitchell Davies|nowożytność|<10|grafika|<1 000 000|2025-12-01|2026-05-31
-328|328|Expedita Sint|Dr Gemma Jones|średniowiecze|<1|obraz|<10 000|2025-12-01|2026-05-31
-329|329|Ratione Aspernatur|Carol Craig|średniowiecze|<1|fotografia|<100 000|2025-12-01|2026-05-31
-330|330|Eaque Corporis|Danielle Wilkinson|czasy współczesne|<5|fotografia|<1 000 000|2025-12-01|2026-05-31
-331|331|Architecto Vero|Pieter Stashkov|prehistoria|<10|obraz|<1 000 000|2025-12-01|2026-05-31
-332|332|Doloribus Excepturi|Ann Horton-Barber|prehistoria|<5|fotografia|<100 000|2025-12-01|2026-05-31
-333|333|Quasi Vero|Joanna Parsons|prehistoria|>=10|obraz|>1 000 000|2025-12-01|2026-05-31
-334|334|Eaque Assumenda|Frank Singh|średniowiecze|<5|rzeźba|<10 000|2025-12-01|2026-05-31
-335|335|Blanditiis Iste|Dr Joseph Townsend|starożytność|<10|grafika|<100 000|2025-12-01|2026-05-31
-336|336|Repellat Laborum|Jean Hopkins|nowożytność|>=10|instalacja|>1 000 000|2025-12-01|2026-05-31
-337|337|Fuga Praesentium|Mr Joshua Ryan|prehistoria|<1|instalacja|<10 000|2025-12-01|2026-05-31
-338|338|Quaerat Repellat|Albert Khan|średniowiecze|<5|obraz|<1 000 000|2025-12-01|2026-05-31
-339|339|Quam Repudiandae|Pieter Stashkov|starożytność|<10|instalacja|<10 000|2025-12-01|2026-05-31
-340|340|Nulla Deserunt|Leah Richards|czasy współczesne|<5|obraz|<10 000|2025-12-01|2026-05-31
-341|341|Veritatis Ipsa|Aaron Browne|średniowiecze|<10|fotografia|<1 000 000|2025-12-01|2026-05-31
-342|342|Excepturi Explicabo|Ms Joyce Ashton|czasy współczesne|<5|fotografia|<10 000|2025-12-01|2026-05-31
-343|343|Rem Enim|Ms Christine Gregory|prehistoria|<1|fotografia|<100 000|2025-12-01|2026-05-31
-344|344|Consequuntur Totam|Pieter Stashkov|średniowiecze|<1|fotografia|<1 000 000|2025-12-01|2026-05-31
-345|345|Ut Cum|Irene Cox|czasy współczesne|<1|rzeźba|<10 000|2025-12-01|2026-05-31
-346|346|Totam Inventore|Maureen Osborne-Jones|średniowiecze|<1|instalacja|<10 000|2025-12-01|2026-05-31
-347|347|Beatae Culpa|Dr Donald Taylor|średniowiecze|<1|fotografia|<1 000 000|2025-12-01|2026-05-31
-348|348|Ad Sint|Mr Jacob Lloyd|czasy współczesne|<5|grafika|>1 000 000|2025-12-01|2026-05-31
-349|349|Quas Laboriosam|Sylvia Scott|średniowiecze|<10|grafika|<1 000 000|2025-12-01|2026-05-31
-350|350|At Minima|Pieter Stashkov|starożytność|<5|rzeźba|<100 000|2025-12-01|2026-05-31
-351|351|Quod Illo|Joanna Hobbs|czasy współczesne|<5|rzeźba|>1 000 000|2025-12-01|2026-05-31
-352|352|Aliquam Ullam|Rosemary Hanson|czasy współczesne|<1|rzeźba|>1 000 000|2025-12-01|2026-05-31
-353|353|Est Quas|Brenda Jackson|średniowiecze|<10|obraz|<10 000|2025-12-01|2026-05-31
-354|354|Placeat Officiis|Pieter Stashkov|starożytność|>=10|grafika|<1 000 000|2025-12-01|2026-05-31
-355|355|Natus Possimus|Philip Henderson-Jones|nowożytność|<5|rzeźba|<10 000|2025-12-01|2026-05-31
-356|356|Nesciunt Repellendus|Mr Kyle Cooke|średniowiecze|>=10|instalacja|<1 000 000|2025-12-01|2026-05-31
-357|357|Commodi Ipsa|Nicholas Gordon|nowożytność|>=10|grafika|<1 000 000|2025-12-01|2026-05-31
-358|358|Aliquam Nulla|Pieter Stashkov|prehistoria|<10|instalacja|>1 000 000|2025-12-01|2026-05-31
-359|359|Magni Doloribus|Susan Byrne|starożytność|<10|instalacja|<1 000 000|2025-12-01|2026-05-31
-360|360|Cumque Deserunt|Philip North|czasy współczesne|<1|obraz|>1 000 000|2025-12-01|2026-05-31
-361|361|Vero Quam|Colin Wood-Hewitt|średniowiecze|>=10|fotografia|>1 000 000|2025-12-01|2026-05-31
-362|362|Ullam Porro|Lynn Yates|średniowiecze|<1|grafika|>1 000 000|2025-12-01|2026-05-31
-363|363|Tenetur Eveniet|Kathryn Brown|prehistoria|>=10|instalacja|<1 000 000|2025-12-01|2026-05-31
-364|364|Eveniet Eaque|Ashley Reid|czasy współczesne|<10|grafika|<1 000 000|2025-12-01|2026-05-31
-365|365|Repudiandae Molestiae|Barry Stephenson-Phillips|średniowiecze|>=10|fotografia|<1 000 000|2025-12-01|2026-05-31
-366|366|Officia Porro|Alex Andrews|prehistoria|<1|fotografia|<1 000 000|2025-12-01|2026-05-31
-367|367|Autem Sunt|Katherine Collins|nowożytność|>=10|fotografia|>1 000 000|2025-12-01|2026-05-31
-368|368|Cum Nisi|Hayley Davison|średniowiecze|<5|fotografia|<1 000 000|2025-12-01|2026-05-31
-369|369|Repudiandae Reprehenderit|Marion Johnson|nowożytność|>=10|obraz|>1 000 000|2025-12-01|2026-05-31
-370|370|Adipisci Officiis|Katherine Moore|średniowiecze|<10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-371|371|Quaerat Doloribus|Geraldine Jenkins|nowożytność|>=10|instalacja|<100 000|2025-12-01|2026-05-31
-372|372|Quod Soluta|Pieter Stashkov|czasy współczesne|<10|grafika|<10 000|2025-12-01|2026-05-31
-373|373|Ducimus Nobis|Mrs Marian Hall|starożytność|>=10|obraz|>1 000 000|2025-12-01|2026-05-31
-374|374|Laudantium Aut|Charlie Henderson|prehistoria|<1|rzeźba|<1 000 000|2025-12-01|2026-05-31
-375|375|Voluptatem Aspernatur|Craig Clark|średniowiecze|<5|fotografia|<100 000|2025-12-01|2026-05-31
-376|376|Ea Quidem|Ms Gemma John|średniowiecze|<5|rzeźba|<1 000 000|2025-12-01|2026-05-31
-377|377|Velit Ipsum|James Osborne-Simmons|starożytność|<10|rzeźba|<100 000|2025-12-01|2026-05-31
-378|378|Maiores Praesentium|Rosemary Davis|starożytność|>=10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-379|379|Itaque Pariatur|Mitchell Knight|prehistoria|<1|instalacja|<10 000|2025-12-01|2026-05-31
-380|380|Molestias Maiores|Jack Preston-Campbell|czasy współczesne|>=10|instalacja|<1 000 000|2025-12-01|2026-05-31
-381|381|Fuga Eaque|Mitchell Bishop|czasy współczesne|<1|instalacja|<1 000 000|2025-12-01|2026-05-31
-382|382|Similique Culpa|Pieter Stashkov|średniowiecze|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-383|383|Sapiente Nam|Julie Ross|prehistoria|<1|rzeźba|>1 000 000|2025-12-01|2026-05-31
-384|384|Quis Quod|Maureen Short|nowożytność|<1|grafika|<100 000|2025-12-01|2026-05-31
-385|385|Iste Excepturi|Justin Hunt|prehistoria|<5|obraz|<100 000|2025-12-01|2026-05-31
-386|386|Neque Non|Melissa Curtis|nowożytność|>=10|fotografia|<100 000|2025-12-01|2026-05-31
-387|387|Maiores Accusantium|Pieter Stashkov|czasy współczesne|>=10|obraz|<1 000 000|2025-12-01|2026-05-31
-388|388|Voluptatum Totam|Pieter Stashkov|nowożytność|<5|fotografia|<1 000 000|2025-12-01|2026-05-31
-389|389|Ex Repellat|Miss Joanna Johnson|średniowiecze|<5|obraz|>1 000 000|2025-12-01|2026-05-31
-390|390|Quis Recusandae|Andrea Thomson|nowożytność|<1|fotografia|>1 000 000|2025-12-01|2026-05-31
-391|391|Eos Animi|Dr Sheila Smith|średniowiecze|>=10|fotografia|<100 000|2025-12-01|2026-05-31
-392|392|Quam Dicta|Sophie Kelly|średniowiecze|<5|obraz|<1 000 000|2025-12-01|2026-05-31
-393|393|Atque Odio|Vincent Cooke|czasy współczesne|<5|obraz|<100 000|2025-12-01|2026-05-31
-394|394|Rem Possimus|Sean Phillips|czasy współczesne|<10|obraz|>1 000 000|2025-12-01|2026-05-31
-395|395|Soluta Consequatur|Mrs Geraldine Holland|średniowiecze|<5|fotografia|>1 000 000|2025-12-01|2026-05-31
-396|396|Perferendis Sapiente|Pieter Stashkov|czasy współczesne|<5|grafika|<10 000|2025-12-01|2026-05-31
-397|397|A Recusandae|Mr Phillip Lawrence|nowożytność|<10|rzeźba|<10 000|2025-12-01|2026-05-31
-398|398|Sunt Quae|Miss Rita Smith|średniowiecze|>=10|grafika|>1 000 000|2025-12-01|2026-05-31
-399|399|Rerum Eligendi|Colin Little|starożytność|>=10|obraz|<1 000 000|2025-12-01|2026-05-31
-400|400|Esse Rerum|Dr Terence Edwards|prehistoria|<10|obraz|<1 000 000|2025-12-01|2026-05-31
-401|401|Assumenda Architecto|Lee Davies|czasy współczesne|<10|obraz|<1 000 000|2025-12-01|2026-05-31
-402|402|Nihil Error|Mr Simon Elliott|starożytność|>=10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-403|403|Odit Harum|Grace Barrett|średniowiecze|>=10|instalacja|<10 000|2025-12-01|2026-05-31
-404|404|Tenetur A|Pieter Stashkov|prehistoria|<5|rzeźba|>1 000 000|2025-12-01|2026-05-31
-405|405|Deleniti Neque|Pieter Stashkov|czasy współczesne|<10|instalacja|>1 000 000|2025-12-01|2026-05-31
-406|406|Occaecati Neque|Robert Watts|starożytność|>=10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-407|407|Magnam Officia|Patricia Dean|czasy współczesne|<5|obraz|<100 000|2025-12-01|2026-05-31
-408|408|Error Consectetur|John Owens|średniowiecze|<5|instalacja|>1 000 000|2025-12-01|2026-05-31
-409|409|Quasi Amet|Ms Catherine Kaur|nowożytność|<10|fotografia|<10 000|2025-12-01|2026-05-31
-410|410|Quia Id|Samuel Walters|nowożytność|<5|fotografia|<100 000|2025-12-01|2026-05-31
-411|411|Quidem Animi|Abigail Jackson|średniowiecze|<1|grafika|<1 000 000|2025-12-01|2026-05-31
-412|412|Maxime Consequuntur|Sheila Allen-Robinson|średniowiecze|<1|grafika|<100 000|2025-12-01|2026-05-31
-413|413|Aut Quisquam|Robin Simpson-Hall|starożytność|<10|instalacja|<100 000|2025-12-01|2026-05-31
-414|414|Laboriosam Dolor|Bradley Coleman|starożytność|<5|obraz|<100 000|2025-12-01|2026-05-31
-415|415|Eaque Culpa|Ashleigh Barber|prehistoria|>=10|instalacja|<100 000|2025-12-01|2026-05-31
-416|416|Nihil Sequi|Dale Davies|średniowiecze|<1|rzeźba|<100 000|2025-12-01|2026-05-31
-417|417|Nobis Distinctio|Alexander Holland|średniowiecze|<5|grafika|<10 000|2025-12-01|2026-05-31
-418|418|Quidem Fuga|Pieter Stashkov|prehistoria|<10|rzeźba|<100 000|2025-12-01|2026-05-31
-419|419|Expedita Eum|Howard Lee|prehistoria|<1|grafika|<10 000|2025-12-01|2026-05-31
-420|420|Occaecati Tempora|Dr Liam Davies|prehistoria|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-421|421|Placeat Eaque|Carol Robinson-Gray|czasy współczesne|<1|grafika|<10 000|2025-12-01|2026-05-31
-422|422|Nostrum Deleniti|Ms Beverley Houghton|czasy współczesne|<5|grafika|<1 000 000|2025-12-01|2026-05-10
-423|423|Quo Eius|Adam Smith-Dobson|prehistoria|>=10|instalacja|<10 000|2025-12-01|2026-05-31
-424|424|Nobis Et|Sian Martin|średniowiecze|<1|rzeźba|<10 000|2025-12-01|2026-05-31
-425|425|Atque Vitae|Gemma James|starożytność|<5|grafika|>1 000 000|2025-12-01|2026-05-31
-426|426|Soluta Magni|Rachael Evans|prehistoria|<10|obraz|<100 000|2025-12-01|2026-05-31
-427|427|Aliquid Ducimus|Pieter Stashkov|prehistoria|<1|rzeźba|<1 000 000|2025-12-01|2026-05-31
-428|428|Suscipit Ipsa|Malcolm Morgan|czasy współczesne|>=10|rzeźba|<100 000|2025-12-01|2026-05-31
-429|429|Explicabo Soluta|Vanessa Williams|prehistoria|<1|fotografia|<10 000|2025-12-01|2026-05-31
-430|430|Laboriosam Unde|Robert Oliver|średniowiecze|<5|grafika|<1 000 000|2025-12-01|2026-05-31
-431|431|Nesciunt Veniam|Ms June Hayes|średniowiecze|>=10|fotografia|<100 000|2025-12-01|2026-05-31
-432|432|Perspiciatis Dolorum|Leanne Brown|starożytność|<5|grafika|>1 000 000|2025-12-01|2026-05-31
-433|433|Labore Reiciendis|Pieter Stashkov|starożytność|>=10|instalacja|<1 000 000|2025-12-01|2026-05-31
-434|434|Occaecati Excepturi|Phillip Harris|prehistoria|<5|obraz|<100 000|2025-12-01|2026-05-31
-435|435|Libero Quidem|Mr Malcolm Robinson|prehistoria|<10|instalacja|<10 000|2025-12-01|2026-05-31
-436|436|Ea Delectus|Leanne Dawson|nowożytność|<10|rzeźba|<100 000|2025-12-01|2026-05-31
-437|437|Neque Et|Jeffrey Holmes|czasy współczesne|<5|instalacja|<1 000 000|2025-12-01|2026-05-31
-438|438|Velit Optio|Abbie Price-Kelly|czasy współczesne|<5|fotografia|<10 000|2025-12-01|2026-05-31
-439|439|Commodi Deleniti|Jennifer Bell-Lewis|nowożytność|<1|instalacja|<100 000|2025-12-01|2026-05-31
-440|440|Odit Natus|Alison Taylor|nowożytność|<1|rzeźba|<100 000|2025-12-01|2026-05-31
-441|441|Ut Neque|Katie Nixon|starożytność|<1|rzeźba|<10 000|2025-12-01|2026-05-31
-442|442|Eius Omnis|Ben Moore-Singh|prehistoria|>=10|grafika|>1 000 000|2025-12-01|2026-05-31
-443|443|Et Deserunt|Pieter Stashkov|nowożytność|<5|grafika|<10 000|2025-12-01|2026-05-31
-444|444|Impedit Omnis|Mrs Carolyn Newton|średniowiecze|<5|rzeźba|>1 000 000|2025-12-01|2026-05-31
-445|445|Dolor Possimus|Brian Bailey|starożytność|>=10|grafika|<10 000|2025-12-01|2026-05-31
-446|446|Suscipit Quos|Rita O'Connor-Cameron|nowożytność|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-447|447|Nesciunt Distinctio|Mr Jordan Russell|czasy współczesne|>=10|grafika|<1 000 000|2025-12-01|2026-05-31
-448|448|Alias Cumque|Maurice Parkin-Baxter|nowożytność|<1|fotografia|>1 000 000|2025-12-01|2026-05-31
-449|449|Magni Cupiditate|Dr Joseph Parsons|starożytność|<10|obraz|<10 000|2025-12-01|2026-05-31
-450|450|Modi Aliquid|Sally Brown|nowożytność|>=10|grafika|<1 000 000|2025-12-01|2026-05-31
-451|451|Asperiores Eaque|Mrs Bethan Mitchell|średniowiecze|<10|obraz|<100 000|2025-12-01|2026-05-31
-452|452|Officia Libero|Mrs Carly Turner|średniowiecze|<10|fotografia|<1 000 000|2025-12-01|2026-05-31
-453|453|Et Dolore|Lynn Kerr|starożytność|<10|instalacja|<10 000|2025-12-01|2026-05-31
-454|454|Autem Occaecati|Mohamed Hilton|starożytność|<1|instalacja|>1 000 000|2025-12-01|2026-05-31
-455|455|Cum Suscipit|Dr Ryan Connolly|średniowiecze|<1|obraz|>1 000 000|2025-12-01|2026-05-31
-456|456|Ipsa Animi|Ms Mary Taylor|nowożytność|>=10|fotografia|>1 000 000|2025-12-01|2026-05-31
-457|457|Reprehenderit Blanditiis|Pieter Stashkov|nowożytność|<5|rzeźba|<10 000|2025-12-01|2026-05-31
-458|458|Aut Explicabo|Mr Peter Coates|starożytność|<5|obraz|<10 000|2025-12-01|2026-05-31
-459|459|Dolorum Optio|Bradley Ryan|starożytność|<5|obraz|<1 000 000|2025-12-01|2026-05-31
-460|460|Sed Ratione|Mrs Kerry Davis|czasy współczesne|<5|obraz|>1 000 000|2025-12-01|2026-05-31
-461|461|Odio Possimus|Steven Bailey|starożytność|>=10|instalacja|>1 000 000|2025-12-01|2026-05-31
-462|462|Beatae Unde|Steven Martin|średniowiecze|<1|obraz|>1 000 000|2025-12-01|2026-05-31
-463|463|Molestias Sapiente|Janet Williams|nowożytność|>=10|grafika|<100 000|2025-12-01|2026-05-31
-464|464|Doloremque Corporis|Bernard Richards|średniowiecze|<5|fotografia|<10 000|2025-12-01|2026-05-31
-465|465|Deserunt At|Russell Williams|czasy współczesne|>=10|fotografia|<10 000|2025-12-01|2026-05-31
-466|466|Eveniet Quos|Karen Mason-Hall|prehistoria|<5|fotografia|>1 000 000|2025-12-01|2026-05-31
-467|467|Impedit Commodi|Sam Bentley-Griffiths|starożytność|<1|instalacja|<1 000 000|2025-12-01|2026-05-31
-468|468|Tempora Quaerat|Luke Murray|czasy współczesne|>=10|obraz|<100 000|2025-12-01|2026-05-31
-469|469|Vitae Molestias|Tracey Thompson|czasy współczesne|<1|fotografia|<10 000|2025-12-01|2026-05-31
-470|470|Eligendi Nostrum|Kathryn Harrison|średniowiecze|<10|rzeźba|<10 000|2025-12-01|2026-05-31
-471|471|Similique Quod|Mr Wayne Bailey|czasy współczesne|<1|obraz|>1 000 000|2025-12-01|2026-05-31
-472|472|Consequuntur Qui|Mr Harry Rowe|starożytność|<5|instalacja|<1 000 000|2025-12-01|2026-05-31
-473|473|Voluptatem Officiis|Nicola Reed-Quinn|prehistoria|<5|grafika|<1 000 000|2025-12-01|2026-05-31
-474|474|Aut A|Nigel Burke|starożytność|<5|instalacja|>1 000 000|2025-12-01|2026-05-31
-475|475|Voluptas Repellendus|Joyce Foster|czasy współczesne|<10|instalacja|<1 000 000|2025-12-01|2026-05-31
-476|476|Rerum Fuga|Gail Johnson|czasy współczesne|>=10|fotografia|<10 000|2025-12-01|2026-05-31
-477|477|Magnam Rerum|Georgia Brooks-Green|starożytność|<5|instalacja|>1 000 000|2025-12-01|2026-05-31
-478|478|Rem Atque|Terence Wood|nowożytność|>=10|instalacja|<10 000|2025-12-01|2026-05-31
-479|479|Ad Iste|Lewis Green|starożytność|>=10|instalacja|>1 000 000|2025-12-01|2026-05-31
-480|480|Sed Aspernatur|Wayne Spencer|czasy współczesne|<1|fotografia|<10 000|2025-12-01|2026-05-31
-481|481|Laudantium Recusandae|Mr Abdul Sinclair|prehistoria|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-482|482|Ad Vero|Pieter Stashkov|czasy współczesne|<10|instalacja|<100 000|2025-12-01|2026-05-31
-483|483|Repellat Consequuntur|Jake Dean|nowożytność|>=10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-484|484|Enim Ab|Pieter Stashkov|prehistoria|<10|fotografia|<10 000|2025-12-01|2026-05-31
-485|485|Deleniti Fugiat|Dr Ryan Bradley|czasy współczesne|<10|grafika|<100 000|2025-12-01|2026-05-31
-486|486|Aliquid Quo|Mr Russell Burgess|nowożytność|>=10|instalacja|<100 000|2025-12-01|2026-05-31
-487|487|Asperiores Quo|Pieter Stashkov|średniowiecze|>=10|grafika|<10 000|2025-12-01|2026-05-31
-488|488|Asperiores Corporis|Gemma Dean|nowożytność|>=10|obraz|<1 000 000|2025-12-01|2026-05-31
-489|489|Vero Distinctio|Oliver Gallagher|czasy współczesne|>=10|fotografia|<1 000 000|2025-12-01|2026-05-31
-490|490|Quae Ipsam|Harry Ali-Smith|starożytność|>=10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-491|491|Pariatur Veniam|Roy Baker|starożytność|>=10|obraz|<100 000|2025-12-01|2026-05-31
-492|492|Blanditiis Perferendis|Pieter Stashkov|średniowiecze|>=10|instalacja|<10 000|2025-12-01|2026-05-31
-493|493|Cumque Quis|Mr Christopher Whitehead|średniowiecze|>=10|fotografia|>1 000 000|2025-12-01|2026-05-31
-494|494|Reprehenderit Nostrum|Brenda Payne|nowożytność|>=10|grafika|<1 000 000|2025-12-01|2026-05-31
-495|495|Eligendi Facilis|Pieter Stashkov|średniowiecze|<10|grafika|<1 000 000|2025-12-01|2026-05-31
-496|496|Ratione Officiis|Scott Schofield|średniowiecze|<5|obraz|<10 000|2025-12-01|2026-05-31
-497|497|Qui Sapiente|Denise Hodgson|czasy współczesne|<10|obraz|<10 000|2025-12-01|2026-05-31
-498|498|Beatae Possimus|Andrew Davey-Peters|prehistoria|<10|grafika|<1 000 000|2025-12-01|2026-05-31
-499|499|Sed Dolor|Anthony Smith|prehistoria|<5|obraz|<1 000 000|2025-12-01|2026-05-31
-500|500|Ullam Repellendus|Ashleigh Lynch|prehistoria|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-501|501|Iste Quisquam|Kate Jennings|czasy współczesne|<1|obraz|<100 000|2025-12-01|2026-05-31
-502|502|Officia Labore|Catherine Mann|starożytność|<10|instalacja|>1 000 000|2025-12-01|2026-05-31
-503|503|Ratione Unde|John Edwards|średniowiecze|<5|rzeźba|<1 000 000|2025-12-01|2026-05-31
-504|504|Nihil Vero|Margaret Walker|starożytność|>=10|instalacja|<100 000|2025-12-01|2026-05-31
-505|505|Non Impedit|Cameron Parry|starożytność|<5|obraz|>1 000 000|2025-12-01|2026-05-31
-506|506|Molestias Vero|Pieter Stashkov|prehistoria|<1|instalacja|<1 000 000|2025-12-01|2026-05-31
-507|507|Culpa Enim|Dr Nigel Ward|starożytność|>=10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-508|508|Consequatur Accusamus|Daniel Spencer|prehistoria|<5|fotografia|<10 000|2025-12-01|2026-05-31
-509|509|Ipsa Repudiandae|Kathleen Young|nowożytność|>=10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-510|510|Molestias Exercitationem|Josh Harper|czasy współczesne|<1|fotografia|<10 000|2025-12-01|2026-05-31
-511|511|Doloribus Corrupti|Tony Norman|starożytność|<5|obraz|<10 000|2025-12-01|2026-05-31
-512|512|Voluptas Dolorem|Jane Gregory|starożytność|<10|instalacja|<10 000|2025-12-01|2026-05-31
-513|513|Eius Nobis|Mr Graham Kelly|czasy współczesne|>=10|instalacja|<1 000 000|2025-12-01|2026-05-31
-514|514|Rem Eaque|Ms Victoria Richardson|nowożytność|>=10|instalacja|<100 000|2025-12-01|2026-05-31
-515|515|Unde Voluptates|Pieter Stashkov|czasy współczesne|<1|rzeźba|<1 000 000|2025-12-01|2026-05-31
-516|516|Voluptatum Quos|Mohammad Elliott|nowożytność|<5|obraz|>1 000 000|2025-12-01|2026-05-31
-517|517|Nulla Ex|Julia Harrison|prehistoria|<10|grafika|>1 000 000|2025-12-01|2026-05-31
-518|518|Occaecati Dolore|Bradley Gallagher|średniowiecze|>=10|grafika|<100 000|2025-12-01|2026-05-31
-519|519|Harum Molestiae|Barbara Jackson|średniowiecze|<5|instalacja|<10 000|2025-12-01|2026-05-31
-520|520|Ratione Natus|Mitchell Barnett|starożytność|<10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-521|521|Nostrum Labore|Allan Short|starożytność|>=10|rzeźba|<10 000|2025-12-01|2026-05-31
-522|522|Distinctio Esse|Rachel Jones|starożytność|<5|rzeźba|<10 000|2025-12-01|2026-05-31
-523|523|Minima Est|Trevor Reeves|średniowiecze|>=10|instalacja|<1 000 000|2025-12-01|2026-05-31
-524|524|Eum Quidem|Miss Stacey May|prehistoria|>=10|obraz|<1 000 000|2025-12-01|2026-05-31
-525|525|Rem Assumenda|Toby Powell|czasy współczesne|>=10|fotografia|<1 000 000|2025-12-01|2026-05-31
-526|526|Voluptatibus Pariatur|Lawrence Black|czasy współczesne|<5|instalacja|<10 000|2025-12-01|2026-05-31
-527|527|Et Repellendus|Vincent Cartwright|prehistoria|<1|grafika|>1 000 000|2025-12-01|2026-05-31
-528|528|Voluptates Nam|Lisa Sykes|nowożytność|<10|rzeźba|<10 000|2025-12-01|2026-01-26
-529|529|Repellendus Illo|Dr Henry Day|starożytność|<10|instalacja|<100 000|2025-12-01|2026-05-31
-530|530|Tenetur Aperiam|Pieter Stashkov|czasy współczesne|<10|obraz|>1 000 000|2025-12-01|2026-05-31
-531|531|Occaecati Necessitatibus|Liam Willis|prehistoria|<1|rzeźba|<10 000|2025-12-01|2026-05-31
-532|532|Sapiente Recusandae|Gerard Howarth-Johnston|prehistoria|<1|instalacja|>1 000 000|2025-12-01|2026-05-31
-533|533|Quae Aliquid|Lynda Kirk|czasy współczesne|>=10|grafika|<1 000 000|2025-12-01|2026-05-31
-534|534|Nihil Sequi|Geoffrey Reynolds|czasy współczesne|<10|rzeźba|<10 000|2025-12-01|2026-05-31
-535|535|Itaque Dolorum|Pieter Stashkov|czasy współczesne|<10|fotografia|<10 000|2025-12-01|2026-05-31
-536|536|Quae Perspiciatis|Daniel Griffiths-Stephenson|starożytność|<1|rzeźba|<1 000 000|2025-12-01|2026-05-31
-537|537|Dolorum Aliquid|Dr Reece Lee|czasy współczesne|<1|fotografia|<10 000|2025-12-01|2026-05-31
-538|538|Tempore Natus|Denis Wyatt|średniowiecze|<1|instalacja|<1 000 000|2025-12-01|2026-05-31
-539|539|Reprehenderit Tempora|Sophie Ball|starożytność|<5|obraz|>1 000 000|2025-12-01|2026-05-31
-540|540|Temporibus A|Marilyn Russell|średniowiecze|<1|fotografia|>1 000 000|2025-12-01|2026-05-31
-541|541|Et Praesentium|Mr Glenn Clark|starożytność|<10|grafika|<1 000 000|2025-12-01|2026-05-31
-542|542|Eius Saepe|George Howarth|czasy współczesne|<5|fotografia|<1 000 000|2025-12-01|2026-05-31
-543|543|Nesciunt Reprehenderit|Jemma Lowe|średniowiecze|<1|obraz|<100 000|2025-12-01|2026-05-31
-544|544|Autem Necessitatibus|Pieter Stashkov|czasy współczesne|<1|fotografia|<100 000|2025-12-01|2026-05-31
-545|545|Natus Esse|Mrs Jenna Curtis|starożytność|<1|instalacja|<1 000 000|2025-12-01|2026-05-31
-546|546|Fugiat Magni|Marc Dodd|czasy współczesne|<5|grafika|>1 000 000|2025-12-01|2026-05-31
-547|547|Reiciendis Porro|Abdul Ross|nowożytność|>=10|instalacja|<10 000|2025-12-01|2026-05-31
-548|548|Natus Natus|Pieter Stashkov|nowożytność|<5|obraz|>1 000 000|2025-12-01|2026-05-31
-549|549|Cum Quas|June Gill|średniowiecze|<5|obraz|<10 000|2025-12-01|2026-05-31
-550|550|Consequatur Animi|Dominic Holden|średniowiecze|<5|instalacja|>1 000 000|2025-12-01|2026-05-31
-551|551|Nobis Hic|Pieter Stashkov|nowożytność|<1|instalacja|>1 000 000|2025-12-01|2026-05-31
-552|552|Placeat Velit|Victoria Swift|średniowiecze|<10|grafika|<10 000|2025-12-01|2026-05-31
-553|553|Debitis Illo|Jill Rowe|nowożytność|<5|grafika|<10 000|2025-12-01|2026-05-26
-554|554|Veniam Voluptatum|Pieter Stashkov|starożytność|<5|obraz|<100 000|2025-12-01|2026-05-31
-555|555|Eius Praesentium|Mathew Cox|nowożytność|<10|grafika|<1 000 000|2025-12-01|2026-05-31
-556|556|Distinctio Dignissimos|Pieter Stashkov|nowożytność|<10|instalacja|<100 000|2025-12-01|2026-05-31
-557|557|Hic Impedit|Francis Norris|czasy współczesne|<5|fotografia|<1 000 000|2025-12-01|2026-05-31
-558|558|Natus Quasi|Jennifer Lane-Wilson|średniowiecze|<10|fotografia|<100 000|2025-12-01|2026-05-31
-559|559|Voluptatibus Quos|Simon Wright|średniowiecze|<1|instalacja|<1 000 000|2025-12-01|2026-05-31
-560|560|Blanditiis Laudantium|Miss Nicola Barnett|starożytność|<10|rzeźba|<10 000|2025-12-01|2026-05-31
-561|561|Ab Magnam|Alison Jennings|starożytność|<5|fotografia|<1 000 000|2025-12-01|2026-05-31
-562|562|Odio Minima|Ben Khan|nowożytność|<10|instalacja|<10 000|2025-12-01|2026-05-31
-563|563|Asperiores Omnis|Pieter Stashkov|prehistoria|>=10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-564|564|Reiciendis Aliquid|Joel Robinson-Bryan|starożytność|>=10|fotografia|<10 000|2025-12-01|2026-05-31
-565|565|Eius Eveniet|Stephanie Cook|prehistoria|>=10|obraz|<100 000|2025-12-01|2026-05-31
-566|566|Occaecati Eos|Brian Jones|średniowiecze|>=10|grafika|<100 000|2025-12-01|2026-05-31
-567|567|Velit Provident|Abigail Potter|czasy współczesne|>=10|grafika|<1 000 000|2025-12-01|2026-05-31
-568|568|Possimus Omnis|Mr Wayne Bell|prehistoria|<5|fotografia|<100 000|2025-12-01|2026-05-31
-569|569|Aspernatur Nulla|Leah Parsons|prehistoria|<10|rzeźba|<10 000|2025-12-01|2026-05-31
-570|570|Deserunt Nesciunt|Hilary Cooper|nowożytność|<10|obraz|<1 000 000|2025-12-01|2026-05-31
-571|571|In Maxime|Robert Hall|nowożytność|<1|instalacja|<1 000 000|2025-12-01|2026-05-31
-572|572|Quae Dolorem|Neil Ellis|średniowiecze|<5|instalacja|<10 000|2025-12-01|2026-05-31
-573|573|Repudiandae Distinctio|Owen Norton|prehistoria|<5|rzeźba|<100 000|2025-12-01|2026-05-31
-574|574|Odit Et|Thomas Clarke|prehistoria|<1|fotografia|<100 000|2025-12-01|2026-05-31
-575|575|Commodi Porro|Marian Smith-Taylor|średniowiecze|<1|grafika|<100 000|2025-12-01|2026-05-31
-576|576|Ratione Perferendis|Pieter Stashkov|średniowiecze|<1|rzeźba|<100 000|2025-12-01|2026-05-31
-577|577|Amet Odio|Ms Chelsea Ward|czasy współczesne|>=10|instalacja|<10 000|2025-12-01|2026-05-31
-578|578|Quo Consectetur|Mrs Sheila Abbott|prehistoria|<5|rzeźba|<1 000 000|2025-12-01|2026-05-31
-579|579|Hic Eveniet|Rachel Thomas|nowożytność|>=10|obraz|<10 000|2025-12-01|2026-05-31
-580|580|Dicta Nisi|Kirsty Short|prehistoria|>=10|grafika|>1 000 000|2025-12-01|2026-05-31
-581|581|Voluptas Tempora|Dennis Thompson|nowożytność|>=10|obraz|<1 000 000|2025-12-01|2026-05-31
-582|582|Voluptates Porro|Mark Dennis-Ward|czasy współczesne|<5|fotografia|>1 000 000|2025-12-01|2026-05-31
-583|583|In Tenetur|Mohammed Gibson|prehistoria|<1|rzeźba|>1 000 000|2025-12-01|2026-05-31
-584|584|Sequi Cupiditate|Ms Joan Ball|nowożytność|<1|instalacja|<1 000 000|2025-12-01|2026-05-31
-585|585|Adipisci Quasi|Albert Williams|starożytność|<5|instalacja|<10 000|2025-12-01|2026-05-31
-586|586|Qui Debitis|Jamie Turnbull|czasy współczesne|<10|obraz|<100 000|2025-12-01|2026-05-31
-587|587|Omnis Suscipit|Pieter Stashkov|średniowiecze|<10|obraz|<1 000 000|2025-12-01|2026-05-31
-588|588|Odit Eius|Darren Green|prehistoria|<1|rzeźba|<100 000|2025-12-01|2026-05-31
-589|589|Quo Architecto|Dr Richard Potter|czasy współczesne|<5|grafika|<1 000 000|2025-12-01|2026-05-31
-590|590|Ratione Consequatur|Charlotte Anderson|nowożytność|<1|instalacja|<100 000|2025-12-01|2026-05-31
-591|591|Quam Impedit|Norman Hartley-Williams|średniowiecze|<1|instalacja|<100 000|2025-12-01|2026-05-31
-592|592|Natus Totam|Pieter Stashkov|nowożytność|<5|grafika|<10 000|2025-12-01|2026-05-31
-593|593|Ipsum Mollitia|Dr Patrick Williams|nowożytność|>=10|instalacja|<1 000 000|2025-12-01|2026-05-31
-594|594|Necessitatibus Totam|Mrs Jasmine Smith|nowożytność|>=10|instalacja|>1 000 000|2025-12-01|2026-05-31
-595|595|Reprehenderit Provident|Kevin Barnes|czasy współczesne|<10|rzeźba|<10 000|2025-12-01|2026-05-31
-596|596|Dolor Reiciendis|Pieter Stashkov|czasy współczesne|<5|rzeźba|>1 000 000|2025-12-01|2026-05-31
-597|597|Aliquam Expedita|Pieter Stashkov|średniowiecze|<1|instalacja|<10 000|2025-12-01|2026-05-31
-598|598|Tempora Recusandae|Craig Allen|czasy współczesne|<1|obraz|<10 000|2025-12-01|2026-05-31
-599|599|Quasi Voluptate|Chloe Pritchard|nowożytność|<10|fotografia|>1 000 000|2025-12-01|2026-05-31
-600|600|Id Officiis|David Cox|prehistoria|<10|grafika|<1 000 000|2025-12-01|2026-05-31
-601|601|Aut Est|Damien Richards|średniowiecze|>=10|rzeźba|<100 000|2025-12-01|2026-05-31
-602|602|Laudantium Quod|Mandy Cunningham|czasy współczesne|<1|instalacja|>1 000 000|2025-12-01|2026-05-31
-603|603|Minus Magni|Miss Sally Baldwin|średniowiecze|>=10|obraz|<10 000|2025-12-01|2026-05-31
-604|604|Ut Dolorem|Paul Price|średniowiecze|<1|fotografia|<100 000|2025-12-01|2026-05-31
-605|605|Voluptatem Porro|Pieter Stashkov|średniowiecze|<1|fotografia|<1 000 000|2025-12-01|2026-05-31
-606|606|Recusandae Dolorum|Rachel Lawson-Parker|czasy współczesne|<10|fotografia|<1 000 000|2025-12-01|2026-05-31
-607|607|Velit Odio|Frank Kaur|starożytność|<10|fotografia|<100 000|2025-12-01|2026-05-31
-608|608|Impedit Blanditiis|Lynne Fuller|nowożytność|>=10|obraz|<10 000|2025-12-01|2026-05-31
-609|609|Voluptates Vitae|Pieter Stashkov|starożytność|>=10|grafika|>1 000 000|2025-12-01|2026-05-31
-610|610|Sit Veritatis|Ms Rosie Robinson|prehistoria|<5|fotografia|<10 000|2025-12-01|2026-05-31
-611|611|Molestiae Alias|Sheila Howell|prehistoria|<10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-612|612|Officia Aspernatur|Anna Taylor|prehistoria|<10|instalacja|<100 000|2025-12-01|2026-05-31
-613|613|Sapiente Debitis|Pieter Stashkov|prehistoria|<5|grafika|<1 000 000|2025-12-01|2026-05-31
-614|614|Provident Quos|Ben James|prehistoria|<10|grafika|<1 000 000|2025-12-01|2026-05-31
-615|615|Amet Corporis|Clifford Holloway|starożytność|<5|rzeźba|<100 000|2025-12-01|2026-05-31
-616|616|Dolores Velit|Pieter Stashkov|czasy współczesne|<10|instalacja|<100 000|2025-12-01|2026-05-31
-617|617|Nihil Optio|Pieter Stashkov|prehistoria|>=10|fotografia|>1 000 000|2025-12-01|2026-05-31
-618|618|Fugiat Commodi|Paul Jones-Hunter|czasy współczesne|<10|grafika|>1 000 000|2025-12-01|2026-05-31
-619|619|Nostrum Reprehenderit|Bethany Hurst|prehistoria|>=10|rzeźba|<100 000|2025-12-01|2026-05-31
-620|620|Nulla Fuga|Roger Schofield|nowożytność|<1|rzeźba|>1 000 000|2025-12-01|2026-05-31
-621|621|Recusandae Tempora|Dale Wood-Wells|prehistoria|<1|fotografia|>1 000 000|2025-12-01|2026-05-31
-622|622|Aut Officiis|Pieter Stashkov|starożytność|<1|instalacja|<1 000 000|2025-12-01|2026-05-31
-623|623|Ad Beatae|James Clark|średniowiecze|<1|rzeźba|>1 000 000|2025-12-01|2026-05-31
-624|624|Voluptas Ad|Pieter Stashkov|prehistoria|<10|instalacja|<100 000|2025-12-01|2026-05-31
-625|625|Vitae Commodi|Melissa Gilbert-Rose|czasy współczesne|<1|grafika|<100 000|2025-12-01|2026-05-31
-626|626|Voluptatum Enim|Miss Diana Whitehouse|czasy współczesne|>=10|instalacja|<100 000|2025-12-01|2026-05-31
-627|627|Aperiam Aperiam|Pieter Stashkov|nowożytność|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-628|628|Voluptate Voluptas|Miss Carolyn Dawson|średniowiecze|<10|grafika|>1 000 000|2025-12-01|2026-05-31
-629|629|Vel Occaecati|Callum Gill-Taylor|prehistoria|>=10|instalacja|>1 000 000|2025-12-01|2026-05-31
-630|630|Impedit Dicta|Kelly Parsons|średniowiecze|<1|instalacja|<1 000 000|2025-12-01|2026-05-31
-631|631|Ducimus Ipsam|Andrea Ford|średniowiecze|<1|grafika|<10 000|2025-12-01|2026-05-31
-632|632|Vel Rerum|Pieter Stashkov|starożytność|<10|rzeźba|<100 000|2025-12-01|2026-05-31
-633|633|Aliquam Aspernatur|Derek Day|czasy współczesne|<1|grafika|<100 000|2025-12-01|2026-05-31
-634|634|Quam Animi|Victoria Blake|nowożytność|<5|fotografia|<10 000|2025-12-01|2026-05-31
-635|635|Iure Ratione|Graham Scott-Richardson|czasy współczesne|<1|obraz|>1 000 000|2025-12-01|2026-05-31
-636|636|Voluptatibus Placeat|Bryan Patel|starożytność|<10|instalacja|>1 000 000|2025-12-01|2026-05-31
-637|637|Doloribus Quasi|Catherine Noble|nowożytność|<1|rzeźba|<10 000|2025-12-01|2026-05-31
-638|638|Quae Veniam|Miss Chloe Turnbull|czasy współczesne|<10|instalacja|>1 000 000|2025-12-01|2026-05-31
-639|639|Tenetur Illo|Pieter Stashkov|nowożytność|>=10|obraz|<100 000|2025-12-01|2026-05-31
-640|640|Libero Voluptate|Dr Leonard Lewis|średniowiecze|<5|fotografia|<100 000|2025-12-01|2026-05-31
-641|641|Deserunt Sequi|Mr Trevor Hudson|nowożytność|<10|instalacja|<1 000 000|2025-12-01|2026-05-31
-642|642|Numquam Laborum|Mr Raymond Warner|średniowiecze|<10|fotografia|<1 000 000|2025-12-01|2026-05-31
-643|643|Velit Atque|Nicholas Jones|czasy współczesne|<5|fotografia|<10 000|2025-12-01|2026-05-31
-644|644|Nulla Esse|Danny Thompson|starożytność|<10|fotografia|<100 000|2025-12-01|2026-05-31
-645|645|Occaecati Quam|Hazel Williams|średniowiecze|<1|grafika|<1 000 000|2025-12-01|2026-05-31
-646|646|Nam Reiciendis|John Lamb|nowożytność|<10|fotografia|<10 000|2025-12-01|2026-05-31
-647|647|Consequuntur Temporibus|Ricky Wong|czasy współczesne|<5|rzeźba|>1 000 000|2025-12-01|2026-05-31
-648|648|Aperiam Qui|Emma Lewis|nowożytność|<10|grafika|<100 000|2025-12-01|2026-05-31
-649|649|Adipisci Debitis|Leanne Smith-Talbot|prehistoria|<10|obraz|<100 000|2025-12-01|2026-05-31
-650|650|Est Placeat|Rita Williams|starożytność|<5|rzeźba|>1 000 000|2025-12-01|2026-05-31
-651|651|Quis Odit|Garry Gardner|nowożytność|<5|instalacja|<10 000|2025-12-01|2026-05-31
-652|652|Doloremque Dolorum|Leon Moore|nowożytność|>=10|fotografia|<1 000 000|2025-12-01|2026-05-31
-653|653|Non Occaecati|Miss Anne Walker|starożytność|<1|grafika|>1 000 000|2025-12-01|2026-05-31
-654|654|Adipisci Ut|Mr Kenneth Begum|średniowiecze|>=10|grafika|>1 000 000|2025-12-01|2026-05-31
-655|655|Recusandae Doloremque|Kenneth Atkins-Brown|czasy współczesne|<5|grafika|>1 000 000|2025-12-01|2026-05-31
-656|656|Autem Voluptates|Timothy Burke-Lawson|średniowiecze|<10|instalacja|<1 000 000|2025-12-01|2026-05-31
-657|657|Sint Dolor|Ms Julie Dickinson|starożytność|>=10|instalacja|<100 000|2025-12-01|2026-05-31
-658|658|Eum A|Claire Davies|starożytność|<1|grafika|<10 000|2025-12-01|2026-05-31
-659|659|Vero Delectus|Victor Lowe|starożytność|<1|obraz|<100 000|2025-12-01|2026-05-31
-660|660|Deleniti Fugiat|Pieter Stashkov|czasy współczesne|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-661|661|Neque Laborum|Lorraine Green-Douglas|prehistoria|<10|obraz|<1 000 000|2025-12-01|2026-05-31
-662|662|Sequi Corrupti|Pieter Stashkov|czasy współczesne|<1|obraz|<100 000|2025-12-01|2026-05-31
-663|663|Dolore Consequatur|Kimberley Harris|średniowiecze|<1|instalacja|>1 000 000|2025-12-01|2026-05-31
-664|664|Rerum At|Donna Black|czasy współczesne|<5|rzeźba|<10 000|2025-12-01|2026-05-31
-665|665|Iste Consequuntur|Arthur Fuller|czasy współczesne|<1|instalacja|<1 000 000|2025-12-01|2026-05-31
-666|666|Esse Beatae|Martyn Armstrong|nowożytność|>=10|grafika|<10 000|2025-12-01|2026-05-31
-667|667|Vel Necessitatibus|William Swift|starożytność|<5|instalacja|>1 000 000|2025-12-01|2026-05-31
-668|668|Illum In|Raymond Clark|prehistoria|<1|obraz|<10 000|2025-12-01|2026-05-31
-669|669|Ratione Nesciunt|Pieter Stashkov|czasy współczesne|>=10|obraz|<10 000|2025-12-01|2026-05-31
-670|670|Corrupti Odio|Dean Pritchard-Hewitt|nowożytność|<5|fotografia|>1 000 000|2025-12-01|2026-05-31
-671|671|Soluta Esse|Mr Glen Hawkins|starożytność|>=10|grafika|<100 000|2025-12-01|2026-05-31
-672|672|Alias Molestias|Henry Dixon|prehistoria|<10|grafika|<1 000 000|2025-12-01|2026-05-31
-673|673|Perspiciatis Perspiciatis|Mrs Patricia Thomas|prehistoria|<5|instalacja|<1 000 000|2025-12-01|2026-05-31
-674|674|Fugiat Doloremque|Leslie Johnson|średniowiecze|<1|grafika|<10 000|2025-12-01|2026-05-31
-675|675|Perferendis Temporibus|Francesca Barton|czasy współczesne|<5|grafika|<100 000|2025-12-01|2026-05-31
-676|676|Dignissimos Nobis|Judith Bond|średniowiecze|<1|obraz|<100 000|2025-12-01|2026-05-31
-677|677|Ab Ad|Pieter Stashkov|czasy współczesne|<5|rzeźba|<100 000|2025-12-01|2026-05-31
-678|678|Totam Quaerat|Jason Khan|nowożytność|<10|obraz|<10 000|2025-12-01|2026-05-31
-679|679|Perspiciatis Hic|Callum Hudson|czasy współczesne|<10|obraz|<100 000|2025-12-01|2026-05-31
-680|680|Natus Quis|Guy Wilkinson|starożytność|<10|grafika|>1 000 000|2025-12-01|2026-05-31
-681|681|Vero Eum|Mrs Jenna Perry|czasy współczesne|>=10|fotografia|<100 000|2025-12-01|2026-05-31
-682|682|Nam Accusantium|Timothy Evans|czasy współczesne|>=10|rzeźba|<100 000|2025-12-01|2026-05-31
-683|683|Maiores Quis|Donna Lane|czasy współczesne|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-684|684|Fuga Eveniet|Mr Keith Phillips|czasy współczesne|<10|obraz|<10 000|2025-12-01|2026-05-31
-685|685|Cupiditate Neque|Marion Williams|czasy współczesne|<10|instalacja|<100 000|2025-12-01|2026-04-04
-686|686|Deleniti Sunt|Dr Ian Webster|średniowiecze|>=10|grafika|<10 000|2025-12-01|2026-05-31
-687|687|Illo Ab|Gregory Clark-Kaur|starożytność|<1|obraz|<100 000|2025-12-01|2026-05-31
-688|688|Vitae Fuga|Mrs Charlene Smith|starożytność|<5|obraz|>1 000 000|2025-12-01|2026-05-31
-689|689|Amet Quos|Kieran O'Brien|prehistoria|<5|grafika|>1 000 000|2025-12-01|2026-05-31
-690|690|Possimus Ullam|Albert Chapman|nowożytność|<1|fotografia|>1 000 000|2025-12-01|2026-05-31
-691|691|Id Libero|Leigh Davies|średniowiecze|<10|obraz|>1 000 000|2025-12-01|2026-05-31
-692|692|Ab Voluptate|Jemma Smith-Harrison|nowożytność|<10|grafika|<10 000|2025-12-01|2026-05-31
-693|693|Animi Aliquid|Danielle Burns|czasy współczesne|<1|obraz|<1 000 000|2025-12-01|2026-05-31
-694|694|Incidunt Nobis|Ryan Jenkins|czasy współczesne|<5|grafika|>1 000 000|2025-12-01|2026-05-31
-695|695|Blanditiis Deserunt|Dr Amanda Akhtar|starożytność|>=10|rzeźba|<10 000|2025-12-01|2026-05-31
-696|696|Assumenda Nam|Pieter Stashkov|prehistoria|>=10|grafika|<100 000|2025-12-01|2026-05-31
-697|697|Tempore Ut|Mohamed Coleman-Spencer|średniowiecze|<1|obraz|<1 000 000|2025-12-01|2026-05-31
-698|698|Eligendi Soluta|Stephanie Hawkins|starożytność|<1|grafika|<10 000|2025-12-01|2026-05-31
-699|699|Ut Qui|Simon Vaughan-Rees|nowożytność|<10|obraz|<10 000|2025-12-01|2026-05-31
-700|700|Placeat Dignissimos|Dr Leslie Marshall|średniowiecze|<1|grafika|<1 000 000|2025-12-01|2026-05-31
-701|701|Cupiditate Quis|Lindsey Davies|średniowiecze|>=10|rzeźba|<10 000|2025-12-01|2026-05-31
-702|702|Nesciunt Ipsum|Pieter Stashkov|średniowiecze|<10|instalacja|<1 000 000|2025-12-01|2026-05-31
-703|703|Ipsum Culpa|Mr Wayne Ball|nowożytność|<5|grafika|>1 000 000|2025-12-01|2026-05-31
-704|704|Quas Tempore|Mr Dylan Phillips|średniowiecze|<5|fotografia|<10 000|2025-12-01|2026-05-31
-705|705|Corporis Assumenda|Pieter Stashkov|nowożytność|<5|fotografia|<10 000|2025-12-01|2026-05-31
-706|706|Non Sapiente|Timothy Johnson|prehistoria|<10|obraz|>1 000 000|2025-12-01|2026-05-31
-707|707|Porro Reiciendis|Robin Williams|starożytność|<10|obraz|>1 000 000|2025-12-01|2026-05-29
-708|708|Animi Temporibus|Christine McDonald-Jones|prehistoria|<10|instalacja|<100 000|2025-12-01|2026-05-31
-709|709|Itaque Esse|Pieter Stashkov|starożytność|<10|fotografia|<10 000|2025-12-01|2026-05-31
-710|710|Distinctio Doloremque|Mr George Mason|nowożytność|<5|rzeźba|>1 000 000|2025-12-01|2026-05-31
-711|711|Asperiores Nihil|Shannon Roberts|prehistoria|<5|obraz|<10 000|2025-12-01|2026-05-31
-712|712|Error Eveniet|Dr Callum Shaw|średniowiecze|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-713|713|Quisquam A|Pieter Stashkov|starożytność|<1|rzeźba|>1 000 000|2025-12-01|2026-05-31
-714|714|Error Dicta|Katherine Smith|nowożytność|<1|obraz|>1 000 000|2025-12-01|2026-05-31
-715|715|Quidem Rerum|Craig Patterson|starożytność|>=10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-716|716|Fuga Optio|June Taylor|starożytność|<10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-717|717|Iure Nesciunt|Mitchell Ross|prehistoria|<5|obraz|<1 000 000|2025-12-01|2026-05-31
-718|718|Sunt Aspernatur|Pieter Stashkov|średniowiecze|<5|rzeźba|<10 000|2025-12-01|2026-05-31
-719|719|Voluptates Tempore|Kyle Armstrong|starożytność|>=10|obraz|<10 000|2025-12-01|2026-05-31
-720|720|Perferendis Itaque|Rebecca Roberts|średniowiecze|<5|instalacja|<10 000|2025-12-01|2026-05-31
-721|721|Incidunt Distinctio|Mr Edward Foster|średniowiecze|>=10|instalacja|>1 000 000|2025-12-01|2026-05-31
-722|722|Magnam Nihil|Pieter Stashkov|średniowiecze|<10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-723|723|Cumque Quisquam|Joseph Smith|średniowiecze|<10|rzeźba|<10 000|2025-12-01|2026-05-31
-724|724|Magni Reiciendis|Kelly Smith-Davies|średniowiecze|>=10|grafika|<100 000|2025-12-01|2026-05-31
-725|725|Reprehenderit Nobis|Neil Lawrence|starożytność|<5|obraz|<100 000|2025-12-01|2026-05-31
-726|726|Iusto Soluta|Rachel Smith|prehistoria|>=10|fotografia|<10 000|2025-12-01|2026-05-31
-727|727|Sunt Explicabo|Rebecca Hodgson|starożytność|<5|rzeźba|>1 000 000|2025-12-01|2026-05-31
-728|728|Dignissimos Eum|Pieter Stashkov|średniowiecze|<5|fotografia|<100 000|2025-12-01|2026-05-31
-729|729|Exercitationem Quis|Jeffrey Waters|prehistoria|>=10|grafika|<1 000 000|2025-12-01|2026-05-31
-730|730|Minima Quas|Clare Gill|prehistoria|<10|grafika|<10 000|2025-12-01|2026-05-31
-731|731|Occaecati Voluptate|Dr Sylvia Gibbons|czasy współczesne|<5|obraz|<100 000|2025-12-01|2026-05-31
-732|732|Odit Sequi|Jeremy Hunter|starożytność|<10|instalacja|<100 000|2025-12-01|2026-05-31
-733|733|Vero Eos|Alexander Sims|starożytność|<1|grafika|>1 000 000|2025-12-01|2026-05-31
-734|734|Impedit Dolores|Denis Taylor|prehistoria|<1|grafika|>1 000 000|2025-12-01|2026-05-31
-735|735|Nam Ut|Mr Jeremy Johnson|czasy współczesne|<1|obraz|<100 000|2025-12-01|2026-05-31
-736|736|Quidem Quas|Sharon Stephenson|czasy współczesne|<1|obraz|>1 000 000|2025-12-01|2026-05-31
-737|737|Iure Tempore|Barbara Fry-Harrison|średniowiecze|>=10|instalacja|<10 000|2025-12-01|2026-05-31
-738|738|Distinctio Pariatur|Kerry Hart|starożytność|<5|fotografia|<1 000 000|2025-12-01|2026-05-31
-739|739|Magnam Harum|Connor Davis|prehistoria|<10|rzeźba|<100 000|2025-12-01|2026-05-31
-740|740|Iusto Molestias|Mr Matthew Lee|starożytność|<5|grafika|<100 000|2025-12-01|2026-05-31
-741|741|Eum Nemo|Martyn Moran-Johnson|średniowiecze|<5|grafika|>1 000 000|2025-12-01|2026-05-31
-742|742|Tempora Dicta|Roger Sullivan|średniowiecze|<5|rzeźba|>1 000 000|2025-12-01|2026-05-31
-743|743|Labore Explicabo|Shane White|nowożytność|<1|obraz|>1 000 000|2025-12-01|2026-05-31
-744|744|Nemo Magni|Michelle Payne|prehistoria|>=10|fotografia|<10 000|2025-12-01|2026-05-31
-745|745|Aliquid Commodi|Elliot Steele-Bell|nowożytność|<1|grafika|>1 000 000|2025-12-01|2026-05-31
-746|746|Ipsam Veniam|Dr Shaun Lawson|czasy współczesne|>=10|fotografia|<10 000|2025-12-01|2026-05-31
-747|747|Iste Libero|Dennis Parsons|średniowiecze|<5|rzeźba|<1 000 000|2025-12-01|2026-05-31
-748|748|Distinctio Sint|Luke Evans-Williams|czasy współczesne|<10|instalacja|<10 000|2025-12-01|2026-05-31
-749|749|Minima Nisi|Dr Lynda Allan|starożytność|>=10|fotografia|<10 000|2025-12-01|2026-05-31
-750|750|Assumenda Tempora|Charlotte Webb|starożytność|>=10|instalacja|<10 000|2025-12-01|2026-05-31
-751|751|Fugiat Fuga|Pieter Stashkov|średniowiecze|<5|grafika|<100 000|2025-12-01|2026-05-31
-752|752|Velit Ab|Damian Osborne|czasy współczesne|<5|obraz|<100 000|2025-12-01|2026-05-31
-753|753|Distinctio Ad|Emily Walker|starożytność|<1|rzeźba|<1 000 000|2025-12-01|2026-05-31
-754|754|Reiciendis Officiis|Dr Abdul Morgan|prehistoria|<10|rzeźba|<100 000|2025-12-01|2026-05-31
-755|755|Quibusdam Tenetur|Lorraine Walton|starożytność|<10|obraz|>1 000 000|2025-12-01|2026-05-31
-756|756|Iste Molestias|Pieter Stashkov|czasy współczesne|>=10|obraz|>1 000 000|2025-12-01|2026-05-31
-757|757|Debitis Veritatis|Pieter Stashkov|czasy współczesne|<10|rzeźba|<10 000|2025-12-01|2026-05-31
-758|758|Nam Rerum|Anthony Reeves|średniowiecze|<5|instalacja|<10 000|2025-12-01|2026-05-31
-759|759|Deleniti Beatae|Kelly Mitchell|nowożytność|>=10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-760|760|Quaerat Rem|Dr Jessica Dean|starożytność|<1|fotografia|<100 000|2025-12-01|2026-05-31
-761|761|Deserunt Fugit|Mrs Andrea Foster|średniowiecze|>=10|grafika|>1 000 000|2025-12-01|2026-05-31
-762|762|Dolores Molestias|Miss Beverley Read|czasy współczesne|>=10|fotografia|<100 000|2025-12-01|2026-05-31
-763|763|Saepe Corporis|Elizabeth Willis-Young|nowożytność|<5|obraz|<10 000|2025-12-01|2026-05-31
-764|764|Tempora Accusantium|Stanley Reed|średniowiecze|>=10|obraz|>1 000 000|2025-12-01|2026-05-31
-765|765|Nihil Magni|Philip Price-Benson|średniowiecze|<10|fotografia|<10 000|2025-12-01|2026-05-31
-766|766|Perspiciatis Error|Pieter Stashkov|prehistoria|<5|fotografia|<10 000|2025-12-01|2026-05-31
-767|767|Sint Molestiae|Jemma Saunders|czasy współczesne|<1|grafika|>1 000 000|2025-12-01|2026-05-31
-768|768|Earum Fugiat|Donald Turner|czasy współczesne|<5|rzeźba|<10 000|2025-12-01|2026-05-31
-769|769|Dolores Dignissimos|Denise Perry|prehistoria|>=10|fotografia|<10 000|2025-12-01|2026-05-31
-770|770|Perspiciatis Nostrum|Jayne Davis|starożytność|<1|rzeźba|<10 000|2025-12-01|2026-05-31
-771|771|Itaque Dolor|Mr Martin White|prehistoria|<1|fotografia|<100 000|2025-12-01|2026-05-31
-772|772|Dolores Ratione|Jordan Price|starożytność|<5|obraz|>1 000 000|2025-12-01|2026-05-31
-773|773|Error Dicta|Pieter Stashkov|średniowiecze|<5|instalacja|<10 000|2025-12-01|2026-05-31
-774|774|Pariatur Aspernatur|Dr Clive Young|nowożytność|<1|rzeźba|>1 000 000|2025-12-01|2026-05-31
-775|775|Nisi Sit|Daniel Sullivan|średniowiecze|<1|obraz|<1 000 000|2025-12-01|2026-05-31
-776|776|Eaque Aliquid|Dr Glen Dawson|nowożytność|<10|fotografia|>1 000 000|2025-12-01|2026-05-31
-777|777|Ratione Esse|Pieter Stashkov|prehistoria|<10|obraz|<100 000|2025-12-01|2026-05-31
-778|778|Labore Unde|Norman Williams|prehistoria|<5|rzeźba|<1 000 000|2025-12-01|2026-05-31
-779|779|Eveniet Voluptatibus|Raymond Lees|średniowiecze|<1|grafika|<100 000|2025-12-01|2026-05-31
-780|780|Cupiditate Harum|Pieter Stashkov|starożytność|<1|fotografia|<1 000 000|2025-12-01|2026-05-31
-781|781|Quod Voluptates|Pieter Stashkov|prehistoria|<10|instalacja|>1 000 000|2025-12-01|2026-05-31
-782|782|Ratione Eaque|Joel Hayes|starożytność|>=10|fotografia|<100 000|2025-12-01|2026-05-31
-783|783|Temporibus Amet|Clare Davis|starożytność|>=10|fotografia|<1 000 000|2025-12-01|2026-05-31
-784|784|Ratione Natus|Harriet Fowler-Payne|nowożytność|<5|fotografia|>1 000 000|2025-12-01|2026-05-31
-785|785|Aliquid Totam|Dr Michelle Carr|średniowiecze|>=10|instalacja|<100 000|2025-12-01|2026-05-31
-786|786|Magni Quia|Pieter Stashkov|średniowiecze|<5|obraz|<100 000|2025-12-01|2026-05-31
-787|787|Eligendi Similique|Mr Sam Wilson|starożytność|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-788|788|In Amet|Stacey Hughes|czasy współczesne|<1|obraz|<10 000|2025-12-01|2026-05-31
-789|789|Neque Ipsam|Katie Jones|prehistoria|<10|grafika|<10 000|2025-12-01|2026-05-31
-790|790|Veniam Quas|Pieter Stashkov|starożytność|<10|fotografia|>1 000 000|2025-12-01|2026-05-31
-791|791|Tenetur Labore|Dr Joanne Jones|starożytność|<5|grafika|<100 000|2025-12-01|2026-05-31
-792|792|Illum Odit|Mrs Linda Singh|prehistoria|>=10|instalacja|<1 000 000|2025-12-01|2026-05-31
-793|793|Sit Voluptatem|Wendy Byrne|średniowiecze|<10|obraz|<100 000|2025-12-01|2026-05-31
-794|794|Sunt Nemo|Pieter Stashkov|nowożytność|<1|fotografia|<100 000|2025-12-01|2026-05-31
-795|795|Quidem Ipsum|Anne Clarke|nowożytność|<10|obraz|<10 000|2025-12-01|2026-05-31
-796|796|Exercitationem Est|Pieter Stashkov|starożytność|<1|fotografia|>1 000 000|2025-12-01|2026-05-31
-797|797|Eos Blanditiis|Pieter Stashkov|prehistoria|<10|instalacja|<1 000 000|2025-12-01|2026-05-31
-798|798|Voluptates Quae|Joanne Wilkinson|starożytność|<10|fotografia|<10 000|2025-12-01|2026-05-31
-799|799|Non Voluptatum|Mr Garry Walsh|nowożytność|<5|rzeźba|<1 000 000|2025-12-01|2026-05-31
-800|800|Tenetur Maxime|Mr Gareth Parker|czasy współczesne|<1|instalacja|>1 000 000|2025-12-01|2026-05-31
-801|801|Quidem Iusto|Karl Benson|starożytność|>=10|rzeźba|<10 000|2025-12-01|2026-05-31
-802|802|Temporibus Totam|Toby Murray|czasy współczesne|<10|instalacja|<10 000|2025-12-01|2026-05-31
-803|803|Dolore Repellendus|Pieter Stashkov|czasy współczesne|<5|instalacja|>1 000 000|2025-12-01|2026-05-31
-804|804|Provident Distinctio|Pieter Stashkov|średniowiecze|>=10|grafika|>1 000 000|2025-12-01|2026-05-31
-805|805|Deserunt Possimus|Mr Liam Sharp|starożytność|<10|grafika|<10 000|2025-12-01|2026-05-31
-806|806|Provident Nostrum|Charlie Williams|prehistoria|<5|obraz|<100 000|2025-12-01|2026-05-31
-807|807|Voluptatem Alias|Mr Keith Griffiths|nowożytność|<1|fotografia|<100 000|2025-12-01|2026-05-31
-808|808|Delectus Illo|Miss Carly Smith|czasy współczesne|>=10|obraz|>1 000 000|2025-12-01|2026-05-31
-809|809|Consequatur Possimus|Cameron Wilson|średniowiecze|<5|instalacja|<1 000 000|2025-12-01|2026-05-31
-810|810|Quibusdam Voluptates|Jessica Butler|nowożytność|>=10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-811|811|Illum Dolorem|Grace Martin-Whitehead|średniowiecze|<10|grafika|<1 000 000|2025-12-01|2026-05-31
-812|812|Vel Temporibus|Pieter Stashkov|czasy współczesne|<10|instalacja|<1 000 000|2025-12-01|2026-05-31
-813|813|Sunt Perferendis|Mr Patrick Wood|średniowiecze|<5|obraz|<10 000|2025-12-01|2026-05-31
-814|814|Impedit Quis|Eileen Hall-Payne|czasy współczesne|<1|rzeźba|<100 000|2025-12-01|2026-05-31
-815|815|Aspernatur Aperiam|Mrs Mandy Townsend|nowożytność|<1|fotografia|>1 000 000|2025-12-01|2026-05-31
-816|816|Nesciunt Ipsam|Paige Perry-Spencer|starożytność|>=10|obraz|<10 000|2025-12-01|2026-05-31
-817|817|Dignissimos Porro|Alex Murray|starożytność|<1|fotografia|<1 000 000|2025-12-01|2026-05-31
-818|818|Sequi Quibusdam|Tina Wade|czasy współczesne|<5|obraz|<10 000|2025-12-01|2026-05-31
-819|819|Quibusdam Doloremque|Dr Nigel Harris|średniowiecze|<1|instalacja|<100 000|2025-12-01|2026-05-31
-820|820|Molestiae Iste|Harriet O'Donnell|starożytność|<5|fotografia|>1 000 000|2025-12-01|2026-05-31
-821|821|Ducimus At|Andrea Thornton|średniowiecze|>=10|grafika|<10 000|2025-12-01|2026-05-31
-822|822|Commodi Accusamus|Robin Knight|średniowiecze|<1|fotografia|<100 000|2025-12-01|2026-05-31
-823|823|Dolorum Inventore|Francis Robertson|starożytność|<10|grafika|>1 000 000|2025-12-01|2026-05-31
-824|824|Voluptas Quo|Pieter Stashkov|nowożytność|<10|obraz|<100 000|2025-12-01|2026-05-31
-825|825|Fugit Hic|Antony Grant-Richardson|czasy współczesne|<5|obraz|<1 000 000|2025-12-01|2026-05-31
-826|826|Dolorum Ducimus|Kathleen Lawrence|nowożytność|>=10|grafika|>1 000 000|2025-12-01|2026-05-31
-827|827|A Nulla|Timothy Williams|nowożytność|<10|rzeźba|<1 000 000|2025-12-01|2026-05-31
-828|828|Beatae Necessitatibus|Kevin Wood|średniowiecze|>=10|instalacja|<1 000 000|2025-12-01|2026-05-31
-829|829|Impedit Modi|Pieter Stashkov|prehistoria|<1|obraz|<10 000|2025-12-01|2026-05-31
-830|830|Officiis Eos|Miss Hannah Parker|nowożytność|<5|obraz|<100 000|2025-12-01|2026-05-31
-831|831|Itaque Distinctio|Joe North|czasy współczesne|<5|fotografia|<1 000 000|2025-12-01|2026-05-31
-832|832|Doloribus Labore|Brandon Butler-Cooper|czasy współczesne|<5|grafika|<100 000|2025-12-01|2026-05-31
-833|833|Sunt Provident|Edward Brown|średniowiecze|<5|grafika|<100 000|2025-12-01|2026-05-31
-834|834|Quod Minima|Stacey Ingram-Adams|średniowiecze|<5|rzeźba|>1 000 000|2025-12-01|2026-05-31
-835|835|Praesentium Suscipit|Denise Hopkins|średniowiecze|<5|instalacja|<1 000 000|2025-12-01|2026-05-31
-836|836|Pariatur Eum|Ms Louise Harris|czasy współczesne|<1|obraz|<1 000 000|2025-12-01|2026-05-31
-837|837|Quod Sed|Tracy Cunningham|starożytność|>=10|instalacja|<10 000|2025-12-01|2026-05-31
-838|838|Ex In|Conor Evans|średniowiecze|<10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-839|839|Totam Molestias|Mr Sean Davis|czasy współczesne|<10|rzeźba|<100 000|2025-12-01|2026-05-31
-840|840|Doloremque Amet|Bruce Atkinson|starożytność|<1|grafika|<1 000 000|2025-12-01|2026-05-31
-841|841|Reprehenderit Quisquam|Adam Farrell-Rees|prehistoria|<1|fotografia|<100 000|2025-12-01|2026-05-31
-842|842|Exercitationem Eum|Sam Wood|starożytność|<5|obraz|<100 000|2025-12-01|2026-05-31
-843|843|Officia Hic|Dr Stewart Jones|starożytność|<10|fotografia|<100 000|2025-12-01|2026-05-31
-844|844|Consectetur Deleniti|Fiona Jones|starożytność|<5|obraz|<10 000|2025-12-01|2026-05-31
-845|845|Excepturi Quo|Dennis Watts|średniowiecze|<1|rzeźba|<100 000|2025-12-01|2026-05-31
-846|846|Tenetur Saepe|Tony Ward|czasy współczesne|<10|obraz|<1 000 000|2025-12-01|2026-05-31
-847|847|Rem Minus|Lewis Hudson|nowożytność|<1|fotografia|<1 000 000|2025-12-01|2026-05-31
-848|848|Atque Repellendus|Pieter Stashkov|czasy współczesne|<5|fotografia|>1 000 000|2025-12-01|2026-05-31
-849|849|Praesentium Repellat|Mr Denis John|nowożytność|>=10|obraz|<1 000 000|2025-12-01|2026-05-31
-850|850|Voluptas Numquam|Molly Jones|czasy współczesne|<10|fotografia|<1 000 000|2025-12-01|2026-05-31
-851|851|Nostrum Nam|Judith Edwards-Bell|czasy współczesne|<5|obraz|<1 000 000|2025-12-01|2026-05-31
-852|852|Laboriosam Nam|Pieter Stashkov|średniowiecze|<5|instalacja|>1 000 000|2025-12-01|2026-05-31
-853|853|Vero Earum|Jayne Jarvis-Harrison|średniowiecze|<5|rzeźba|<10 000|2025-12-01|2026-05-31
-854|854|Laudantium Nam|Jennifer Howard|czasy współczesne|>=10|instalacja|>1 000 000|2025-12-01|2026-05-31
-855|855|Explicabo Quo|Tina Lloyd|prehistoria|<10|grafika|>1 000 000|2025-12-01|2026-05-31
-856|856|Possimus Assumenda|Leanne Allen|prehistoria|<5|rzeźba|<1 000 000|2025-12-01|2026-05-31
-857|857|Quasi Praesentium|Dawn Bell|starożytność|<5|grafika|<1 000 000|2025-12-01|2026-05-31
-858|858|Laborum Tempora|Dr Howard Woodward|starożytność|<10|instalacja|<10 000|2025-12-01|2026-05-31
-859|859|Voluptas Qui|Stephen Hart|średniowiecze|<5|fotografia|<1 000 000|2025-12-01|2026-05-31
-860|860|Voluptatibus Molestias|Heather Davidson|starożytność|<5|rzeźba|<1 000 000|2025-12-01|2026-05-31
-861|861|Sunt Iure|Mr Elliot Boyle|nowożytność|<10|obraz|<10 000|2025-12-01|2026-05-31
-862|862|Aliquam Maiores|Leon Gould|średniowiecze|<5|rzeźba|<100 000|2025-12-01|2026-05-31
-863|863|Omnis Natus|Billy Woods|prehistoria|<10|grafika|<100 000|2025-12-01|2026-05-31
-864|864|Esse Amet|Miss Shannon Ellis|prehistoria|<10|instalacja|<1 000 000|2025-12-01|2026-05-31
-865|865|Cupiditate Voluptates|Ms Pamela Gray|prehistoria|<1|fotografia|<10 000|2025-12-01|2026-05-31
-866|866|Eligendi Quasi|Dr Gareth Murphy|prehistoria|>=10|obraz|>1 000 000|2025-12-01|2026-05-31
-867|867|Ut Animi|Kimberley Marsh-Tucker|czasy współczesne|<5|fotografia|<1 000 000|2025-12-01|2026-05-31
-868|868|Hic Modi|Anna Clark-Taylor|czasy współczesne|>=10|obraz|<10 000|2025-12-01|2026-05-31
-869|869|Sequi Libero|Miss Lindsey Robertson|nowożytność|<1|fotografia|<100 000|2025-12-01|2026-05-31
-870|870|Quis Sed|Helen Morris|nowożytność|>=10|fotografia|<1 000 000|2025-12-01|2026-05-31
-871|871|Ad Tempora|Pieter Stashkov|starożytność|>=10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-872|872|Saepe Sed|Ben Begum|czasy współczesne|<5|grafika|<10 000|2025-12-01|2026-05-31
-873|873|Inventore Dolore|Pieter Stashkov|prehistoria|<1|fotografia|>1 000 000|2025-12-01|2026-05-31
-874|874|Magni Hic|Dr Katherine Ingram|czasy współczesne|<1|rzeźba|<1 000 000|2025-12-01|2026-05-31
-875|875|Nobis Corporis|Sarah Chan|nowożytność|<5|grafika|<10 000|2025-12-01|2026-05-31
-876|876|Laborum Impedit|Jonathan Haynes-Evans|starożytność|>=10|obraz|<1 000 000|2025-12-01|2026-05-31
-877|877|Autem Blanditiis|Julie Roberts|prehistoria|<5|instalacja|<1 000 000|2025-12-01|2026-05-31
-878|878|Ipsa In|Dr Keith Duncan|średniowiecze|<10|instalacja|<10 000|2025-12-01|2026-05-31
-879|879|Incidunt Fuga|Dr Paula Patel|starożytność|>=10|instalacja|>1 000 000|2025-12-01|2026-05-31
-880|880|Ab Voluptatibus|Dr Ross Jones|średniowiecze|<10|grafika|<10 000|2025-12-01|2026-05-31
-881|881|Iusto Repellendus|Lucy Hughes|średniowiecze|>=10|rzeźba|<10 000|2025-12-01|2026-05-31
-882|882|Iste Eius|Ashleigh Khan|średniowiecze|>=10|fotografia|<1 000 000|2025-12-01|2026-05-31
-883|883|Nobis Inventore|Caroline Kirk|czasy współczesne|<5|grafika|<10 000|2025-12-01|2026-05-31
-884|884|Ab Quaerat|Miss Charlotte Lyons|prehistoria|<10|obraz|<10 000|2025-12-01|2026-05-31
-885|885|Ducimus Similique|Shirley Baker|nowożytność|>=10|obraz|<100 000|2025-12-01|2026-05-31
-886|886|At Rerum|Kerry Taylor-Parkin|czasy współczesne|<5|rzeźba|<100 000|2025-12-01|2026-05-31
-887|887|Nobis Illum|Mrs Claire Pearce|nowożytność|<5|obraz|<1 000 000|2025-12-01|2026-05-30
-888|888|Numquam Ipsum|Pieter Stashkov|czasy współczesne|<5|obraz|<100 000|2025-12-01|2026-05-31
-889|889|Porro At|Pieter Stashkov|czasy współczesne|<10|grafika|>1 000 000|2025-12-01|2026-05-31
-890|890|Eum Minima|Ross Andrews|nowożytność|>=10|instalacja|<1 000 000|2025-12-01|2026-05-31
-891|891|Cupiditate Dignissimos|Pieter Stashkov|czasy współczesne|<1|obraz|<10 000|2025-12-01|2026-05-31
-892|892|Consequuntur Sunt|Marie Burgess|średniowiecze|<5|grafika|<100 000|2025-12-01|2026-05-31
-893|893|Atque Corporis|Gemma Turnbull|nowożytność|<10|obraz|>1 000 000|2025-12-01|2026-05-31
-894|894|Mollitia Ducimus|Gillian Blake-Barnes|średniowiecze|<10|fotografia|<1 000 000|2025-12-01|2026-05-31
-895|895|Consectetur Rem|Mohamed Ward|starożytność|<5|grafika|<100 000|2025-12-01|2026-05-31
-896|896|Nesciunt Magni|Marion Palmer|czasy współczesne|<5|grafika|<1 000 000|2025-12-01|2026-05-31
-897|897|Sapiente Repellat|Lindsey Green|prehistoria|>=10|rzeźba|>1 000 000|2025-12-01|2026-05-31
-898|898|Molestias Aspernatur|Miss Teresa Goddard|nowożytność|<5|obraz|<1 000 000|2025-12-01|2026-05-31
-899|899|Veritatis Laudantium|Clive Williams|czasy współczesne|<10|instalacja|<10 000|2025-12-01|2026-05-31
-900|900|Reiciendis Labore|Mr Stanley Woods|prehistoria|<1|fotografia|<10 000|2025-12-01|2026-05-31
-901|250|Ad Aliquid|Mr Jay Fowler|czasy współczesne|<1|rzeźba|<100 000|2025-12-09|2026-05-31
-902|528|Voluptates Nam|Lisa Sykes|nowożytność|<10|rzeźba|>1 000 000|2026-01-27|2026-05-31
-903|685|Cupiditate Neque|Marion Williams|czasy współczesne|<10|instalacja|<10 000|2026-04-05|2026-05-31
-904|422|Nostrum Deleniti|Ms Beverley Houghton|czasy współczesne|<5|grafika|<100 000|2026-05-11|2026-05-31
-905|553|Debitis Illo|Jill Rowe|nowożytność|<5|grafika|<100 000|2026-05-27|2026-05-31
-906|707|Porro Reiciendis|Robin Williams|starożytność|<10|obraz|<1 000 000|2026-05-30|2026-05-31
-907|887|Nobis Illum|Mrs Claire Pearce|nowożytność|<5|obraz|>1 000 000|2026-05-31|2026-05-31
+1|1|Nostrum Fuga|Mr Robert Watson|średniowiecze|<1|obraz|>1 000 000|2025-12-01|2027-12-31
+2|2|Non Magnam|Dr Denis Evans|średniowiecze|<5|rzeźba|<10 000|2025-12-01|2027-12-31
+3|3|At Debitis|Dr Christian Sullivan|starożytność|>=10|obraz|>1 000 000|2025-12-01|2027-12-31
+4|4|Maiores Officiis|Pieter Stashkov|prehistoria|>=10|grafika|<100 000|2025-12-01|2027-12-31
+5|5|Illum Rerum|Dr Gerald Fox|czasy współczesne|<1|obraz|<100 000|2025-12-01|2027-12-31
+6|6|Animi Magnam|Sally Lawrence-Allen|starożytność|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+7|7|Iusto Eum|Stuart Gray|starożytność|<1|grafika|>1 000 000|2025-12-01|2027-12-31
+8|8|Magnam Veniam|Mr Declan Ryan|prehistoria|>=10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+9|9|Adipisci Accusamus|Pieter Stashkov|średniowiecze|<5|rzeźba|<100 000|2025-12-01|2027-12-31
+10|10|Perferendis Beatae|Pieter Stashkov|prehistoria|<5|fotografia|<100 000|2025-12-01|2027-12-31
+11|11|Ad Vel|Ms Kate White|starożytność|>=10|rzeźba|<10 000|2025-12-01|2027-12-31
+12|12|Sed Quasi|Colin Swift|czasy współczesne|>=10|obraz|>1 000 000|2025-12-01|2027-12-31
+13|13|Quae Nemo|Alan Davis-Gallagher|starożytność|<10|obraz|<100 000|2025-12-01|2027-12-31
+14|14|Laboriosam Fuga|Charlene Shaw-Edwards|średniowiecze|<10|fotografia|>1 000 000|2025-12-01|2027-12-31
+15|15|Nostrum Debitis|Reece Howells|starożytność|>=10|obraz|<1 000 000|2025-12-01|2027-12-31
+16|16|Aliquid Quam|Alexandra Smith|nowożytność|<10|instalacja|<100 000|2025-12-01|2027-12-31
+17|17|Veritatis Iure|Leonard Ford-Morgan|starożytność|<5|fotografia|>1 000 000|2025-12-01|2027-12-31
+18|18|Animi Sint|Shaun Patel|prehistoria|<10|instalacja|>1 000 000|2025-12-01|2027-12-31
+19|19|Illum Aliquam|Damian Dodd|nowożytność|<10|fotografia|<1 000 000|2025-12-01|2027-12-31
+20|20|Voluptas Eaque|Ellie Charlton|czasy współczesne|>=10|instalacja|<100 000|2025-12-01|2027-12-31
+21|21|Tempore Quod|Pieter Stashkov|średniowiecze|<10|obraz|>1 000 000|2025-12-01|2027-12-31
+22|22|Amet Rem|Reece Evans|nowożytność|<5|obraz|<1 000 000|2025-12-01|2027-12-31
+23|23|Omnis Nisi|Valerie Jones|średniowiecze|<1|grafika|<1 000 000|2025-12-01|2027-12-31
+24|24|Perspiciatis Aut|Ms Katie Bennett|średniowiecze|>=10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+25|25|Labore Repellendus|Ms Janice Fisher|czasy współczesne|<10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+26|26|Cupiditate Maxime|Hilary Payne|średniowiecze|<1|rzeźba|>1 000 000|2025-12-01|2027-12-31
+27|27|Debitis Maiores|Shaun Wells|średniowiecze|<10|grafika|>1 000 000|2025-12-01|2027-12-31
+28|28|Omnis Quasi|Pieter Stashkov|prehistoria|<5|rzeźba|<100 000|2025-12-01|2027-12-31
+29|29|Dolorum Qui|Amelia Carroll|starożytność|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+30|30|Omnis Exercitationem|Daniel Fuller|czasy współczesne|<5|fotografia|<10 000|2025-12-01|2027-12-31
+31|31|Quam Earum|Mr Sam Williams|średniowiecze|>=10|rzeźba|<100 000|2025-12-01|2027-12-31
+32|32|Non Neque|Pieter Stashkov|prehistoria|<10|grafika|<10 000|2025-12-01|2027-12-31
+33|33|Aspernatur Ipsa|Michelle Ali|średniowiecze|>=10|obraz|<1 000 000|2025-12-01|2027-12-31
+34|34|Veniam Voluptatum|Maureen Lee|średniowiecze|>=10|obraz|<100 000|2025-12-01|2027-12-31
+35|35|A Accusantium|Miss Linda Gardner|czasy współczesne|>=10|rzeźba|<100 000|2025-12-01|2027-12-31
+36|36|Doloremque Consequuntur|Mohammad Edwards-Day|czasy współczesne|<5|grafika|<10 000|2025-12-01|2027-12-31
+37|37|Eum Sequi|Gavin Adams|starożytność|>=10|obraz|<100 000|2025-12-01|2027-12-31
+38|38|Voluptas Maiores|Maureen Sullivan|czasy współczesne|<1|rzeźba|<10 000|2025-12-01|2027-12-31
+39|39|Officia Saepe|Russell Parkin|czasy współczesne|<1|grafika|<1 000 000|2025-12-01|2027-12-31
+40|40|Culpa Assumenda|Pieter Stashkov|nowożytność|>=10|rzeźba|<100 000|2025-12-01|2027-12-31
+41|41|Impedit Accusantium|Dr Katherine Shaw|nowożytność|<5|rzeźba|<1 000 000|2025-12-01|2027-12-31
+42|42|Maiores Aliquam|Lynda Hill|starożytność|>=10|obraz|<1 000 000|2025-12-01|2027-12-31
+43|43|Blanditiis At|Dr Leonard Johnson|średniowiecze|<1|grafika|<100 000|2025-12-01|2027-12-31
+44|44|Fuga Ipsa|Mr Luke Griffiths|nowożytność|<1|obraz|>1 000 000|2025-12-01|2027-12-31
+45|45|Nulla Enim|Leigh Pratt-McKenzie|starożytność|<5|fotografia|>1 000 000|2025-12-01|2027-12-31
+46|46|Quos Sapiente|June Foster|nowożytność|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+47|47|Debitis Vero|Jemma Barnes|średniowiecze|<10|instalacja|<100 000|2025-12-01|2027-12-31
+48|48|Delectus Dolore|Lydia Black|starożytność|<5|fotografia|<10 000|2025-12-01|2027-12-31
+49|49|Enim Enim|Kathryn Ellis|starożytność|<5|fotografia|<10 000|2025-12-01|2027-12-31
+50|50|Fugiat Nam|Diana Fletcher|prehistoria|>=10|instalacja|<1 000 000|2025-12-01|2027-12-31
+51|51|Voluptatem Quidem|Pieter Stashkov|średniowiecze|<10|obraz|<10 000|2025-12-01|2027-12-31
+52|52|Error Eum|Mrs Lucy Barnes|starożytność|<10|fotografia|>1 000 000|2025-12-01|2027-12-31
+53|53|Consequatur Cumque|Pieter Stashkov|średniowiecze|>=10|obraz|<100 000|2025-12-01|2027-12-31
+54|54|Numquam Iusto|Dr Samuel Douglas|czasy współczesne|<10|obraz|<10 000|2025-12-01|2027-12-31
+55|55|Quaerat Molestiae|Christopher Holloway|starożytność|<1|obraz|>1 000 000|2025-12-01|2027-12-31
+56|56|Eos Quis|Pieter Stashkov|czasy współczesne|<1|grafika|>1 000 000|2025-12-01|2027-12-31
+57|57|At Cupiditate|Pieter Stashkov|starożytność|<1|rzeźba|<1 000 000|2025-12-01|2027-12-31
+58|58|Maxime Cupiditate|Pieter Stashkov|prehistoria|<1|fotografia|<100 000|2025-12-01|2027-12-31
+59|59|Nam Voluptate|Janet Russell-Thompson|starożytność|<5|rzeźba|<10 000|2025-12-01|2027-12-31
+60|60|Modi Atque|Pieter Stashkov|starożytność|<10|instalacja|<100 000|2025-12-01|2027-12-31
+61|61|Dicta Inventore|Lewis Macdonald|starożytność|<10|instalacja|<10 000|2025-12-01|2027-12-31
+62|62|Vel Soluta|Elliot Matthews|czasy współczesne|<10|instalacja|<10 000|2025-12-01|2027-12-31
+63|63|Sint Impedit|Paula Allen|prehistoria|<10|instalacja|<1 000 000|2025-12-01|2027-12-31
+64|64|Repellat Ad|Leonard Lamb-Ford|prehistoria|<1|obraz|<10 000|2025-12-01|2027-12-31
+65|65|Libero Totam|Deborah Davies|czasy współczesne|<10|obraz|>1 000 000|2025-12-01|2027-12-31
+66|66|Eaque Tenetur|Rosemary Webb|czasy współczesne|<1|obraz|<1 000 000|2025-12-01|2027-12-31
+67|67|Earum Ipsa|Leanne O'Connor|nowożytność|<1|rzeźba|<100 000|2025-12-01|2027-12-31
+68|68|Optio Expedita|Nigel Craig|średniowiecze|>=10|fotografia|<100 000|2025-12-01|2027-12-31
+69|69|Pariatur Quas|Leslie Smith|starożytność|<1|grafika|<10 000|2025-12-01|2027-12-31
+70|70|Sed Fugiat|June Jones|prehistoria|<5|grafika|<1 000 000|2025-12-01|2027-12-31
+71|71|Omnis Porro|Ms Gail Clayton|średniowiecze|<1|fotografia|<1 000 000|2025-12-01|2027-12-31
+72|72|Molestias Quod|Joe Baker|średniowiecze|<10|instalacja|<10 000|2025-12-01|2027-12-31
+73|73|Iste Quod|Stanley Davis-Smith|prehistoria|<10|instalacja|<10 000|2025-12-01|2027-12-31
+74|74|Perferendis Omnis|Maureen Baldwin|starożytność|<10|fotografia|<10 000|2025-12-01|2027-12-31
+75|75|Voluptates Excepturi|Dr Arthur Knowles|prehistoria|<5|obraz|>1 000 000|2025-12-01|2027-12-31
+76|76|Ipsam Nemo|Lee Morris|średniowiecze|<5|rzeźba|>1 000 000|2025-12-01|2027-12-31
+77|77|Hic Reiciendis|Miss Danielle Taylor|nowożytność|<5|instalacja|>1 000 000|2025-12-01|2027-12-31
+78|78|Nisi Architecto|Stuart Davis-Rose|czasy współczesne|<1|grafika|>1 000 000|2025-12-01|2027-12-31
+79|79|Placeat Totam|Mr Ricky Patel|czasy współczesne|<1|instalacja|<10 000|2025-12-01|2027-12-31
+80|80|Quibusdam Iure|Pieter Stashkov|nowożytność|<1|fotografia|<10 000|2025-12-01|2027-12-31
+81|81|Excepturi Quaerat|Julie Hilton|prehistoria|<1|grafika|<100 000|2025-12-01|2027-12-31
+82|82|Doloremque Veniam|Mr Iain Norman|średniowiecze|>=10|obraz|<1 000 000|2025-12-01|2027-12-31
+83|83|Odio Labore|Samantha White|prehistoria|<5|obraz|>1 000 000|2025-12-01|2027-12-31
+84|84|Labore Odit|Pieter Stashkov|czasy współczesne|>=10|grafika|>1 000 000|2025-12-01|2027-12-31
+85|85|Adipisci Quam|Elliot Dixon|prehistoria|<1|rzeźba|<10 000|2025-12-01|2027-12-31
+86|86|Delectus Dicta|Callum Wilkinson-Hall|nowożytność|>=10|rzeźba|<100 000|2025-12-01|2027-12-31
+87|87|Tenetur Nulla|Elizabeth Kemp-Berry|nowożytność|<10|instalacja|>1 000 000|2025-12-01|2027-12-31
+88|88|Debitis Molestiae|Pieter Stashkov|średniowiecze|<1|fotografia|>1 000 000|2025-12-01|2027-12-31
+89|89|Maxime Odit|Pieter Stashkov|średniowiecze|<10|fotografia|>1 000 000|2025-12-01|2027-12-31
+90|90|Nesciunt Soluta|Ms Sylvia Jones|nowożytność|<1|fotografia|<10 000|2025-12-01|2027-12-31
+91|91|Voluptatum A|Dean Conway|prehistoria|<1|grafika|>1 000 000|2025-12-01|2027-12-31
+92|92|Aliquid Iure|Pieter Stashkov|czasy współczesne|<10|obraz|<1 000 000|2025-12-01|2027-12-31
+93|93|Dicta Laborum|Dr Connor Carpenter|prehistoria|<5|grafika|<10 000|2025-12-01|2027-12-31
+94|94|Dolore Cum|Pieter Stashkov|starożytność|<1|grafika|<100 000|2025-12-01|2027-12-31
+95|95|Rem Hic|Clifford Owen|nowożytność|<10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+96|96|Dolores Modi|Dr Christine Jennings|średniowiecze|<10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+97|97|Praesentium Pariatur|Pieter Stashkov|średniowiecze|<1|instalacja|>1 000 000|2025-12-01|2027-12-31
+98|98|Ex Eveniet|Eileen Turner-Crawford|starożytność|<5|instalacja|<10 000|2025-12-01|2027-12-31
+99|99|Omnis Aspernatur|Thomas Wright|czasy współczesne|<1|rzeźba|>1 000 000|2025-12-01|2027-12-31
+100|100|Repellat Officia|Ms Gillian Atkins|nowożytność|<5|instalacja|<100 000|2025-12-01|2027-12-31
+101|101|Non Aliquam|Leslie Ellis|starożytność|<5|fotografia|<1 000 000|2025-12-01|2027-12-31
+102|102|Occaecati Non|Cheryl James|średniowiecze|<5|instalacja|>1 000 000|2025-12-01|2027-12-31
+103|103|Cupiditate Minima|Pieter Stashkov|średniowiecze|<10|fotografia|<1 000 000|2025-12-01|2027-12-31
+104|104|Debitis Molestias|Norman Campbell|prehistoria|<1|rzeźba|<10 000|2025-12-01|2027-12-31
+105|105|Aut Reiciendis|Vincent Collins|średniowiecze|>=10|instalacja|>1 000 000|2025-12-01|2027-12-31
+106|106|Dolorem Neque|Pieter Stashkov|czasy współczesne|<1|fotografia|<10 000|2025-12-01|2027-12-31
+107|107|Incidunt Quas|Pieter Stashkov|nowożytność|<5|instalacja|>1 000 000|2025-12-01|2027-12-31
+108|108|Unde Quo|Pieter Stashkov|nowożytność|>=10|rzeźba|<10 000|2025-12-01|2027-12-31
+109|109|Sunt Aut|Grace Hart|nowożytność|<5|fotografia|>1 000 000|2025-12-01|2027-12-31
+110|110|Optio Temporibus|Mr Dale Nicholls|prehistoria|<1|rzeźba|<10 000|2025-12-01|2027-12-31
+111|111|Voluptatibus Nostrum|Timothy Willis|średniowiecze|<10|instalacja|<10 000|2025-12-01|2027-12-31
+112|112|Sunt Dignissimos|Leonard Taylor|starożytność|<5|obraz|<1 000 000|2025-12-01|2027-12-31
+113|113|Repellat Vitae|Miss Kirsty Stewart|czasy współczesne|>=10|grafika|>1 000 000|2025-12-01|2027-12-31
+114|114|Vitae Voluptatum|Pieter Stashkov|starożytność|<10|instalacja|<1 000 000|2025-12-01|2027-12-31
+115|115|Saepe Fuga|Geoffrey Mellor|starożytność|<5|grafika|>1 000 000|2025-12-01|2027-12-31
+116|116|Quis Minima|Heather Jones|czasy współczesne|>=10|fotografia|<100 000|2025-12-01|2027-12-31
+117|117|Rem Ratione|Miss Irene Parkes|starożytność|<10|obraz|>1 000 000|2025-12-01|2027-12-31
+118|118|Architecto Ex|Rhys Brown|starożytność|<1|fotografia|<1 000 000|2025-12-01|2027-12-31
+119|119|Molestiae Molestiae|Aaron Smith|starożytność|>=10|instalacja|<1 000 000|2025-12-01|2027-12-31
+120|120|Quam Laborum|Janet Hill|czasy współczesne|>=10|fotografia|<100 000|2025-12-01|2027-12-31
+121|121|Earum Quibusdam|Pieter Stashkov|czasy współczesne|<10|obraz|<10 000|2025-12-01|2027-12-31
+122|122|Doloribus Iste|Mrs Lorraine Harris|starożytność|<1|rzeźba|<10 000|2025-12-01|2027-12-31
+123|123|Reiciendis Dolores|Mark Peters|starożytność|<10|obraz|>1 000 000|2025-12-01|2027-12-31
+124|124|Nobis Rerum|Pieter Stashkov|starożytność|>=10|fotografia|<10 000|2025-12-01|2027-12-31
+125|125|Libero Hic|Georgia Miller|średniowiecze|<10|obraz|>1 000 000|2025-12-01|2027-12-31
+126|126|Iure Quod|Pieter Stashkov|nowożytność|>=10|instalacja|<1 000 000|2025-12-01|2027-12-31
+127|127|Quas Cum|Dr Dorothy Yates|średniowiecze|<10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+128|128|Reprehenderit Laudantium|Pieter Stashkov|czasy współczesne|<5|obraz|>1 000 000|2025-12-01|2027-12-31
+129|129|Eius Facilis|Glenn Archer|średniowiecze|<1|rzeźba|>1 000 000|2025-12-01|2027-12-31
+130|130|Minima Ullam|Dr Graeme Lane|średniowiecze|<1|grafika|<1 000 000|2025-12-01|2027-12-31
+131|131|Occaecati Provident|Christine Marshall|starożytność|<1|fotografia|<100 000|2025-12-01|2027-12-31
+132|132|Velit Dolore|Shannon Hardy|prehistoria|<1|rzeźba|<100 000|2025-12-01|2027-12-31
+133|133|Beatae Repellendus|Victoria Watson|średniowiecze|>=10|rzeźba|<10 000|2025-12-01|2027-12-31
+134|134|Nulla Aperiam|Shannon Hughes|średniowiecze|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+135|135|Perspiciatis Quos|Declan Coleman|prehistoria|<5|fotografia|<100 000|2025-12-01|2027-12-31
+136|136|Commodi Fuga|Alison Hunt|czasy współczesne|<5|grafika|>1 000 000|2025-12-01|2027-12-31
+137|137|Maiores Dicta|Teresa Bishop-Foster|nowożytność|<10|grafika|>1 000 000|2025-12-01|2027-12-31
+138|138|Nostrum Ab|Pieter Stashkov|prehistoria|>=10|fotografia|>1 000 000|2025-12-01|2027-12-31
+139|139|Quas Atque|Dr Guy Thomas|nowożytność|>=10|fotografia|>1 000 000|2025-12-01|2027-12-31
+140|140|Optio Praesentium|Pamela Williams|starożytność|<10|fotografia|>1 000 000|2025-12-01|2027-12-31
+141|141|Sed Illum|Frances Richards-Summers|nowożytność|<1|instalacja|<10 000|2025-12-01|2027-12-31
+142|142|Alias Necessitatibus|Jodie Watson|prehistoria|<1|grafika|<1 000 000|2025-12-01|2027-12-31
+143|143|Exercitationem Corporis|Pieter Stashkov|starożytność|<10|obraz|<100 000|2025-12-01|2027-12-31
+144|144|Modi Quis|Dr Linda Gibson|nowożytność|<10|fotografia|>1 000 000|2025-12-01|2027-12-31
+145|145|Inventore Inventore|Dr Samuel Lawrence|czasy współczesne|<5|fotografia|<10 000|2025-12-01|2027-12-31
+146|146|Nisi Corrupti|Mr Reece Freeman|starożytność|<10|grafika|<100 000|2025-12-01|2027-12-31
+147|147|Suscipit Commodi|Bruce Bowen|prehistoria|<10|instalacja|<100 000|2025-12-01|2027-12-31
+148|148|Soluta Ut|Gary Smith|starożytność|<5|fotografia|<1 000 000|2025-12-01|2027-12-31
+149|149|Quos Laboriosam|Michael Bailey|prehistoria|<10|obraz|<1 000 000|2025-12-01|2027-12-31
+150|150|Hic Occaecati|Mrs Chloe Robinson|średniowiecze|<5|instalacja|>1 000 000|2025-12-01|2027-12-31
+151|151|Sapiente Sequi|Dr Bruce Turner|prehistoria|<5|fotografia|<10 000|2025-12-01|2027-12-31
+152|152|Fugiat Quis|Shannon Wallace|czasy współczesne|<5|rzeźba|<1 000 000|2025-12-01|2027-12-31
+153|153|Repellendus Explicabo|Miss Julia Turner|nowożytność|<10|grafika|>1 000 000|2025-12-01|2027-12-31
+154|154|Omnis Iure|Joanne Perry|średniowiecze|<5|instalacja|<10 000|2025-12-01|2027-12-31
+155|155|Delectus Recusandae|Brenda McKenzie|prehistoria|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+156|156|Ratione Quasi|Mrs Georgia Jones|prehistoria|<10|fotografia|>1 000 000|2025-12-01|2027-12-31
+157|157|Reprehenderit Expedita|Kerry Richards|prehistoria|<10|obraz|<1 000 000|2025-12-01|2027-12-31
+158|158|Atque Repellat|Bernard Lloyd|czasy współczesne|<5|fotografia|<1 000 000|2025-12-01|2027-12-31
+159|159|Eos Placeat|Hazel Holmes|nowożytność|<1|instalacja|<10 000|2025-12-01|2027-12-31
+160|160|Quasi Adipisci|Janice Baker-Bibi|czasy współczesne|<5|instalacja|<100 000|2025-12-01|2027-12-31
+161|161|Quo Earum|Mrs Lorraine Kennedy|starożytność|>=10|fotografia|<10 000|2025-12-01|2027-12-31
+162|162|Dignissimos Repudiandae|Sam Bibi|czasy współczesne|<10|fotografia|>1 000 000|2025-12-01|2027-12-31
+163|163|Facilis Exercitationem|Mr Raymond Hall|prehistoria|<1|fotografia|<10 000|2025-12-01|2027-12-31
+164|164|Delectus Quia|Sophie Pope|starożytność|<10|obraz|<10 000|2025-12-01|2027-12-31
+165|165|Quas Ipsam|Sally Dixon|czasy współczesne|<10|grafika|<100 000|2025-12-01|2027-12-31
+166|166|Nihil Quidem|Graham Graham-Richards|nowożytność|<5|grafika|>1 000 000|2025-12-01|2027-12-31
+167|167|Ipsam Harum|Conor Mills|prehistoria|>=10|rzeźba|<100 000|2025-12-01|2027-12-31
+168|168|Nesciunt Totam|Mr Jamie Sheppard|średniowiecze|<10|instalacja|<100 000|2025-12-01|2027-12-31
+169|169|Blanditiis Consequuntur|Pieter Stashkov|starożytność|<1|rzeźba|>1 000 000|2025-12-01|2027-12-31
+170|170|Perspiciatis Commodi|Linda Parker|prehistoria|<10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+171|171|Voluptatem Neque|Lydia Oliver-Hussain|czasy współczesne|<10|rzeźba|<10 000|2025-12-01|2027-12-31
+172|172|Reiciendis Ab|Ms Kirsty Richardson|nowożytność|>=10|fotografia|>1 000 000|2025-12-01|2027-12-31
+173|173|Repellendus Doloribus|Dr Alexander Robinson|czasy współczesne|<1|fotografia|<100 000|2025-12-01|2027-12-31
+174|174|Autem Deserunt|Martyn Payne|średniowiecze|<1|instalacja|>1 000 000|2025-12-01|2027-12-31
+175|175|Tempore Voluptate|Kieran Walker|czasy współczesne|<1|grafika|<100 000|2025-12-01|2027-12-31
+176|176|Placeat Animi|Pieter Stashkov|czasy współczesne|<1|obraz|>1 000 000|2025-12-01|2027-12-31
+177|177|Quos Nemo|Janice Moore|prehistoria|<5|rzeźba|>1 000 000|2025-12-01|2027-12-31
+178|178|Nulla Laborum|Mrs Sylvia Khan|nowożytność|>=10|rzeźba|<100 000|2025-12-01|2027-12-31
+179|179|Quia Debitis|Mr Malcolm Chadwick|czasy współczesne|>=10|rzeźba|<100 000|2025-12-01|2027-12-31
+180|180|Deserunt Enim|Clive James|czasy współczesne|>=10|fotografia|<1 000 000|2025-12-01|2027-12-31
+181|181|Expedita Deserunt|Raymond Kaur|starożytność|<10|rzeźba|<10 000|2025-12-01|2027-12-31
+182|182|Corrupti In|Dr Victor James|czasy współczesne|<5|fotografia|>1 000 000|2025-12-01|2027-12-31
+183|183|Perferendis Suscipit|Denis Wheeler|starożytność|>=10|fotografia|<100 000|2025-12-01|2027-12-31
+184|184|Consequuntur Quo|Mr Clive Brown|prehistoria|>=10|instalacja|<10 000|2025-12-01|2027-10-14
+185|185|Quos Unde|Pieter Stashkov|czasy współczesne|<10|fotografia|<1 000 000|2025-12-01|2027-12-31
+186|186|Corrupti Asperiores|Pieter Stashkov|średniowiecze|>=10|instalacja|<100 000|2025-12-01|2027-12-31
+187|187|Velit Reiciendis|Dr Joanna Harrison|czasy współczesne|<10|fotografia|<10 000|2025-12-01|2027-12-31
+188|188|Qui Quod|Pieter Stashkov|średniowiecze|>=10|obraz|<10 000|2025-12-01|2027-12-31
+189|189|Omnis Error|Graeme Waters|średniowiecze|<10|instalacja|<1 000 000|2025-12-01|2027-12-31
+190|190|Quia Aspernatur|Tony Ellis|nowożytność|<10|instalacja|>1 000 000|2025-12-01|2027-12-31
+191|191|Ex Sit|Paul Allen|nowożytność|<1|fotografia|<100 000|2025-12-01|2027-12-31
+192|192|Occaecati Soluta|Dr Joan Dawson|starożytność|>=10|grafika|>1 000 000|2025-12-01|2027-12-31
+193|193|Error Odit|Pieter Stashkov|prehistoria|<10|grafika|>1 000 000|2025-12-01|2027-12-31
+194|194|Amet Nisi|Stacey Mason|starożytność|<1|obraz|<1 000 000|2025-12-01|2027-12-31
+195|195|Ex In|Julie Hunter|prehistoria|<1|obraz|<10 000|2025-12-01|2027-12-31
+196|196|Animi Enim|Shaun Bradshaw|prehistoria|<1|instalacja|<100 000|2025-12-01|2027-12-31
+197|197|Earum Numquam|Ryan Jackson|prehistoria|<5|obraz|<10 000|2025-12-01|2027-12-31
+198|198|Minima Molestiae|Pieter Stashkov|starożytność|<1|instalacja|>1 000 000|2025-12-01|2027-12-31
+199|199|Odio Fugit|Mr Lee Harrison|nowożytność|<10|instalacja|<1 000 000|2025-12-01|2027-12-31
+200|200|Numquam Omnis|Pieter Stashkov|czasy współczesne|<5|fotografia|<10 000|2025-12-01|2027-12-31
+201|201|Nobis Porro|Dr Terence Bennett|nowożytność|>=10|instalacja|<1 000 000|2025-12-01|2027-12-31
+202|202|Dolorem Exercitationem|Adrian Wilson|starożytność|<1|fotografia|<10 000|2025-12-01|2026-04-07
+203|203|Magni Debitis|Eleanor Ahmed|starożytność|<10|grafika|<100 000|2025-12-01|2027-12-31
+204|204|Maxime Distinctio|Dr Hilary Clark|nowożytność|>=10|obraz|<10 000|2025-12-01|2027-12-31
+205|205|Assumenda Officia|Irene Burgess|czasy współczesne|>=10|obraz|>1 000 000|2025-12-01|2027-12-31
+206|206|Quae Consequuntur|Jodie Miller|nowożytność|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+207|207|Sunt Voluptatibus|Hannah Spencer|czasy współczesne|<10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+208|208|Illo Sequi|Pieter Stashkov|średniowiecze|<10|obraz|>1 000 000|2025-12-01|2027-12-31
+209|209|Dolorem Eius|Pieter Stashkov|nowożytność|<5|instalacja|<10 000|2025-12-01|2027-12-31
+210|210|Adipisci Dolorum|Vanessa Walsh|prehistoria|<10|obraz|<1 000 000|2025-12-01|2027-12-31
+211|211|Cumque Error|Pieter Stashkov|czasy współczesne|>=10|rzeźba|<100 000|2025-12-01|2027-12-31
+212|212|Voluptatum Ullam|Kimberley Hunt-Scott|średniowiecze|>=10|grafika|<100 000|2025-12-01|2027-12-31
+213|213|Est Error|Leonard Stephenson-Owens|starożytność|<10|instalacja|<1 000 000|2025-12-01|2027-12-31
+214|214|Sunt Accusamus|Pieter Stashkov|średniowiecze|<10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+215|215|Placeat Eos|Jacob Rogers|prehistoria|>=10|instalacja|<1 000 000|2025-12-01|2027-12-31
+216|216|Exercitationem Est|Miss Diane Cooke|prehistoria|>=10|rzeźba|<10 000|2025-12-01|2027-12-31
+217|217|Ea Beatae|Rebecca Edwards|średniowiecze|>=10|fotografia|<10 000|2025-12-01|2027-12-31
+218|218|Itaque Non|Frank Cole|średniowiecze|<1|fotografia|<10 000|2025-12-01|2027-12-31
+219|219|Dolore Nemo|Miss Grace Williams|nowożytność|<10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+220|220|Commodi Corporis|Natasha Smith|nowożytność|<10|instalacja|<1 000 000|2025-12-01|2027-12-31
+221|221|Molestiae Neque|Jasmine Roberts|prehistoria|>=10|instalacja|>1 000 000|2025-12-01|2027-12-31
+222|222|Assumenda Ducimus|Dr Julian Morgan|starożytność|<5|instalacja|<1 000 000|2025-12-01|2027-12-31
+223|223|Dignissimos Enim|Pieter Stashkov|starożytność|<1|grafika|<1 000 000|2025-12-01|2027-12-31
+224|224|Quidem Atque|Donald Reed|prehistoria|<10|fotografia|<1 000 000|2025-12-01|2027-12-31
+225|225|Exercitationem Placeat|Molly Griffiths|starożytność|<10|grafika|>1 000 000|2025-12-01|2027-12-31
+226|226|Dolor Tempora|Dean Phillips|czasy współczesne|<5|rzeźba|>1 000 000|2025-12-01|2027-12-31
+227|227|Placeat Cumque|Dr Lynda Stevens|czasy współczesne|<1|fotografia|<100 000|2025-12-01|2027-12-31
+228|228|Odio Deleniti|Alex Griffin|średniowiecze|<10|instalacja|<10 000|2025-12-01|2027-12-31
+229|229|Non Quia|Heather Chapman|prehistoria|>=10|fotografia|<10 000|2025-12-01|2027-12-31
+230|230|Dolorum Voluptatem|Katy Baxter|prehistoria|<5|fotografia|<100 000|2025-12-01|2027-12-31
+231|231|Iste Dignissimos|Frederick Price|czasy współczesne|<10|grafika|<100 000|2025-12-01|2027-12-31
+232|232|Adipisci Impedit|Jennifer Wilson|średniowiecze|<5|obraz|<100 000|2025-12-01|2027-12-31
+233|233|Voluptas Nostrum|Damian Phillips|czasy współczesne|>=10|fotografia|<100 000|2025-12-01|2027-12-31
+234|234|Iusto Labore|Kathleen Barrett|czasy współczesne|<5|instalacja|<10 000|2025-12-01|2027-12-31
+235|235|Est Minus|Samantha Shaw|czasy współczesne|<10|grafika|<100 000|2025-12-01|2027-12-31
+236|236|Sequi Perspiciatis|Pieter Stashkov|starożytność|<5|fotografia|<100 000|2025-12-01|2027-12-31
+237|237|Ea Repellendus|Dr Marc Foster|nowożytność|<1|instalacja|>1 000 000|2025-12-01|2027-12-31
+238|238|Neque Molestiae|Miss Marilyn Morgan|średniowiecze|>=10|obraz|<10 000|2025-12-01|2027-12-31
+239|239|Officiis Hic|Katie Hardy|nowożytność|<5|instalacja|>1 000 000|2025-12-01|2027-12-31
+240|240|Rem Doloribus|Mitchell White|nowożytność|<10|grafika|<10 000|2025-12-01|2027-12-31
+241|241|Quo Officiis|Mrs Danielle Wilson|starożytność|>=10|grafika|<10 000|2025-12-01|2027-12-31
+242|242|Ad Expedita|Julian Jones|starożytność|<5|fotografia|>1 000 000|2025-12-01|2027-12-31
+243|243|Numquam Voluptatum|Julia Webb|starożytność|>=10|grafika|>1 000 000|2025-12-01|2027-12-31
+244|244|Animi Amet|Simon Brown|średniowiecze|>=10|fotografia|>1 000 000|2025-12-01|2027-12-31
+245|245|Laborum Dolorum|Sylvia Evans|nowożytność|<1|grafika|<100 000|2025-12-01|2027-12-31
+246|246|Sunt Magnam|Kirsty Parsons|prehistoria|<10|instalacja|>1 000 000|2025-12-01|2027-12-31
+247|247|Qui Architecto|Frederick Hunt-Barlow|czasy współczesne|<5|grafika|<100 000|2025-12-01|2027-12-31
+248|248|Molestiae Eveniet|Clare Lee|nowożytność|<10|rzeźba|<100 000|2025-12-01|2027-12-31
+249|249|Ipsam Blanditiis|Rosemary Ryan|czasy współczesne|<5|fotografia|<10 000|2025-12-01|2027-12-31
+250|250|Vel Laboriosam|Dr David Clarke|nowożytność|<5|grafika|<100 000|2025-12-01|2027-12-31
+251|251|Laboriosam Quis|Ashleigh Woodward|średniowiecze|>=10|instalacja|<100 000|2025-12-01|2027-12-31
+252|252|Eveniet Porro|Pieter Stashkov|nowożytność|<1|rzeźba|<1 000 000|2025-12-01|2027-12-31
+253|253|Sequi Doloribus|Pieter Stashkov|czasy współczesne|<5|instalacja|<10 000|2025-12-01|2027-12-31
+254|254|Accusamus Natus|Pieter Stashkov|średniowiecze|<5|fotografia|<1 000 000|2025-12-01|2027-12-31
+255|255|Dolores Aut|Dr Bethan Kaur|średniowiecze|<10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+256|256|Quis Perspiciatis|Mrs Kelly Kelly|prehistoria|<10|obraz|>1 000 000|2025-12-01|2027-12-31
+257|257|Recusandae Exercitationem|Lesley Khan|starożytność|>=10|obraz|<100 000|2025-12-01|2027-12-31
+258|258|Eaque Nihil|Donald Baldwin|starożytność|<10|grafika|<100 000|2025-12-01|2027-12-31
+259|259|Nisi Aliquam|Pieter Stashkov|średniowiecze|>=10|grafika|<100 000|2025-12-01|2027-12-31
+260|260|Officia Eius|Dr Gerard Cooper|starożytność|>=10|instalacja|<100 000|2025-12-01|2027-12-31
+261|261|Porro Esse|Pieter Stashkov|starożytność|<5|rzeźba|<100 000|2025-12-01|2027-12-31
+262|262|Culpa Nisi|Donald Butler|prehistoria|<5|rzeźba|<1 000 000|2025-12-01|2027-12-31
+263|263|Laborum Quo|Kathryn Read|prehistoria|<5|obraz|<100 000|2025-12-01|2027-12-31
+264|264|Atque Labore|Mandy Hodgson|starożytność|<5|instalacja|<1 000 000|2025-12-01|2027-12-31
+265|265|Iure Eaque|Pieter Stashkov|nowożytność|<5|instalacja|<10 000|2025-12-01|2027-12-31
+266|266|Id Dolore|Zoe Jackson|prehistoria|<5|grafika|<10 000|2025-12-01|2027-12-31
+267|267|Aperiam Ab|Carl Harris|nowożytność|<5|obraz|<100 000|2025-12-01|2027-12-31
+268|268|In Occaecati|Amy Atkins|prehistoria|<10|instalacja|<1 000 000|2025-12-01|2027-12-31
+269|269|Pariatur Eligendi|Pieter Stashkov|prehistoria|<5|grafika|<1 000 000|2025-12-01|2027-12-31
+270|270|Culpa Perspiciatis|Timothy Barker|nowożytność|>=10|grafika|<10 000|2025-12-01|2027-12-31
+271|271|Corporis Nulla|Dr Alan Andrews|nowożytność|<10|obraz|<1 000 000|2025-12-01|2027-12-31
+272|272|Quaerat Veritatis|Lawrence Holland|średniowiecze|<1|instalacja|<10 000|2025-12-01|2027-12-31
+273|273|Debitis Fugiat|Dr Joshua Jones|średniowiecze|>=10|rzeźba|<10 000|2025-12-01|2027-12-31
+274|274|Ad Velit|Miss Judith Watts|nowożytność|>=10|obraz|<10 000|2025-12-01|2027-12-31
+275|275|A Quibusdam|Teresa Allen|starożytność|>=10|instalacja|<100 000|2025-12-01|2027-12-31
+276|276|Saepe Distinctio|Francis Chamberlain|czasy współczesne|<1|obraz|>1 000 000|2025-12-01|2027-12-31
+277|277|Quo Consectetur|Ms Amanda Carter|prehistoria|<10|instalacja|<10 000|2025-12-01|2027-12-31
+278|278|Modi Quia|Pieter Stashkov|prehistoria|<5|obraz|<10 000|2025-12-01|2027-12-31
+279|279|Optio Dolore|Philip Marsh|czasy współczesne|<1|fotografia|<1 000 000|2025-12-01|2027-12-31
+280|280|Assumenda Deserunt|Patrick Burgess|średniowiecze|>=10|grafika|>1 000 000|2025-12-01|2027-12-31
+281|281|Amet Doloremque|Dr Nathan Brown|prehistoria|<5|grafika|>1 000 000|2025-12-01|2027-12-31
+282|282|Voluptatibus Ut|Mr Benjamin Hill|starożytność|<5|obraz|>1 000 000|2025-12-01|2027-12-31
+283|283|Est Aliquam|Gerard Webster|czasy współczesne|<10|fotografia|<100 000|2025-12-01|2027-12-31
+284|284|Dicta Officia|Mr Iain Martin|średniowiecze|<1|rzeźba|>1 000 000|2025-12-01|2027-12-31
+285|285|Magnam Rerum|Pieter Stashkov|średniowiecze|<10|fotografia|<10 000|2025-12-01|2027-12-31
+286|286|Nesciunt A|Jeffrey Allen|prehistoria|<5|rzeźba|<10 000|2025-12-01|2027-12-31
+287|287|Quas Dolore|Pieter Stashkov|starożytność|>=10|instalacja|<100 000|2025-12-01|2027-12-31
+288|288|In Sequi|Katherine Davies-Lamb|czasy współczesne|<5|grafika|>1 000 000|2025-12-01|2027-12-31
+289|289|Fugit Ea|Mr Norman Newman|nowożytność|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+290|290|Expedita Culpa|Rita Spencer|czasy współczesne|<10|instalacja|<10 000|2025-12-01|2027-12-31
+291|291|Magnam Rerum|Ms Victoria Harrison|prehistoria|>=10|instalacja|<100 000|2025-12-01|2027-12-31
+292|292|Quam Corporis|Simon Sutton|starożytność|>=10|fotografia|<100 000|2025-12-01|2027-12-31
+293|293|Laudantium Perferendis|Pieter Stashkov|średniowiecze|>=10|fotografia|>1 000 000|2025-12-01|2027-12-31
+294|294|Consequatur Accusamus|Timothy Hall|czasy współczesne|<1|instalacja|<10 000|2025-12-01|2027-12-31
+295|295|Possimus Eos|Mr Tom Field|starożytność|>=10|fotografia|<1 000 000|2025-12-01|2027-12-31
+296|296|Et Perferendis|Carl Davies|średniowiecze|>=10|obraz|<100 000|2025-12-01|2027-12-31
+297|297|Porro Quos|Conor Ellis|średniowiecze|>=10|fotografia|<10 000|2025-12-01|2027-12-31
+298|298|Ipsam Harum|Zoe Wright|średniowiecze|<5|rzeźba|<1 000 000|2025-12-01|2027-12-31
+299|299|Ducimus Est|Patrick Pritchard|nowożytność|<10|instalacja|<1 000 000|2025-12-01|2027-12-31
+300|300|Molestiae Iure|Pieter Stashkov|czasy współczesne|<5|instalacja|<1 000 000|2025-12-01|2027-12-31
+301|301|Vel Culpa|Steven Rahman|starożytność|<1|fotografia|>1 000 000|2025-12-01|2027-12-31
+302|302|Soluta Eligendi|Matthew Mills|nowożytność|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+303|303|Vitae Repudiandae|Simon Morris|nowożytność|<5|rzeźba|<10 000|2025-12-01|2027-12-31
+304|304|Quam Quas|Mr Henry Davies|prehistoria|<5|rzeźba|>1 000 000|2025-12-01|2027-12-31
+305|305|Maiores Ut|Marilyn Pratt|starożytność|<10|obraz|<1 000 000|2025-12-01|2027-12-31
+306|306|Animi Unde|Caroline Holt|średniowiecze|<1|instalacja|<1 000 000|2025-12-01|2027-12-31
+307|307|Ducimus Illo|Teresa Gilbert|prehistoria|<10|fotografia|<10 000|2025-12-01|2027-12-31
+308|308|Dolor A|Michael Clarke|czasy współczesne|<5|grafika|<10 000|2025-12-01|2027-12-31
+309|309|Magni Illo|Rosie Gibbons|czasy współczesne|<10|instalacja|<1 000 000|2025-12-01|2027-12-31
+310|310|Consequuntur Quis|Gareth Barber|czasy współczesne|<10|grafika|<100 000|2025-12-01|2027-12-31
+311|311|Voluptas Architecto|Carole Roberts|średniowiecze|<5|rzeźba|<10 000|2025-12-01|2027-12-31
+312|312|Eos Corrupti|Jonathan Grant|czasy współczesne|<10|obraz|<100 000|2025-12-01|2027-12-31
+313|313|Doloremque Necessitatibus|Sam Ross-Wilkinson|prehistoria|<5|rzeźba|>1 000 000|2025-12-01|2027-12-31
+314|314|Optio Repellat|Pieter Stashkov|średniowiecze|>=10|instalacja|<1 000 000|2025-12-01|2027-12-31
+315|315|Ad Porro|Dr Gavin French|średniowiecze|<5|obraz|<10 000|2025-12-01|2027-12-31
+316|316|Libero Quod|Mr Joe Wells|czasy współczesne|<1|instalacja|<1 000 000|2025-12-01|2027-12-31
+317|317|Dolore Illum|Kirsty Dean-Sutton|prehistoria|>=10|instalacja|<1 000 000|2025-12-01|2027-12-31
+318|318|Quis Debitis|Mr Stuart Baker|starożytność|>=10|instalacja|>1 000 000|2025-12-01|2027-12-31
+319|319|Porro Quisquam|Harry Davies-Johnson|czasy współczesne|<1|fotografia|>1 000 000|2025-12-01|2027-12-31
+320|320|Eum Harum|Ben Smith|prehistoria|<1|grafika|>1 000 000|2025-12-01|2027-12-31
+321|321|Earum Reprehenderit|Mr Ronald Lamb|nowożytność|<5|instalacja|<10 000|2025-12-01|2027-12-31
+322|322|Quis Rerum|Dean Stewart|starożytność|<1|instalacja|<100 000|2025-12-01|2027-12-31
+323|323|Illum Similique|Elliott Read|nowożytność|<5|obraz|<10 000|2025-12-01|2027-12-31
+324|324|Adipisci Placeat|Dr Guy Harris|czasy współczesne|>=10|obraz|<10 000|2025-12-01|2027-12-31
+325|325|Repellat Autem|Dawn Atkins-Powell|starożytność|<5|rzeźba|<10 000|2025-12-01|2027-12-31
+326|326|Deserunt Iusto|Dr James King|starożytność|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+327|327|Sunt Maxime|Mr Gregory Bailey|nowożytność|<5|instalacja|>1 000 000|2025-12-01|2027-12-31
+328|328|Recusandae Dolorum|Geraldine Carter-Thomas|nowożytność|<5|fotografia|<100 000|2025-12-01|2027-12-31
+329|329|Reiciendis Veritatis|Sophie Newman-Bradshaw|prehistoria|<5|obraz|<10 000|2025-12-01|2027-12-31
+330|330|Sequi Tempore|Mrs Francesca Turner|średniowiecze|<10|grafika|<10 000|2025-12-01|2027-12-31
+331|331|Vitae Sapiente|Mr Glen Fowler|starożytność|>=10|instalacja|<10 000|2025-12-01|2027-12-31
+332|332|Occaecati Aspernatur|Mr Oliver Fowler|średniowiecze|<5|rzeźba|>1 000 000|2025-12-01|2027-12-31
+333|333|Odit Quod|Ms Amanda Cooper|średniowiecze|>=10|instalacja|>1 000 000|2025-12-01|2027-12-31
+334|334|Repudiandae Tempora|Graeme Turner-Smith|średniowiecze|<10|grafika|<100 000|2025-12-01|2027-12-31
+335|335|Ea Placeat|Miss Hollie Smith|starożytność|<1|instalacja|<1 000 000|2025-12-01|2027-12-31
+336|336|Ipsam Fuga|Paul Lee|prehistoria|<5|instalacja|>1 000 000|2025-12-01|2027-12-31
+337|337|Asperiores Quas|Terry Burke-Jones|starożytność|<1|grafika|<100 000|2025-12-01|2027-12-31
+338|338|Occaecati Autem|Nathan Brown|średniowiecze|<5|rzeźba|<100 000|2025-12-01|2027-12-31
+339|339|Numquam Est|Caroline Brown|prehistoria|<5|instalacja|<1 000 000|2025-12-01|2027-12-31
+340|340|Necessitatibus Sit|Sean Rees|prehistoria|<10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+341|341|Quod Sapiente|Judith Cook|starożytność|<10|fotografia|>1 000 000|2025-12-01|2027-12-31
+342|342|Odio Consequuntur|Dr Neil Palmer|czasy współczesne|<1|fotografia|<100 000|2025-12-01|2027-12-31
+343|343|Fugiat Doloremque|Bradley Wood-Lee|prehistoria|<1|obraz|<1 000 000|2025-12-01|2027-12-31
+344|344|Iusto Culpa|Melissa Hooper|prehistoria|<10|grafika|>1 000 000|2025-12-01|2027-12-31
+345|345|Doloribus Vero|Pieter Stashkov|czasy współczesne|<5|instalacja|<10 000|2025-12-01|2027-12-31
+346|346|Dicta Tempora|Mrs Eleanor Wood|starożytność|<1|fotografia|>1 000 000|2025-12-01|2027-12-31
+347|347|Libero Maiores|Chelsea Johnson|starożytność|<5|obraz|<1 000 000|2025-12-01|2027-12-31
+348|348|Cumque Labore|Dr Graeme Knight|prehistoria|<5|rzeźba|<100 000|2025-12-01|2027-12-31
+349|349|Unde Itaque|Gary Ward|prehistoria|<10|rzeźba|<10 000|2025-12-01|2027-12-31
+350|350|Sunt Doloribus|Dr Anthony Brown|starożytność|<5|rzeźba|<1 000 000|2025-12-01|2027-12-31
+351|351|Eaque Delectus|Pieter Stashkov|prehistoria|<5|obraz|<100 000|2025-12-01|2027-12-31
+352|352|Iusto Autem|Samuel Hayes|czasy współczesne|<1|grafika|<10 000|2025-12-01|2027-12-31
+353|353|Deserunt Eligendi|Stuart Mitchell|nowożytność|<5|instalacja|<100 000|2025-12-01|2027-12-31
+354|354|Quisquam Eligendi|Mr Mathew Hussain|czasy współczesne|<10|fotografia|<100 000|2025-12-01|2027-12-31
+355|355|Consequuntur Alias|Pieter Stashkov|czasy współczesne|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+356|356|Illo Impedit|Brett O'Neill|prehistoria|<1|obraz|>1 000 000|2025-12-01|2027-12-31
+357|357|Cupiditate Ratione|Pieter Stashkov|prehistoria|<10|obraz|>1 000 000|2025-12-01|2027-12-31
+358|358|Repellendus Delectus|Mrs Natasha Cooper|nowożytność|<1|rzeźba|>1 000 000|2025-12-01|2027-12-31
+359|359|Nam Quisquam|Bethany Finch|starożytność|<5|obraz|>1 000 000|2025-12-01|2027-12-31
+360|360|Odit Esse|Eleanor Mitchell-Stone|starożytność|<5|fotografia|<10 000|2025-12-01|2027-12-31
+361|361|Assumenda Quas|Miss Chloe Wilkinson|nowożytność|<1|rzeźba|>1 000 000|2025-12-01|2027-12-31
+362|362|Blanditiis Suscipit|Bradley Joyce-Fry|średniowiecze|<5|instalacja|<1 000 000|2025-12-01|2027-12-31
+363|363|Tempora Dolorem|Maurice Dixon-Cunningham|czasy współczesne|<10|instalacja|<10 000|2025-12-01|2027-12-31
+364|364|Sapiente Accusantium|Lee Kelly|czasy współczesne|<5|rzeźba|<1 000 000|2025-12-01|2027-12-31
+365|365|Adipisci Alias|Stewart Woods|starożytność|<1|grafika|<1 000 000|2025-12-01|2027-12-31
+366|366|Iure Placeat|Katherine Heath|starożytność|<1|rzeźba|>1 000 000|2025-12-01|2027-12-31
+367|367|Aperiam Temporibus|Leanne Banks|średniowiecze|<10|obraz|>1 000 000|2025-12-01|2027-12-31
+368|368|Eligendi Reprehenderit|Mr Dominic Rhodes|starożytność|<10|instalacja|>1 000 000|2025-12-01|2027-12-31
+369|369|Culpa Nulla|Susan James|czasy współczesne|>=10|instalacja|<100 000|2025-12-01|2027-12-31
+370|370|Aspernatur Sequi|Dr Lawrence Smith|starożytność|<5|rzeźba|<100 000|2025-12-01|2027-12-31
+371|371|Itaque Temporibus|Gail Perkins-Davies|czasy współczesne|>=10|fotografia|>1 000 000|2025-12-01|2027-12-31
+372|372|Vero Excepturi|Amber Hilton|prehistoria|>=10|fotografia|<10 000|2025-12-01|2027-12-31
+373|373|Repellat Quam|Stanley Walker|średniowiecze|>=10|rzeźba|<10 000|2025-12-01|2027-12-31
+374|374|Unde Voluptas|Mrs Danielle Martin|czasy współczesne|>=10|grafika|<100 000|2025-12-01|2027-12-31
+375|375|Eius Nisi|Sara Jones|starożytność|<10|grafika|<100 000|2025-12-01|2027-12-31
+376|376|Quia Nobis|Zoe Martin-Lamb|nowożytność|<5|fotografia|<10 000|2025-12-01|2027-12-31
+377|377|Quaerat In|Ms Pauline Kirby|prehistoria|>=10|rzeźba|<10 000|2025-12-01|2027-12-31
+378|378|Repudiandae Maxime|Pieter Stashkov|czasy współczesne|<1|grafika|<100 000|2025-12-01|2027-12-31
+379|379|Quia Aliquam|Stuart Harris|nowożytność|<10|instalacja|<1 000 000|2025-12-01|2027-12-31
+380|380|Iure Laborum|Josh Fisher|czasy współczesne|<10|obraz|>1 000 000|2025-12-01|2027-12-31
+381|381|Fugit Beatae|Ashleigh Roberts|średniowiecze|<5|rzeźba|<100 000|2025-12-01|2027-12-31
+382|382|Aperiam Fugit|Alex Watson|prehistoria|<5|grafika|<1 000 000|2025-12-01|2027-12-31
+383|383|Quas Harum|Dr Kyle Matthews|średniowiecze|<5|instalacja|>1 000 000|2025-12-01|2027-12-31
+384|384|Illo Cum|Stewart Taylor|prehistoria|<5|rzeźba|<100 000|2025-12-01|2027-12-31
+385|385|Aspernatur Perspiciatis|Leslie Hawkins|nowożytność|<1|instalacja|>1 000 000|2025-12-01|2027-12-31
+386|386|Quasi Mollitia|Dr Adrian Harrison|średniowiecze|<5|obraz|>1 000 000|2025-12-01|2027-12-31
+387|387|Maxime Praesentium|Amber Allen|czasy współczesne|<1|fotografia|<100 000|2025-12-01|2027-12-31
+388|388|Inventore Delectus|Marilyn Thompson|starożytność|<10|obraz|<1 000 000|2025-12-01|2027-12-31
+389|389|Ratione Deleniti|Marion Clark|czasy współczesne|<1|instalacja|<1 000 000|2025-12-01|2027-12-31
+390|390|Dolor Incidunt|Roger Murphy-Rice|nowożytność|<5|rzeźba|<10 000|2025-12-01|2027-12-31
+391|391|Reiciendis Iste|Pieter Stashkov|nowożytność|>=10|grafika|<1 000 000|2025-12-01|2027-12-31
+392|392|Odit Corrupti|Sian Johnson|średniowiecze|>=10|instalacja|<10 000|2025-12-01|2027-12-31
+393|393|Hic Quidem|Jasmine Miles|prehistoria|<5|fotografia|<1 000 000|2025-12-01|2027-12-31
+394|394|Impedit Consequatur|Duncan Stephenson-Sanders|czasy współczesne|<1|instalacja|<100 000|2025-12-01|2027-12-31
+395|395|Voluptatibus Vitae|Ruth Patel|czasy współczesne|<5|obraz|<10 000|2025-12-01|2027-12-31
+396|396|Ipsam Iste|Toby Robinson|nowożytność|<1|instalacja|>1 000 000|2025-12-01|2027-12-31
+397|397|Veritatis Nam|Mr Nigel Jones|czasy współczesne|<10|obraz|<10 000|2025-12-01|2027-12-31
+398|398|Fugiat Nam|Ms Ellie Thomas|nowożytność|>=10|fotografia|<10 000|2025-12-01|2027-12-31
+399|399|Ipsum Ut|Ashleigh Briggs-Carr|czasy współczesne|<5|fotografia|<100 000|2025-12-01|2027-12-31
+400|400|A Dolores|Mrs Sally May|prehistoria|>=10|rzeźba|<10 000|2025-12-01|2027-12-31
+401|401|Mollitia Fugiat|Ms Pauline Baker|nowożytność|>=10|grafika|<100 000|2025-12-01|2027-12-31
+402|402|Sint Voluptatem|Nicole Martin-Page|czasy współczesne|<5|rzeźba|<100 000|2025-12-01|2027-12-31
+403|403|Praesentium Officiis|Mr Cameron Fuller|średniowiecze|<5|rzeźba|<100 000|2025-12-01|2027-12-31
+404|404|Aperiam Rem|Hollie Lloyd|nowożytność|<5|obraz|>1 000 000|2025-12-01|2027-12-31
+405|405|Pariatur Reprehenderit|Hilary Thorpe-Bishop|prehistoria|>=10|instalacja|<10 000|2025-12-01|2027-12-31
+406|406|Dolores Impedit|Ms Jenna Williams|średniowiecze|<5|instalacja|<100 000|2025-12-01|2027-12-31
+407|407|Optio Nulla|Bradley Alexander|prehistoria|<10|grafika|<100 000|2025-12-01|2027-12-31
+408|408|Nesciunt Ipsam|Jean O'Neill|czasy współczesne|>=10|grafika|<100 000|2025-12-01|2027-12-31
+409|409|Nisi Culpa|Beth Goodwin|prehistoria|<5|instalacja|>1 000 000|2025-12-01|2027-12-31
+410|410|Nostrum Quaerat|Pieter Stashkov|nowożytność|<1|obraz|>1 000 000|2025-12-01|2027-12-31
+411|411|Voluptates Ab|Glen Quinn|prehistoria|<1|grafika|<10 000|2025-12-01|2027-12-31
+412|412|Perspiciatis Aspernatur|Edward Rhodes|średniowiecze|<1|rzeźba|<100 000|2025-12-01|2027-12-31
+413|413|Facilis Consectetur|Mr Ashley Allen|nowożytność|<1|grafika|>1 000 000|2025-12-01|2027-12-31
+414|414|Praesentium Repellat|Shirley Knight|średniowiecze|<10|instalacja|<1 000 000|2025-12-01|2027-12-31
+415|415|Quo Nisi|Pieter Stashkov|nowożytność|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+416|416|Alias Debitis|Megan Clarke|średniowiecze|<1|grafika|>1 000 000|2025-12-01|2027-12-31
+417|417|Facere Non|Samuel Patel|nowożytność|<5|obraz|<1 000 000|2025-12-01|2027-12-31
+418|418|Consequatur Illo|Sean Richards|nowożytność|<5|fotografia|<100 000|2025-12-01|2027-12-31
+419|419|Doloribus Aut|Ms Kimberley Ali|prehistoria|>=10|obraz|>1 000 000|2025-12-01|2027-12-31
+420|420|Dolorum Officiis|Mr Bruce Pearce|prehistoria|<1|obraz|<100 000|2025-12-01|2027-12-31
+421|421|Maxime Iste|Darren Fisher|czasy współczesne|>=10|obraz|<10 000|2025-12-01|2027-12-31
+422|422|At Adipisci|Simon Hope|starożytność|<5|instalacja|<100 000|2025-12-01|2027-12-31
+423|423|Amet Nam|Dr Terence Ward|nowożytność|<5|instalacja|<10 000|2025-12-01|2027-12-31
+424|424|Quas Aspernatur|Mr Rhys Kelly|średniowiecze|<5|fotografia|<10 000|2025-12-01|2027-12-31
+425|425|Eius Et|Mark Freeman|starożytność|<1|instalacja|<10 000|2025-12-01|2027-12-31
+426|426|Magnam Maxime|Ruth Gray|średniowiecze|>=10|fotografia|<100 000|2025-12-01|2027-12-31
+427|427|Necessitatibus Quo|Andrea Hunter|nowożytność|>=10|grafika|<1 000 000|2025-12-01|2027-12-31
+428|428|Dolorum Sapiente|Mohammed Edwards|starożytność|<1|rzeźba|<1 000 000|2025-12-01|2027-12-31
+429|429|Voluptatibus Praesentium|Mrs Zoe Cartwright|prehistoria|<10|instalacja|>1 000 000|2025-12-01|2027-12-31
+430|430|Vel Quaerat|Ms Beth Smith|czasy współczesne|<1|rzeźba|<10 000|2025-12-01|2027-12-31
+431|431|Facere Quas|Pieter Stashkov|prehistoria|<10|obraz|<1 000 000|2025-12-01|2027-12-31
+432|432|Rem Iure|Miss Anne Weston|nowożytność|<10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+433|433|Sed Dolorem|Nicholas Hutchinson|średniowiecze|>=10|instalacja|<10 000|2025-12-01|2027-12-31
+434|434|Autem Quas|Craig Harris|nowożytność|<5|fotografia|>1 000 000|2025-12-01|2027-12-31
+435|435|Veniam Quos|Dr Patrick Kirby|nowożytność|>=10|instalacja|<10 000|2025-12-01|2027-12-31
+436|436|Voluptas Officia|Brenda Walker|starożytność|>=10|obraz|>1 000 000|2025-12-01|2027-12-31
+437|437|Ullam Magnam|Simon Webb|nowożytność|>=10|instalacja|<1 000 000|2025-12-01|2027-12-31
+438|438|Ipsam Nesciunt|Pieter Stashkov|starożytność|>=10|fotografia|<100 000|2025-12-01|2027-12-31
+439|439|Eum Minus|Gemma Harris|średniowiecze|<5|rzeźba|<100 000|2025-12-01|2027-12-31
+440|440|Maiores Voluptate|Gerald Griffiths|średniowiecze|<10|fotografia|>1 000 000|2025-12-01|2027-12-31
+441|441|Qui Consectetur|Ms Jessica Cooper|średniowiecze|<1|obraz|>1 000 000|2025-12-01|2027-12-31
+442|442|A Quas|Sara Bennett|średniowiecze|>=10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+443|443|Temporibus Quaerat|Dr Leanne Morton|prehistoria|<10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+444|444|Odio Atque|Dorothy Davey|czasy współczesne|<1|instalacja|<10 000|2025-12-01|2027-12-31
+445|445|Odit Earum|Jenna Davies|nowożytność|<1|rzeźba|>1 000 000|2025-12-01|2027-12-31
+446|446|Corporis Quam|Mr Harry Davis|starożytność|<1|grafika|>1 000 000|2025-12-01|2027-12-31
+447|447|Repellat Reiciendis|Pieter Stashkov|prehistoria|<1|grafika|<10 000|2025-12-01|2027-12-31
+448|448|Voluptate Maxime|Owen Barber|nowożytność|<10|obraz|>1 000 000|2025-12-01|2027-12-31
+449|449|Tempora Deserunt|Amanda Fowler-Campbell|czasy współczesne|<1|instalacja|>1 000 000|2025-12-01|2027-12-31
+450|450|Quae Excepturi|Pieter Stashkov|średniowiecze|<5|instalacja|<1 000 000|2025-12-01|2027-12-31
+451|451|Quos Corrupti|Cameron Johnson|starożytność|<5|fotografia|<1 000 000|2025-12-01|2027-12-31
+452|452|Quidem Sapiente|Sophie Barton|starożytność|<5|obraz|<1 000 000|2025-12-01|2027-12-31
+453|453|Quibusdam Dolorum|Caroline Oliver|prehistoria|<5|instalacja|<1 000 000|2025-12-01|2027-12-31
+454|454|Praesentium Labore|Jade Parker|starożytność|<10|fotografia|<100 000|2025-12-01|2027-12-31
+455|455|Dolore Unde|Pieter Stashkov|starożytność|>=10|instalacja|>1 000 000|2025-12-01|2027-12-31
+456|456|Accusamus Provident|Denise Daly-Fletcher|prehistoria|<5|fotografia|<1 000 000|2025-12-01|2027-12-31
+457|457|Asperiores Ratione|Jeffrey Barnett|średniowiecze|<5|rzeźba|<10 000|2025-12-01|2027-12-31
+458|458|Nobis Dolore|Conor King|średniowiecze|>=10|grafika|<10 000|2025-12-01|2027-12-31
+459|459|Unde Quos|Justin Hill|nowożytność|<5|rzeźba|<1 000 000|2025-12-01|2027-12-31
+460|460|Dolor Minus|Guy Hamilton|prehistoria|<1|fotografia|<1 000 000|2025-12-01|2027-12-31
+461|461|Voluptatum Asperiores|Marie Norton|prehistoria|<1|grafika|<100 000|2025-12-01|2027-12-31
+462|462|Quod Molestiae|Henry Pratt-Chadwick|nowożytność|>=10|instalacja|>1 000 000|2025-12-01|2027-12-31
+463|463|Iusto Nobis|Pieter Stashkov|średniowiecze|<1|fotografia|<10 000|2025-12-01|2027-12-31
+464|464|Ea Deserunt|Justin Jackson|czasy współczesne|<10|fotografia|<100 000|2025-12-01|2027-12-31
+465|465|Eos Explicabo|Carolyn Stevens|średniowiecze|<1|rzeźba|<1 000 000|2025-12-01|2027-12-31
+466|466|Quisquam Incidunt|Jeremy Lane|nowożytność|<5|fotografia|>1 000 000|2025-12-01|2027-12-31
+467|467|Iste Eveniet|Clifford Wilkinson|starożytność|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+468|468|Ipsum Suscipit|Amber Tomlinson|starożytność|<10|instalacja|<1 000 000|2025-12-01|2027-12-31
+469|469|Explicabo Excepturi|Frances Thomson|prehistoria|>=10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+470|470|Quod Enim|Pieter Stashkov|prehistoria|<5|grafika|<100 000|2025-12-01|2027-12-31
+471|471|Tempore Voluptatum|Lynn McLean-Bishop|czasy współczesne|>=10|fotografia|<10 000|2025-12-01|2027-12-31
+472|472|Sit Delectus|Damian Hardy|nowożytność|<5|rzeźba|<100 000|2025-12-01|2027-12-31
+473|473|Ad Eum|Mrs Laura Farrell|prehistoria|>=10|fotografia|>1 000 000|2025-12-01|2027-12-31
+474|474|Odio Optio|Pieter Stashkov|średniowiecze|<1|obraz|<10 000|2025-12-01|2027-12-31
+475|475|Pariatur Unde|Zoe Ward|średniowiecze|<5|grafika|<100 000|2025-12-01|2027-12-31
+476|476|Quos Laborum|Kerry White|czasy współczesne|<5|fotografia|>1 000 000|2025-12-01|2027-12-31
+477|477|Deserunt Voluptas|Stuart Davies|nowożytność|>=10|rzeźba|<100 000|2025-12-01|2027-12-31
+478|478|Ducimus Exercitationem|Ashleigh Long-Poole|starożytność|<1|obraz|<100 000|2025-12-01|2027-12-31
+479|479|Officia Doloremque|Victoria Sullivan-Patterson|starożytność|<1|rzeźba|>1 000 000|2025-12-01|2027-12-31
+480|480|Reprehenderit Facere|Mohammad Brown|czasy współczesne|>=10|obraz|<100 000|2025-12-01|2027-12-31
+481|481|Consequatur Illum|Russell Curtis|prehistoria|<5|obraz|<10 000|2025-12-01|2027-12-31
+482|482|Totam Consequuntur|Bethany Robinson|prehistoria|>=10|instalacja|<1 000 000|2025-12-01|2027-12-31
+483|483|Quaerat Non|Phillip Carey-James|starożytność|<10|grafika|<10 000|2025-12-01|2027-12-31
+484|484|Id Rem|Jenna Smith|czasy współczesne|>=10|obraz|>1 000 000|2025-12-01|2027-12-31
+485|485|Magni Tempore|Keith Ward-Ross|starożytność|<5|obraz|>1 000 000|2025-12-01|2027-12-31
+486|486|Quae Ratione|Mrs Lindsey Moran|nowożytność|<10|rzeźba|<100 000|2025-12-01|2027-12-31
+487|487|Vero Voluptatum|Shannon Hughes|czasy współczesne|>=10|obraz|<1 000 000|2025-12-01|2027-12-31
+488|488|Laborum Animi|Lucy Atkins|nowożytność|>=10|fotografia|<10 000|2025-12-01|2027-12-31
+489|489|Asperiores Voluptatum|Miss Diane Hopkins|średniowiecze|<5|fotografia|<1 000 000|2025-12-01|2027-12-31
+490|490|Earum Assumenda|Ms Gillian Griffin|średniowiecze|>=10|instalacja|<1 000 000|2025-12-01|2027-12-31
+491|491|Asperiores Illo|Pieter Stashkov|nowożytność|>=10|grafika|<10 000|2025-12-01|2027-12-31
+492|492|Et Molestiae|Joe Field-Nash|nowożytność|>=10|fotografia|<100 000|2025-12-01|2027-12-31
+493|493|Beatae Commodi|Alexander Taylor|prehistoria|<10|obraz|<1 000 000|2025-12-01|2027-12-31
+494|494|Modi Officiis|Gerard Carter-Bennett|starożytność|>=10|instalacja|>1 000 000|2025-12-01|2027-12-31
+495|495|Dicta Maiores|Mr Adrian Allan|prehistoria|<1|grafika|<10 000|2025-12-01|2027-12-31
+496|496|Ratione Neque|Mrs Claire Cook|nowożytność|<10|grafika|<100 000|2025-12-01|2027-12-31
+497|497|Perferendis Tempore|Hugh Clark|średniowiecze|<10|fotografia|>1 000 000|2025-12-01|2027-12-31
+498|498|Molestias Delectus|Pieter Stashkov|nowożytność|>=10|obraz|<1 000 000|2025-12-01|2027-12-31
+499|499|Minus Nesciunt|Pieter Stashkov|czasy współczesne|>=10|fotografia|<10 000|2025-12-01|2027-12-31
+500|500|Soluta Minus|Pieter Stashkov|starożytność|<5|fotografia|<100 000|2025-12-01|2027-12-31
+501|501|Accusantium Autem|Mr Sean Brown|prehistoria|>=10|obraz|<10 000|2025-12-01|2027-12-31
+502|502|Tempora Laboriosam|Anne O'Neill|średniowiecze|<5|grafika|<100 000|2025-12-01|2027-12-31
+503|503|Libero Tenetur|Dr Trevor Evans|czasy współczesne|<10|obraz|<100 000|2025-12-01|2027-12-31
+504|504|Alias Vero|Dr Jake Miles|średniowiecze|>=10|instalacja|<100 000|2025-12-01|2027-12-31
+505|505|Deserunt Ipsam|Susan Wood|starożytność|<1|grafika|<100 000|2025-12-01|2027-12-31
+506|506|Consectetur Accusamus|Janice Barker|nowożytność|<10|instalacja|<100 000|2025-12-01|2027-12-31
+507|507|Ipsa Sed|Claire Hill-Lawrence|średniowiecze|<10|grafika|<10 000|2025-12-01|2027-12-31
+508|508|Quam At|Amelia Baker|czasy współczesne|<10|instalacja|<10 000|2025-12-01|2027-12-31
+509|509|Aspernatur Fugit|Malcolm Thomson-Davis|nowożytność|<5|obraz|<10 000|2025-12-01|2027-12-31
+510|510|Ea Illo|Gemma Brooks-Baker|średniowiecze|>=10|instalacja|<1 000 000|2025-12-01|2027-12-31
+511|511|Accusantium Praesentium|Deborah Alexander|czasy współczesne|<5|instalacja|<100 000|2025-12-01|2027-12-31
+512|512|Voluptatem Soluta|Adrian Gill|czasy współczesne|>=10|obraz|<10 000|2025-12-01|2027-12-31
+513|513|Voluptas Error|Ashleigh Smith|prehistoria|<1|fotografia|<1 000 000|2025-12-01|2027-12-31
+514|514|Eius Magnam|Gordon Dale|średniowiecze|<5|obraz|<100 000|2025-12-01|2027-12-31
+515|515|Rerum Minus|Terence Davies|średniowiecze|<10|instalacja|<10 000|2025-12-01|2027-12-31
+516|516|Quam Dolorum|Ms Julie Webb|nowożytność|>=10|instalacja|<1 000 000|2025-12-01|2027-12-31
+517|517|Nisi Dolorum|Pieter Stashkov|nowożytność|<10|instalacja|<100 000|2025-12-01|2027-12-31
+518|518|Natus Molestias|Diana Roberts|nowożytność|<10|obraz|<1 000 000|2025-12-01|2027-12-31
+519|519|Debitis Doloribus|Arthur Clark|starożytność|<10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+520|520|Inventore Unde|Trevor Glover|nowożytność|>=10|obraz|>1 000 000|2025-12-01|2027-12-31
+521|521|Numquam Officia|Ms Ashleigh West|czasy współczesne|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+522|522|Architecto Eos|Ms Lesley Bentley|średniowiecze|<10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+523|523|Vitae Voluptatibus|Elizabeth Gardner-Osborne|prehistoria|<10|rzeźba|<10 000|2025-12-01|2027-12-31
+524|524|Hic Fugiat|Pieter Stashkov|średniowiecze|<5|rzeźba|<10 000|2025-12-01|2027-12-31
+525|525|Quasi Ex|Miss Eileen Lord|nowożytność|>=10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+526|526|Commodi Laboriosam|Anne Evans-Griffiths|starożytność|<5|grafika|>1 000 000|2025-12-01|2027-12-31
+527|527|Doloremque Aut|Miss Valerie Brown|nowożytność|>=10|fotografia|>1 000 000|2025-12-01|2027-12-31
+528|528|Repellat Laudantium|Dr Ross Lamb|średniowiecze|<1|fotografia|<1 000 000|2025-12-01|2027-12-31
+529|529|Assumenda Blanditiis|Pieter Stashkov|prehistoria|<10|instalacja|<100 000|2025-12-01|2027-12-31
+530|530|Provident Provident|Pieter Stashkov|prehistoria|<1|instalacja|<1 000 000|2025-12-01|2027-12-31
+531|531|Aspernatur Laborum|Dr Kathryn Jackson|średniowiecze|>=10|obraz|<10 000|2025-12-01|2027-12-31
+532|532|Eveniet Natus|Miss Patricia Kelly|starożytność|<1|obraz|<1 000 000|2025-12-01|2027-12-31
+533|533|Error Sequi|Victor Benson|starożytność|<5|obraz|<10 000|2025-12-01|2027-12-31
+534|534|Fugiat Modi|Lindsey Kelly|czasy współczesne|<5|fotografia|<1 000 000|2025-12-01|2027-12-31
+535|535|Optio Quo|Dr Norman Dale|prehistoria|<5|obraz|<100 000|2025-12-01|2027-12-31
+536|536|Odio Dolores|Donna Ward|nowożytność|<5|obraz|<100 000|2025-12-01|2027-12-31
+537|537|Perspiciatis Debitis|Mr Leigh Rhodes|prehistoria|>=10|fotografia|<100 000|2025-12-01|2027-12-31
+538|538|Perferendis Architecto|Mrs Diana Randall|czasy współczesne|<1|rzeźba|<10 000|2025-12-01|2027-12-31
+539|539|Aliquam Veniam|Jeffrey Briggs-Wells|nowożytność|<1|fotografia|<100 000|2025-12-01|2027-12-31
+540|540|Illo Praesentium|Patricia Williams-Thomas|nowożytność|<10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+541|541|Sit Debitis|Lee Woods|prehistoria|>=10|instalacja|>1 000 000|2025-12-01|2027-12-31
+542|542|Reprehenderit Sunt|Mr Gareth Smith|prehistoria|<1|rzeźba|<10 000|2025-12-01|2027-12-31
+543|543|Non Ipsa|Pieter Stashkov|prehistoria|<1|grafika|>1 000 000|2025-12-01|2027-12-31
+544|544|Optio Atque|Jamie Gordon|starożytność|<1|instalacja|>1 000 000|2025-12-01|2027-12-31
+545|545|Animi Sint|Naomi Andrews-Ward|średniowiecze|<5|rzeźba|<10 000|2025-12-01|2027-12-31
+546|546|Nulla Expedita|Pieter Stashkov|prehistoria|<10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+547|547|Sit Ducimus|Pieter Stashkov|średniowiecze|>=10|fotografia|<10 000|2025-12-01|2027-12-31
+548|548|Consectetur Commodi|Ms Anna Bray|starożytność|<10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+549|549|Inventore Dicta|Pieter Stashkov|starożytność|<1|grafika|<10 000|2025-12-01|2027-12-31
+550|550|Earum Architecto|Mr Brian Elliott|nowożytność|<5|fotografia|>1 000 000|2025-12-01|2027-12-31
+551|551|Perspiciatis Dignissimos|Wendy Burton|starożytność|<5|instalacja|<10 000|2025-12-01|2027-12-31
+552|552|A Dolor|Colin Taylor|nowożytność|>=10|grafika|>1 000 000|2025-12-01|2027-12-31
+553|553|Saepe Quis|Miss Heather Williams|starożytność|<10|fotografia|<10 000|2025-12-01|2027-12-31
+554|554|Ea Minima|Jack Connor|starożytność|<5|fotografia|<10 000|2025-12-01|2027-12-31
+555|555|Assumenda Cupiditate|Joel Murray-Moore|starożytność|<5|fotografia|<1 000 000|2025-12-01|2027-12-31
+556|556|Omnis Ab|Arthur Robinson|starożytność|<10|obraz|<10 000|2025-12-01|2027-12-31
+557|557|Sapiente Sit|Amelia Stephens|prehistoria|<10|fotografia|>1 000 000|2025-12-01|2027-12-31
+558|558|Quas Sint|Leslie Field-Law|starożytność|<10|grafika|<100 000|2025-12-01|2027-12-31
+559|559|Delectus Vitae|Jeffrey Lowe|starożytność|>=10|obraz|<100 000|2025-12-01|2027-12-31
+560|560|Possimus Libero|Mrs Nicole Cole|starożytność|<1|grafika|>1 000 000|2025-12-01|2027-12-30
+561|561|Repellat Autem|Joanne Brady|starożytność|<1|fotografia|>1 000 000|2025-12-01|2027-12-31
+562|562|Omnis Perferendis|Pieter Stashkov|starożytność|>=10|fotografia|>1 000 000|2025-12-01|2027-12-31
+563|563|Doloribus Eveniet|Miss Anna Hall|prehistoria|<1|fotografia|<1 000 000|2025-12-01|2027-12-31
+564|564|Rem Perferendis|Pieter Stashkov|średniowiecze|>=10|grafika|<100 000|2025-12-01|2027-12-31
+565|565|Dicta Officiis|Mitchell Daniels-Kelly|starożytność|<5|instalacja|>1 000 000|2025-12-01|2027-12-31
+566|566|Quaerat Vitae|Harriet Goddard|nowożytność|>=10|fotografia|<1 000 000|2025-12-01|2027-12-31
+567|567|Illo Ad|Sian Lambert|starożytność|>=10|grafika|<10 000|2025-12-01|2027-12-31
+568|568|Tempora Explicabo|Leonard Palmer|nowożytność|<5|grafika|>1 000 000|2025-12-01|2027-12-31
+569|569|Asperiores Voluptatem|Christine Mills-Hall|prehistoria|<1|rzeźba|<100 000|2025-12-01|2027-12-31
+570|570|Velit Laborum|Michelle Allen|czasy współczesne|>=10|fotografia|<1 000 000|2025-12-01|2027-12-31
+571|571|Asperiores Nostrum|Julia Ellis|czasy współczesne|<1|rzeźba|<100 000|2025-12-01|2027-12-31
+572|572|Consectetur Suscipit|Ian Willis|średniowiecze|<10|rzeźba|<10 000|2025-12-01|2027-12-31
+573|573|Voluptatem Facere|Justin Smith|starożytność|<10|obraz|<100 000|2025-12-01|2027-12-31
+574|574|Tempore Consequuntur|Irene Gibson|średniowiecze|<5|fotografia|<10 000|2025-12-01|2027-12-31
+575|575|Necessitatibus Odio|Dr Martin Potter|nowożytność|<1|instalacja|<10 000|2025-12-01|2027-12-31
+576|576|Non Totam|Jill Hope|prehistoria|>=10|rzeźba|<10 000|2025-12-01|2027-12-31
+577|577|Incidunt Perferendis|Pieter Stashkov|prehistoria|<10|instalacja|<1 000 000|2025-12-01|2027-12-31
+578|578|Officia Expedita|Leon James|nowożytność|>=10|fotografia|<100 000|2025-12-01|2027-12-31
+579|579|Quas Rerum|Melanie Dawson|prehistoria|<10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+580|580|Facere Quis|Jamie Gough|prehistoria|>=10|rzeźba|<100 000|2025-12-01|2027-12-31
+581|581|Vero Architecto|Miss Ruth Bell|średniowiecze|<1|obraz|<1 000 000|2025-12-01|2027-12-31
+582|582|Modi Quaerat|Antony Murphy-Bruce|nowożytność|>=10|instalacja|<10 000|2025-12-01|2027-12-31
+583|583|Explicabo Deleniti|Mark Webb-Day|czasy współczesne|>=10|instalacja|<100 000|2025-12-01|2027-12-31
+584|584|Necessitatibus Facilis|Olivia Barlow|nowożytność|>=10|fotografia|<1 000 000|2025-12-01|2027-12-31
+585|585|Enim Voluptatibus|Geoffrey Roberts|prehistoria|<5|instalacja|>1 000 000|2025-12-01|2027-12-31
+586|586|Debitis Ullam|Dorothy Newman|czasy współczesne|<10|obraz|<100 000|2025-12-01|2027-12-31
+587|587|Quae Dolore|Thomas Smith|prehistoria|<10|fotografia|<1 000 000|2025-12-01|2027-12-31
+588|588|Repellendus Veritatis|Kirsty Morris|średniowiecze|<1|instalacja|>1 000 000|2025-12-01|2027-12-31
+589|589|Possimus Vero|Roy Todd|starożytność|<1|grafika|>1 000 000|2025-12-01|2027-12-31
+590|590|A Quo|Teresa Iqbal-Walker|średniowiecze|<1|fotografia|>1 000 000|2025-12-01|2027-12-31
+591|591|Voluptatum Nostrum|Russell Cooper|prehistoria|<5|grafika|<10 000|2025-12-01|2027-12-31
+592|592|Eius Nesciunt|Mrs Tracey Roberts|średniowiecze|>=10|instalacja|<10 000|2025-12-01|2027-12-31
+593|593|Quasi Saepe|Pieter Stashkov|prehistoria|<10|grafika|>1 000 000|2025-12-01|2027-12-31
+594|594|Laudantium Minus|Lindsey Jones|prehistoria|>=10|instalacja|<100 000|2025-12-01|2027-12-31
+595|595|Quis Velit|Pieter Stashkov|czasy współczesne|>=10|rzeźba|<10 000|2025-12-01|2027-12-31
+596|596|Dolore Asperiores|Jordan Smith|prehistoria|<5|grafika|<100 000|2025-12-01|2027-12-31
+597|597|Officiis Fuga|Mrs Mary Smith|prehistoria|>=10|obraz|<1 000 000|2025-12-01|2027-12-31
+598|598|Totam Ipsum|Pieter Stashkov|prehistoria|<10|obraz|<1 000 000|2025-12-01|2027-12-31
+599|599|Vero Qui|Charlotte Ellis|czasy współczesne|<10|fotografia|<10 000|2025-12-01|2027-12-31
+600|600|Soluta Blanditiis|Mohammed Jones-O'Brien|nowożytność|<5|instalacja|<10 000|2025-12-01|2027-12-31
+601|601|Ex Voluptatibus|Barry Rahman-Bibi|średniowiecze|<10|grafika|<10 000|2025-12-01|2027-12-31
+602|602|Doloribus Eius|Kelly Harding-Ball|starożytność|<1|instalacja|<10 000|2025-12-01|2027-12-31
+603|603|Laudantium Facilis|Kieran Roberts|średniowiecze|>=10|grafika|<10 000|2025-12-01|2027-12-31
+604|604|Numquam Quibusdam|Bradley Hicks|starożytność|<1|grafika|<100 000|2025-12-01|2027-12-31
+605|605|Nihil Velit|Mohammad Chapman|prehistoria|>=10|obraz|<1 000 000|2025-12-01|2027-12-31
+606|606|Vitae Soluta|Cameron Matthews|czasy współczesne|<10|instalacja|<1 000 000|2025-12-01|2027-12-31
+607|607|Dolor At|Dr Mitchell Walsh|nowożytność|<5|obraz|<1 000 000|2025-12-01|2027-12-31
+608|608|Aliquam Dolores|Angela Godfrey|średniowiecze|<10|rzeźba|<10 000|2025-12-01|2027-12-31
+609|609|Repellendus Eum|Mr Gerard Goddard|starożytność|<1|instalacja|<100 000|2025-12-01|2027-12-31
+610|610|Quaerat Officia|Gary Ward|starożytność|<1|instalacja|<100 000|2025-12-01|2027-12-31
+611|611|Labore Temporibus|Ms Sophie Johnson|czasy współczesne|<10|fotografia|<100 000|2025-12-01|2027-12-31
+612|612|Vero Alias|Mrs Amelia Simmons|średniowiecze|<5|obraz|>1 000 000|2025-12-01|2027-12-31
+613|613|Ab Enim|Wendy Reeves-Potter|prehistoria|<5|rzeźba|>1 000 000|2025-12-01|2027-12-31
+614|614|Optio Autem|Mr Elliott Atkins|starożytność|<1|obraz|>1 000 000|2025-12-01|2027-12-31
+615|615|Nemo Sequi|Mrs Catherine Hopkins|czasy współczesne|<5|instalacja|<1 000 000|2025-12-01|2027-12-31
+616|616|Velit Ex|Bruce Dawson-Sutton|starożytność|<10|instalacja|<1 000 000|2025-12-01|2027-12-31
+617|617|Vitae Est|Dr Oliver Bennett|nowożytność|>=10|instalacja|<1 000 000|2025-12-01|2027-12-31
+618|618|Repellendus Doloremque|Jayne Nicholls|średniowiecze|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+619|619|Maxime Doloribus|Lindsey George|średniowiecze|>=10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+620|620|Distinctio Laudantium|Dr Stanley Davis|średniowiecze|<1|rzeźba|<10 000|2025-12-01|2027-12-31
+621|621|Nemo Expedita|Mary Carter|nowożytność|<10|obraz|<100 000|2025-12-01|2027-12-31
+622|622|Architecto Voluptas|Charlie Harding|prehistoria|>=10|grafika|<1 000 000|2025-12-01|2027-12-31
+623|623|Corporis Ipsa|Matthew Bishop-Turner|średniowiecze|<1|rzeźba|>1 000 000|2025-12-01|2027-12-31
+624|624|Corrupti Et|Chelsea Taylor-Martin|średniowiecze|>=10|obraz|<10 000|2025-12-01|2027-12-31
+625|625|Nemo Odio|Lorraine Richardson|średniowiecze|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+626|626|Voluptatibus Sapiente|Carolyn Wood|prehistoria|<10|grafika|<100 000|2025-12-01|2027-12-31
+627|627|A Laudantium|Gavin Harvey|prehistoria|<5|rzeźba|<100 000|2025-12-01|2027-12-31
+628|628|Omnis Id|Chloe Price|nowożytność|<10|fotografia|<100 000|2025-12-01|2027-12-31
+629|629|Asperiores Quis|Miss Susan Burns|prehistoria|<10|grafika|<10 000|2025-12-01|2027-12-31
+630|630|Fugiat Inventore|Hollie Murray-Arnold|prehistoria|>=10|fotografia|<10 000|2025-12-01|2027-12-31
+631|631|Tenetur Aperiam|Gavin Clarke|nowożytność|<5|rzeźba|>1 000 000|2025-12-01|2027-12-31
+632|632|Soluta Animi|Pieter Stashkov|nowożytność|<10|grafika|<10 000|2025-12-01|2027-12-31
+633|633|Ipsa Cumque|Pieter Stashkov|nowożytność|>=10|grafika|>1 000 000|2025-12-01|2027-12-31
+634|634|Iste Quo|Miss Marie Hall|starożytność|<5|obraz|<1 000 000|2025-12-01|2027-12-31
+635|635|Ratione Nulla|George Newton|prehistoria|<1|rzeźba|>1 000 000|2025-12-01|2027-12-31
+636|636|Eos Tempora|Ms Julia Burgess|nowożytność|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+637|637|Incidunt Asperiores|Ellie Bond|nowożytność|<10|rzeźba|<10 000|2025-12-01|2027-12-31
+638|638|Fugiat Adipisci|Louis Harrison-Baker|nowożytność|>=10|fotografia|<10 000|2025-12-01|2027-12-31
+639|639|Iusto Accusamus|Pieter Stashkov|średniowiecze|>=10|obraz|<1 000 000|2025-12-01|2027-12-31
+640|640|Voluptatem Autem|Alison Moore|średniowiecze|<10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+641|641|Maxime Cupiditate|Paige Walton|czasy współczesne|<1|obraz|<1 000 000|2025-12-01|2027-12-31
+642|642|Corporis Animi|Mrs Georgina Kelly|prehistoria|<10|fotografia|<1 000 000|2025-12-01|2027-12-31
+643|643|Inventore Voluptatum|Pieter Stashkov|średniowiecze|<10|instalacja|<10 000|2025-12-01|2027-12-31
+644|644|Sunt Similique|George Abbott|nowożytność|>=10|instalacja|>1 000 000|2025-12-01|2027-12-31
+645|645|Cum Doloremque|Pieter Stashkov|prehistoria|<5|obraz|<1 000 000|2025-12-01|2027-12-31
+646|646|Eius Non|Abdul Taylor-Mitchell|czasy współczesne|<1|grafika|<100 000|2025-12-01|2027-12-31
+647|647|Recusandae Molestiae|Norman Taylor|starożytność|<10|fotografia|<10 000|2025-12-01|2027-12-31
+648|648|Impedit Exercitationem|Benjamin Manning|średniowiecze|<1|rzeźba|<100 000|2025-12-01|2027-12-31
+649|649|Sequi Voluptate|Janice Baker|prehistoria|>=10|obraz|<100 000|2025-12-01|2027-12-31
+650|650|Enim Similique|Marilyn Davis|czasy współczesne|<5|fotografia|<10 000|2025-12-01|2027-12-31
+651|651|Illo Quasi|Jane Watkins|prehistoria|<10|rzeźba|<100 000|2025-12-01|2027-12-31
+652|652|Nesciunt Quisquam|Mrs Andrea Ward|nowożytność|<5|fotografia|<10 000|2025-12-01|2027-12-31
+653|653|Doloribus Pariatur|Anna Richardson|starożytność|<5|rzeźba|>1 000 000|2025-12-01|2027-12-31
+654|654|Aperiam Et|Dr Frank Brown|średniowiecze|<10|instalacja|<100 000|2025-12-01|2027-12-31
+655|655|Exercitationem Tempore|Dawn Smith|starożytność|<1|fotografia|<10 000|2025-12-01|2027-12-31
+656|656|Vero Labore|Mr Brian Moore|średniowiecze|<10|grafika|<100 000|2025-12-01|2027-12-31
+657|657|Minus Amet|Pieter Stashkov|starożytność|<1|rzeźba|<10 000|2025-12-01|2027-12-31
+658|658|Doloremque Perferendis|Diane Williams|czasy współczesne|<1|fotografia|>1 000 000|2025-12-01|2027-12-31
+659|659|Voluptatibus Autem|Dr Tina Gibson|nowożytność|<5|grafika|<1 000 000|2025-12-01|2027-12-31
+660|660|Voluptates Autem|William Knowles-Williams|prehistoria|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+661|661|Sequi Delectus|Jasmine Hall|prehistoria|>=10|fotografia|>1 000 000|2025-12-01|2027-12-31
+662|662|Aliquam Similique|Pieter Stashkov|czasy współczesne|<1|obraz|<100 000|2025-12-01|2027-12-31
+663|663|Totam Mollitia|Elizabeth Edwards|nowożytność|<10|instalacja|<10 000|2025-12-01|2027-12-31
+664|664|Asperiores Quo|Leslie Hussain|nowożytność|<1|rzeźba|<1 000 000|2025-12-01|2027-12-31
+665|665|At Beatae|Kayleigh Richards|średniowiecze|<10|grafika|>1 000 000|2025-12-01|2027-12-31
+666|666|Necessitatibus Harum|Brandon Parkinson-Hall|nowożytność|<5|fotografia|>1 000 000|2025-12-01|2027-12-31
+667|667|A Ullam|Denise Pugh|nowożytność|<10|grafika|>1 000 000|2025-12-01|2027-12-31
+668|668|Temporibus Alias|Miss Katy Butler|starożytność|<1|fotografia|<10 000|2025-12-01|2027-12-31
+669|669|Alias Aliquam|Jasmine Clarke-Williams|starożytność|>=10|fotografia|<100 000|2025-12-01|2027-12-31
+670|670|Fugit Cum|Sophie Foster|średniowiecze|<1|instalacja|>1 000 000|2025-12-01|2027-12-31
+671|671|Non Nostrum|Brian Hale|prehistoria|<1|obraz|<10 000|2025-12-01|2027-12-31
+672|672|Molestias Laborum|Pieter Stashkov|średniowiecze|<5|instalacja|<10 000|2025-12-01|2027-12-31
+673|673|Repellat Tempora|Kimberley Dale-Ellis|średniowiecze|>=10|obraz|>1 000 000|2025-12-01|2027-12-31
+674|674|Sunt Quam|Lorraine Baxter|prehistoria|<10|obraz|<1 000 000|2025-12-01|2027-12-31
+675|675|Consectetur Perspiciatis|Dr Kathleen Cox|średniowiecze|<1|rzeźba|<100 000|2025-12-01|2027-12-31
+676|676|Quos Qui|Pieter Stashkov|prehistoria|>=10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+677|677|Iste Quas|Lynn Edwards|średniowiecze|<5|fotografia|<100 000|2025-12-01|2027-12-31
+678|678|Ipsa Rem|Pieter Stashkov|nowożytność|<5|obraz|<10 000|2025-12-01|2027-12-31
+679|679|Quisquam Autem|Ben Henderson|prehistoria|>=10|fotografia|<1 000 000|2025-12-01|2027-12-31
+680|680|Quae Nobis|Pieter Stashkov|nowożytność|<5|instalacja|<100 000|2025-12-01|2027-12-31
+681|681|Odit Sapiente|Raymond Hall|prehistoria|<5|grafika|>1 000 000|2025-12-01|2027-12-31
+682|682|Nihil Dolore|Dr Leigh Dale|nowożytność|<1|instalacja|>1 000 000|2025-12-01|2027-12-31
+683|683|Neque At|Keith Bull|nowożytność|<5|instalacja|<1 000 000|2025-12-01|2027-12-31
+684|684|Eos Suscipit|Pieter Stashkov|czasy współczesne|<5|rzeźba|<1 000 000|2025-12-01|2027-12-31
+685|685|Tempora Molestiae|Joan Clarke-Parker|starożytność|<5|grafika|<1 000 000|2025-12-01|2027-12-31
+686|686|Earum Magnam|Daniel Sims|czasy współczesne|<10|obraz|<100 000|2025-12-01|2027-12-31
+687|687|Iure Ullam|Joshua Bradley|czasy współczesne|<1|obraz|<10 000|2025-12-01|2027-12-31
+688|688|Inventore Unde|Pieter Stashkov|średniowiecze|<1|fotografia|<100 000|2025-12-01|2027-12-31
+689|689|Sed Ipsum|Jayne Bell|czasy współczesne|<1|fotografia|<1 000 000|2025-12-01|2027-12-31
+690|690|Ullam Nemo|Mr Sam Marshall|czasy współczesne|<10|grafika|<10 000|2025-12-01|2027-12-31
+691|691|Illum Modi|Emma White|nowożytność|>=10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+692|692|Corporis Laudantium|Pieter Stashkov|średniowiecze|<5|grafika|<1 000 000|2025-12-01|2027-12-31
+693|693|Facere Libero|Deborah Robinson-Poole|średniowiecze|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+694|694|Atque Iure|Rachael Short-Barlow|nowożytność|<5|rzeźba|<10 000|2025-12-01|2027-12-31
+695|695|Quam Iure|Ben Kelly|prehistoria|<5|grafika|<1 000 000|2025-12-01|2027-12-31
+696|696|Architecto Repellat|Dr Rachel Smith|czasy współczesne|<5|obraz|<100 000|2025-12-01|2027-12-31
+697|697|Placeat Consequuntur|Frank Jones|starożytność|<10|fotografia|>1 000 000|2025-12-01|2027-12-31
+698|698|Quidem Ad|Harriet Johnson-Franklin|prehistoria|<10|obraz|<1 000 000|2025-12-01|2027-12-31
+699|699|Odio Numquam|Dr Adam Douglas|nowożytność|<10|obraz|<10 000|2025-12-01|2027-12-31
+700|700|Saepe Sunt|Nicholas Ball|starożytność|>=10|fotografia|<100 000|2025-12-01|2027-12-31
+701|701|Nulla Eligendi|Lindsey Smith|średniowiecze|<5|instalacja|<1 000 000|2025-12-01|2027-12-31
+702|702|Delectus Iste|Shannon Norman|prehistoria|<10|grafika|>1 000 000|2025-12-01|2027-12-31
+703|703|Incidunt Sapiente|Dennis Hunt-McKenzie|nowożytność|<1|fotografia|<10 000|2025-12-01|2027-12-31
+704|704|Et Sit|Mohammad Thompson|czasy współczesne|<5|instalacja|>1 000 000|2025-12-01|2027-12-31
+705|705|Voluptatem Eveniet|Connor Gibson|prehistoria|>=10|rzeźba|<10 000|2025-12-01|2027-12-31
+706|706|Odio Rerum|Denise Harding|czasy współczesne|<5|rzeźba|<100 000|2025-12-01|2027-12-31
+707|707|Dolorem Pariatur|Louis Morley-Hill|czasy współczesne|>=10|obraz|>1 000 000|2025-12-01|2027-12-31
+708|708|Mollitia Ullam|Mathew Daly|średniowiecze|<5|instalacja|<100 000|2025-12-01|2027-12-31
+709|709|Dicta Optio|Pieter Stashkov|starożytność|<10|grafika|<100 000|2025-12-01|2027-12-31
+710|710|Commodi Ut|Mr Francis Ford|nowożytność|<1|instalacja|>1 000 000|2025-12-01|2027-12-31
+711|711|Enim Impedit|Dr Roy Murray|czasy współczesne|<10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+712|712|Laborum Ab|Sarah Swift|nowożytność|<5|rzeźba|<1 000 000|2025-12-01|2027-12-31
+713|713|Minima Distinctio|Dominic Hayward|prehistoria|<5|fotografia|<100 000|2025-12-01|2027-12-31
+714|714|Ut Voluptatem|Louise Roberts|średniowiecze|>=10|grafika|<10 000|2025-12-01|2027-12-31
+715|715|Cumque Dignissimos|Donald Whitehouse-Howard|czasy współczesne|<10|instalacja|<1 000 000|2025-12-01|2027-12-31
+716|716|Ea Adipisci|Luke Smart|średniowiecze|<1|rzeźba|<10 000|2025-12-01|2027-12-31
+717|717|Reprehenderit Asperiores|Chloe Barry|czasy współczesne|>=10|fotografia|<10 000|2025-12-01|2027-12-31
+718|718|Cupiditate Consectetur|Pieter Stashkov|starożytność|<1|rzeźba|<1 000 000|2025-12-01|2027-12-31
+719|719|Consequuntur Ab|Alexandra Harvey|czasy współczesne|<10|instalacja|>1 000 000|2025-12-01|2027-12-31
+720|720|Odit Consectetur|Pieter Stashkov|nowożytność|<1|instalacja|<1 000 000|2025-12-01|2027-12-31
+721|721|Ea Repellat|Clive Morley|czasy współczesne|<5|rzeźba|>1 000 000|2025-12-01|2027-12-31
+722|722|Unde Modi|Jodie Jones|prehistoria|<10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+723|723|Eligendi Minus|Karl Ryan|nowożytność|<1|grafika|<100 000|2025-12-01|2027-12-31
+724|724|Quos Earum|Clive Wright-Russell|czasy współczesne|>=10|instalacja|>1 000 000|2025-12-01|2027-12-31
+725|725|Voluptatibus Rem|Hollie Burrows-Curtis|nowożytność|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+726|726|Veniam Minus|Valerie West|starożytność|<1|fotografia|<10 000|2025-12-01|2027-12-31
+727|727|Vel Distinctio|Dr Douglas Bruce|prehistoria|<5|fotografia|<10 000|2025-12-01|2027-12-31
+728|728|Animi Blanditiis|Jemma Robinson|starożytność|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+729|729|Sequi Labore|Dr Leon Smith|czasy współczesne|>=10|grafika|<100 000|2025-12-01|2027-12-31
+730|730|Consectetur Pariatur|Dr Philip Martin|starożytność|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+731|731|Veritatis Ipsam|Jamie Bird|nowożytność|>=10|instalacja|>1 000 000|2025-12-01|2027-12-31
+732|732|Impedit Ab|Dr Charlie Nicholson|starożytność|<5|fotografia|<1 000 000|2025-12-01|2027-12-31
+733|733|Itaque Illo|Mr Neil Pollard|czasy współczesne|<10|obraz|<10 000|2025-12-01|2027-12-31
+734|734|Consequuntur Labore|Pieter Stashkov|starożytność|<10|fotografia|>1 000 000|2025-12-01|2027-12-31
+735|735|Non Excepturi|Dominic James|średniowiecze|>=10|fotografia|<1 000 000|2025-12-01|2027-12-31
+736|736|Similique Blanditiis|Dr Jill Wells|średniowiecze|<5|rzeźba|<100 000|2025-12-01|2027-12-31
+737|737|Mollitia Corporis|Dr Joanna Miller|nowożytność|<5|fotografia|<10 000|2025-12-01|2027-12-31
+738|738|Reiciendis Perferendis|Charlie Clarke|nowożytność|>=10|grafika|<100 000|2025-12-01|2027-12-31
+739|739|Libero Esse|Marion Sheppard|prehistoria|<1|rzeźba|<100 000|2025-12-01|2027-12-31
+740|740|Quis Est|Miss Jill Johnson|średniowiecze|<10|obraz|<10 000|2025-12-01|2027-12-31
+741|741|Fugit Quae|Mrs Naomi Robinson|czasy współczesne|<1|rzeźba|<1 000 000|2025-12-01|2027-12-31
+742|742|Quasi Fugit|Gordon Webb-Davies|nowożytność|<5|grafika|<100 000|2025-12-01|2027-12-31
+743|743|Repellendus Sequi|Pieter Stashkov|średniowiecze|>=10|grafika|>1 000 000|2025-12-01|2027-12-31
+744|744|Earum Dolores|Fiona Weston|nowożytność|>=10|obraz|>1 000 000|2025-12-01|2027-12-31
+745|745|Iure Ducimus|Josephine Taylor|starożytność|<10|fotografia|<10 000|2025-12-01|2027-12-31
+746|746|Enim Veniam|Tracy Bailey|starożytność|<5|fotografia|<100 000|2025-12-01|2027-12-31
+747|747|Consequuntur Perferendis|Pieter Stashkov|nowożytność|<10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+748|748|Fugit Numquam|Heather Richards|średniowiecze|>=10|obraz|<10 000|2025-12-01|2027-12-31
+749|749|Aliquam Fugiat|Miss Joanna Lee|średniowiecze|<1|obraz|<10 000|2025-12-01|2027-12-31
+750|750|Neque Molestiae|Ricky King|średniowiecze|<5|instalacja|>1 000 000|2025-12-01|2027-12-31
+751|751|Commodi Accusantium|Hannah Anderson|średniowiecze|<10|instalacja|<10 000|2025-12-01|2027-12-31
+752|752|Quod Autem|Elizabeth Webb|czasy współczesne|>=10|grafika|<1 000 000|2025-12-01|2027-12-31
+753|753|Quaerat Est|Mr Rhys McLean|nowożytność|<5|rzeźba|>1 000 000|2025-12-01|2027-12-31
+754|754|Earum Exercitationem|Joel Metcalfe-Edwards|starożytność|<1|obraz|<10 000|2025-12-01|2027-12-31
+755|755|Rem Exercitationem|Nicole Hartley|czasy współczesne|<5|fotografia|<1 000 000|2025-12-01|2027-12-31
+756|756|Voluptates Explicabo|Karen Lewis|starożytność|<1|rzeźba|>1 000 000|2025-12-01|2027-12-31
+757|757|Illum Facere|Catherine Greenwood|starożytność|<10|obraz|<1 000 000|2025-12-01|2027-12-31
+758|758|Vel Maxime|Marian Green|starożytność|<5|obraz|<1 000 000|2025-12-01|2027-12-31
+759|759|Quas Deserunt|Mohammed Blackburn|nowożytność|<5|obraz|>1 000 000|2025-12-01|2027-12-31
+760|760|Nemo Repellat|Maria Williamson|prehistoria|<5|fotografia|<1 000 000|2025-12-01|2027-12-31
+761|761|Animi Eius|Deborah Cross|prehistoria|>=10|instalacja|>1 000 000|2025-12-01|2027-12-31
+762|762|Voluptates Aut|Pieter Stashkov|starożytność|<10|fotografia|<100 000|2025-12-01|2027-12-31
+763|763|Nulla Modi|Miss Gail Wilson|nowożytność|<10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+764|764|Alias Delectus|Callum Carroll|starożytność|>=10|fotografia|>1 000 000|2025-12-01|2027-12-31
+765|765|Dignissimos Quidem|Elliott King|starożytność|<1|fotografia|<100 000|2025-12-01|2027-12-31
+766|766|Culpa Nobis|Pamela Khan|starożytność|<5|obraz|<1 000 000|2025-12-01|2027-12-31
+767|767|Aut Itaque|Linda Clark|czasy współczesne|>=10|grafika|<100 000|2025-12-01|2027-12-31
+768|768|Doloribus Adipisci|Stewart Fowler|czasy współczesne|<10|grafika|>1 000 000|2025-12-01|2027-12-31
+769|769|Neque Ut|Donald Wright|starożytność|<5|grafika|<1 000 000|2025-12-01|2027-12-31
+770|770|Corporis Explicabo|Jane Ingram|prehistoria|>=10|obraz|<10 000|2025-12-01|2027-12-31
+771|771|Aliquam Optio|Maurice Butler|starożytność|>=10|fotografia|<100 000|2025-12-01|2027-12-31
+772|772|Dolorum Recusandae|Mr Geoffrey Saunders|prehistoria|<1|instalacja|<100 000|2025-12-01|2027-12-31
+773|773|Labore Earum|Dr Stanley Hayward|starożytność|<10|instalacja|<1 000 000|2025-12-01|2027-12-31
+774|774|Quas Totam|Ms Tracey Bell|prehistoria|<1|grafika|<1 000 000|2025-12-01|2027-12-31
+775|775|Reiciendis Debitis|Kieran Hargreaves|prehistoria|<10|obraz|>1 000 000|2025-12-01|2027-12-31
+776|776|Ex Quo|Heather Owen|starożytność|<1|grafika|<100 000|2025-12-01|2027-12-31
+777|777|Nemo Beatae|Mr Brandon Davies|nowożytność|>=10|obraz|<100 000|2025-12-01|2027-12-31
+778|778|Adipisci Quibusdam|Nicola Rowe|starożytność|>=10|fotografia|<10 000|2025-12-01|2027-12-31
+779|779|Deserunt Maxime|Rita Jackson-Mistry|starożytność|>=10|instalacja|<1 000 000|2025-12-01|2027-12-31
+780|780|Repellendus Eaque|Natalie Moss|nowożytność|<1|fotografia|<10 000|2025-12-01|2027-12-31
+781|781|Illum Corporis|Mr Bradley Webb|starożytność|>=10|obraz|>1 000 000|2025-12-01|2027-12-31
+782|782|Incidunt Eaque|Natasha Williams|nowożytność|<10|grafika|>1 000 000|2025-12-01|2027-12-31
+783|783|Delectus Tempore|Mrs Kathryn Jones|czasy współczesne|<1|fotografia|>1 000 000|2025-12-01|2027-12-31
+784|784|Neque Ut|Aimee Hughes|czasy współczesne|<1|obraz|<1 000 000|2025-12-01|2027-12-31
+785|785|Sequi Consequatur|Sian Lucas|czasy współczesne|>=10|fotografia|<100 000|2025-12-01|2027-12-31
+786|786|Quibusdam Adipisci|Pieter Stashkov|nowożytność|<10|instalacja|>1 000 000|2025-12-01|2027-12-31
+787|787|Debitis Iure|Harry Powell|starożytność|<1|grafika|<1 000 000|2025-12-01|2027-12-31
+788|788|Laborum Voluptas|Pieter Stashkov|starożytność|<5|rzeźba|>1 000 000|2025-12-01|2027-12-31
+789|789|Beatae Consequuntur|Joe Hughes|starożytność|<5|instalacja|>1 000 000|2025-12-01|2027-12-31
+790|790|Rem Quasi|Pieter Stashkov|czasy współczesne|<5|rzeźba|<10 000|2025-12-01|2027-12-31
+791|791|Tenetur Similique|Lewis Brown|średniowiecze|<5|fotografia|<100 000|2025-12-01|2027-12-31
+792|792|Perspiciatis Unde|Pieter Stashkov|nowożytność|<5|instalacja|<10 000|2025-12-01|2027-12-31
+793|793|Corrupti Vel|Anna Watts|prehistoria|<1|rzeźba|<1 000 000|2025-12-01|2027-12-31
+794|794|Voluptas Aspernatur|Donald Parkes|średniowiecze|<10|obraz|>1 000 000|2025-12-01|2027-12-31
+795|795|Recusandae Iusto|Dr Raymond Middleton|nowożytność|<5|grafika|<100 000|2025-12-01|2027-12-31
+796|796|Minima Mollitia|Mr Bernard Williams|nowożytność|<5|grafika|<1 000 000|2025-12-01|2027-12-31
+797|797|Ipsa Eligendi|Jacqueline King|starożytność|<10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+798|798|Nobis Minus|Donald Hill|prehistoria|>=10|instalacja|<1 000 000|2025-12-01|2027-12-31
+799|799|Reiciendis Iusto|Pieter Stashkov|nowożytność|<5|rzeźba|<1 000 000|2025-12-01|2027-12-31
+800|800|Sed In|Mary Gardner|prehistoria|>=10|grafika|<10 000|2025-12-01|2027-12-31
+801|801|Voluptate Ipsam|Jill Stephens|średniowiecze|>=10|fotografia|>1 000 000|2025-12-01|2027-12-31
+802|802|Maiores Vitae|Denis Kay|starożytność|<1|obraz|<10 000|2025-12-01|2027-12-31
+803|803|Eius Quaerat|Miss Leah Smith|starożytność|<1|fotografia|<100 000|2025-12-01|2027-12-31
+804|804|Tenetur Eos|Gemma Thompson-Matthews|starożytność|<5|fotografia|<100 000|2025-12-01|2027-12-31
+805|805|Doloremque Ipsa|Mrs Lesley King|średniowiecze|>=10|rzeźba|<100 000|2025-12-01|2027-12-31
+806|806|Voluptas Consequuntur|Dr Tracey Payne|prehistoria|<10|grafika|>1 000 000|2025-12-01|2027-12-31
+807|807|Pariatur Facilis|Timothy Davies|starożytność|<10|instalacja|<1 000 000|2025-12-01|2027-12-31
+808|808|Expedita Saepe|Karl Lawrence|średniowiecze|<1|fotografia|<10 000|2025-12-01|2027-12-31
+809|809|Mollitia Architecto|Pieter Stashkov|nowożytność|>=10|fotografia|>1 000 000|2025-12-01|2027-12-31
+810|810|Consequatur Occaecati|Julie Cox|czasy współczesne|>=10|obraz|<100 000|2025-12-01|2027-12-31
+811|811|Recusandae Ea|Anna Richards|prehistoria|<5|grafika|<10 000|2025-12-01|2027-12-31
+812|812|Excepturi Perferendis|Dr David Roberts|nowożytność|>=10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+813|813|Expedita Delectus|Brenda Stone-Weston|starożytność|<1|rzeźba|<1 000 000|2025-12-01|2027-12-31
+814|814|Perferendis Harum|Jay Bentley-Swift|nowożytność|>=10|instalacja|>1 000 000|2025-12-01|2027-12-31
+815|815|Assumenda Debitis|Pieter Stashkov|średniowiecze|<1|rzeźba|>1 000 000|2025-12-01|2027-12-31
+816|816|Debitis Soluta|Melissa Hargreaves|czasy współczesne|>=10|instalacja|<1 000 000|2025-12-01|2027-12-31
+817|817|Vero Magnam|Olivia Ahmed-Gilbert|nowożytność|<5|instalacja|>1 000 000|2025-12-01|2027-12-31
+818|818|Corrupti Quo|Pieter Stashkov|starożytność|<1|rzeźba|<1 000 000|2025-12-01|2027-12-31
+819|819|Quo Consequuntur|Pieter Stashkov|czasy współczesne|<1|obraz|<1 000 000|2025-12-01|2027-12-31
+820|820|Est Vero|Michelle Carter|starożytność|<5|fotografia|<1 000 000|2025-12-01|2027-12-31
+821|821|Hic Esse|Gillian Howells|czasy współczesne|<5|instalacja|<100 000|2025-12-01|2027-12-31
+822|822|Eius Praesentium|Mr Robert Shaw|prehistoria|<5|grafika|<10 000|2025-12-01|2027-12-31
+823|823|Soluta Recusandae|Miss Jade Smith|średniowiecze|<10|fotografia|<10 000|2025-12-01|2027-12-31
+824|824|At Hic|Pieter Stashkov|czasy współczesne|<10|rzeźba|<10 000|2025-12-01|2027-12-31
+825|825|Dolorum Accusamus|John Gibson|nowożytność|>=10|fotografia|<100 000|2025-12-01|2027-12-31
+826|826|Sequi Fugiat|Pieter Stashkov|średniowiecze|<5|fotografia|>1 000 000|2025-12-01|2027-12-31
+827|827|Cumque Consectetur|Claire Newman|nowożytność|>=10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+828|828|Tenetur Illum|Gerald Hughes|czasy współczesne|<10|instalacja|>1 000 000|2025-12-01|2027-12-31
+829|829|Enim Ea|Mark Fitzgerald|nowożytność|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+830|830|Occaecati A|Annette Marshall|średniowiecze|<10|grafika|<1 000 000|2025-12-01|2027-12-31
+831|831|Eum Odio|Conor Burke|nowożytność|<1|rzeźba|<1 000 000|2025-12-01|2027-11-24
+832|832|Illum Maxime|Dennis Morley|starożytność|>=10|grafika|<1 000 000|2025-12-01|2026-08-03
+833|833|Similique Distinctio|Carole Parker-Harris|czasy współczesne|<1|fotografia|<100 000|2025-12-01|2027-12-31
+834|834|Vitae Suscipit|Ruth Harrison-Buckley|nowożytność|<10|instalacja|<100 000|2025-12-01|2027-12-31
+835|835|Eum Et|Louis White|czasy współczesne|<5|fotografia|<10 000|2025-12-01|2027-12-31
+836|836|Earum Quas|Marion Robinson|średniowiecze|<1|obraz|<1 000 000|2025-12-01|2027-12-31
+837|837|Dignissimos Exercitationem|Pieter Stashkov|czasy współczesne|<1|grafika|<10 000|2025-12-01|2027-12-31
+838|838|Facilis Soluta|Naomi Davies|nowożytność|>=10|obraz|<1 000 000|2025-12-01|2027-12-31
+839|839|Magnam Iusto|Amy Whittaker-Robinson|starożytność|<1|grafika|<1 000 000|2025-12-01|2027-12-31
+840|840|Non Dignissimos|Pieter Stashkov|czasy współczesne|<5|grafika|<1 000 000|2025-12-01|2027-12-31
+841|841|Pariatur Doloribus|Pieter Stashkov|prehistoria|<1|obraz|>1 000 000|2025-12-01|2027-12-31
+842|842|Dolorem Rem|Fiona Reed|prehistoria|>=10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+843|843|Ex Hic|Graeme White|prehistoria|>=10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+844|844|Ea Harum|Mrs Jenna Kelly|czasy współczesne|<5|rzeźba|<10 000|2025-12-01|2027-12-31
+845|845|Nostrum Quas|Ellie Morton-Lewis|nowożytność|<1|obraz|<1 000 000|2025-12-01|2027-12-31
+846|846|Repudiandae Numquam|Ms Ashleigh Lyons|nowożytność|<5|rzeźba|<10 000|2025-12-01|2027-12-31
+847|847|Amet Eveniet|Mr Martin Hargreaves|starożytność|<1|rzeźba|>1 000 000|2025-12-01|2027-12-31
+848|848|Iure Maiores|Shirley Cox|nowożytność|<10|grafika|<10 000|2025-12-01|2027-12-31
+849|849|Laboriosam Beatae|Lauren Smith|czasy współczesne|<1|rzeźba|<10 000|2025-12-01|2027-12-31
+850|850|Quos A|Dr Nigel Watson|nowożytność|>=10|grafika|<10 000|2025-12-01|2027-12-31
+851|851|Magni Tempore|Emily Richardson-Willis|prehistoria|<1|grafika|<1 000 000|2025-12-01|2027-12-31
+852|852|Numquam Temporibus|Mrs Jayne Fisher|prehistoria|<5|instalacja|>1 000 000|2025-12-01|2027-12-31
+853|853|Assumenda Facere|Ellie Boyle|średniowiecze|>=10|rzeźba|<100 000|2025-12-01|2027-12-31
+854|854|Blanditiis Laborum|Simon Sullivan-Smith|średniowiecze|<10|fotografia|<10 000|2025-12-01|2027-12-31
+855|855|Doloribus Voluptatibus|Pieter Stashkov|nowożytność|<10|fotografia|>1 000 000|2025-12-01|2027-12-31
+856|856|Eaque Vero|Mr Oliver Lambert|prehistoria|>=10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+857|857|Cum Molestias|Ashleigh Matthews-Conway|średniowiecze|<5|grafika|<10 000|2025-12-01|2027-12-31
+858|858|Velit Dolore|Christopher Hope|czasy współczesne|>=10|grafika|<100 000|2025-12-01|2027-12-31
+859|859|Voluptatum Incidunt|Connor Houghton|średniowiecze|<10|fotografia|<100 000|2025-12-01|2027-12-31
+860|860|Qui Quibusdam|Alice Humphreys|nowożytność|<1|obraz|<100 000|2025-12-01|2027-12-31
+861|861|Aliquid Dicta|Dr Neil Young|nowożytność|<1|obraz|>1 000 000|2025-12-01|2027-12-31
+862|862|Nesciunt Veniam|Pieter Stashkov|nowożytność|<10|fotografia|<10 000|2025-12-01|2027-12-31
+863|863|Dolorem Esse|Margaret Begum-Tyler|prehistoria|<5|grafika|<10 000|2025-12-01|2027-12-31
+864|864|Laborum Libero|Miss Janice Turner|średniowiecze|<1|obraz|<1 000 000|2025-12-01|2027-12-31
+865|865|Facilis Quis|Pieter Stashkov|czasy współczesne|<10|grafika|>1 000 000|2025-12-01|2027-12-31
+866|866|Iure Tenetur|Rachael Armstrong-Hawkins|starożytność|<5|instalacja|<100 000|2025-12-01|2027-12-31
+867|867|Tempore Praesentium|Patricia Thompson|starożytność|<1|fotografia|<100 000|2025-12-01|2027-12-31
+868|868|Vitae Porro|Georgina Wong|średniowiecze|>=10|grafika|<1 000 000|2025-12-01|2027-12-31
+869|869|Praesentium Eum|Pieter Stashkov|nowożytność|<5|grafika|<100 000|2025-12-01|2027-12-31
+870|870|Itaque Voluptates|Sylvia Hall|czasy współczesne|<5|instalacja|<10 000|2025-12-01|2027-12-31
+871|871|Facilis Minima|Rosie Whittaker|średniowiecze|<1|grafika|<100 000|2025-12-01|2027-12-31
+872|872|Qui Atque|Dr Kimberley Edwards|czasy współczesne|<10|rzeźba|<100 000|2025-12-01|2027-12-31
+873|873|Minus Animi|Dr Dale Howard|prehistoria|<10|fotografia|<1 000 000|2025-12-01|2027-12-31
+874|874|Ut Odit|Rachael Harris|czasy współczesne|>=10|grafika|>1 000 000|2025-12-01|2027-12-31
+875|875|Cupiditate Nemo|Lawrence Dunn|średniowiecze|<5|fotografia|<100 000|2025-12-01|2027-12-31
+876|876|Quibusdam Odit|Roger Henderson|czasy współczesne|<5|fotografia|<100 000|2025-12-01|2027-12-31
+877|877|Excepturi Earum|Marion Birch|nowożytność|<10|obraz|>1 000 000|2025-12-01|2027-12-31
+878|878|Praesentium Error|Amelia Wheeler|prehistoria|<5|rzeźba|>1 000 000|2025-12-01|2027-12-31
+879|879|Nesciunt Reprehenderit|Gregory Gray|czasy współczesne|<5|grafika|<100 000|2025-12-01|2027-12-31
+880|880|Architecto Magnam|Arthur Anderson|średniowiecze|<10|obraz|>1 000 000|2025-12-01|2027-12-31
+881|881|Explicabo Provident|Mrs Frances Evans|średniowiecze|<1|fotografia|>1 000 000|2025-12-01|2027-12-31
+882|882|Nesciunt Tempora|Pieter Stashkov|starożytność|<10|obraz|<1 000 000|2025-12-01|2027-12-31
+883|883|Nisi Repellendus|Miss Nicole Clarke|czasy współczesne|<1|obraz|<100 000|2025-12-01|2027-12-31
+884|884|Deleniti Dolorem|Kayleigh Smith-Campbell|czasy współczesne|<5|instalacja|>1 000 000|2025-12-01|2027-12-31
+885|885|Quis Itaque|Paula Wall|czasy współczesne|<10|rzeźba|<10 000|2025-12-01|2027-12-31
+886|886|Ad Aut|Pieter Stashkov|czasy współczesne|<1|rzeźba|<1 000 000|2025-12-01|2027-12-31
+887|887|Cum Incidunt|Pieter Stashkov|czasy współczesne|>=10|grafika|>1 000 000|2025-12-01|2027-12-31
+888|888|Dignissimos Ratione|Pieter Stashkov|średniowiecze|<1|instalacja|<100 000|2025-12-01|2027-12-31
+889|889|Officia Illo|Alan Saunders|nowożytność|<1|fotografia|<1 000 000|2025-12-01|2027-12-31
+890|890|Dolores Deleniti|Dr Lawrence Parsons|czasy współczesne|<10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+891|891|Explicabo In|Damian Hall-Williams|starożytność|<10|rzeźba|<1 000 000|2025-12-01|2027-12-31
+892|892|Minima Reprehenderit|Ms Susan Lewis|prehistoria|<1|rzeźba|<10 000|2025-12-01|2027-12-31
+893|893|Ullam Voluptatibus|Dr Damien Cook|nowożytność|<5|fotografia|<10 000|2025-12-01|2027-12-31
+894|894|Omnis Animi|Jack Alexander|średniowiecze|<5|rzeźba|<100 000|2025-12-01|2027-12-31
+895|895|Illum Tenetur|Pieter Stashkov|średniowiecze|<10|rzeźba|<10 000|2025-12-01|2027-12-31
+896|896|Reprehenderit Minus|Georgina Newman|średniowiecze|<10|rzeźba|>1 000 000|2025-12-01|2027-12-31
+897|897|Voluptatem Delectus|Pieter Stashkov|czasy współczesne|<10|obraz|<100 000|2025-12-01|2027-12-31
+898|898|Reprehenderit Veritatis|Dr Jessica Powell|czasy współczesne|<1|obraz|>1 000 000|2025-12-01|2027-12-31
+899|899|Fugit Dignissimos|Dr Shannon Baker|czasy współczesne|<5|rzeźba|<100 000|2025-12-01|2027-12-31
+900|900|Accusantium A|Mrs Marion Harris|starożytność|>=10|grafika|<1 000 000|2025-12-01|2027-12-27
+901|202|Dolorem Exercitationem|Adrian Wilson|starożytność|<1|fotografia|<100 000|2026-04-08|2027-12-31
+902|832|Illum Maxime|Dennis Morley|starożytność|>=10|grafika|<100 000|2026-08-04|2027-12-31
+903|184|Consequuntur Quo|Mr Clive Brown|prehistoria|>=10|instalacja|<100 000|2027-10-15|2027-12-31
+904|831|Eum Odio|Conor Burke|nowożytność|<1|rzeźba|<10 000|2027-11-25|2027-12-31
+905|900|Accusantium A|Mrs Marion Harris|starożytność|>=10|grafika|>1 000 000|2027-12-28|2027-12-31
+906|560|Possimus Libero|Mrs Nicole Cole|starożytność|<1|grafika|<100 000|2027-12-31|2027-12-31
