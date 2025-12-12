@@ -1,0 +1,32 @@
+-- 3. Czy nowe rozmieszczenie eksponatów miało wpływ na amplitudę średniej czasu przebywania w salach?
+WITH
+MEMBER [Measures].[Avg Duration Amplitude - Current Month] AS
+(
+MAX([Room].[Number].Members, ([Measures].[Avg Visit Dutarion], [Date].[Date Hierarchy].CurrentMember))
+- MIN([Room].[Number].Members, ([Measures].[Avg Visit Dutarion], [Date].[Date Hierarchy].CurrentMember))
+)
+MEMBER [Measures].[Avg Duration Amplitude - Previous Month] AS
+(
+MAX([Room].[Number].Members,
+([Measures].[Avg Visit Dutarion], ParallelPeriod([Date].[Date Hierarchy].[Month], 1, [Date].[Date Hierarchy].CurrentMember))) - MIN([Room].[Number].Members,
+([Measures].[Avg Visit Dutarion], ParallelPeriod([Date].[Date Hierarchy].[Month], 1, [Date].[Date Hierarchy].CurrentMember)))
+)
+MEMBER [Measures].[Avg Duration Amplitude % Change] AS
+IIF(
+[Measures].[Avg Duration Amplitude - Previous Month] = 0,
+NULL,
+(
+([Measures].[Avg Duration Amplitude - Current Month] - [Measures].[Avg Duration Amplitude - Previous Month])
+/ [Measures].[Avg Duration Amplitude - Previous Month]
+) * 100
+)
+SELECT
+{
+[Measures].[Avg Duration Amplitude - Previous Month],
+[Measures].[Avg Duration Amplitude - Current Month],
+[Measures].[Avg Duration Amplitude % Change]
+} ON COLUMNS
+FROM [Museum DB 1]
+WHERE (
+[Date].[Date Hierarchy].[Month].&[2]
+)
