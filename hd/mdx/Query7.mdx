@@ -13,11 +13,15 @@ SELECT
 [Measures].[Visits - Previous Month],
 [Measures].[Visits Change]
 } ON COLUMNS,
+ORDER(
 {
-	TopCount([Room].[Number].Members, 3, [Measures].[Visits Change]),
-	BottomCount([Room].[Number].Members, 3, [Measures].[Visits Change])
-} ON ROWS
+TopCount([Room].[Number].Children, 3, [Measures].[Visits Change]),
+BottomCount([Room].[Number].Children, 3, [Measures].[Visits Change])
+},
+[Measures].[Visits Change],
+BDESC
+) ON ROWS
 FROM [Museum DB 1]
 WHERE (
-[Date].[Date Hierarchy].[Month].&[12]
+[Date].[Date Hierarchy].[Month].&[1]
 )
